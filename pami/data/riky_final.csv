@@ -1,0 +1,811 @@
+connector_evse_id,station_name,station_address,station_postal_code,station_coordinates_lat,station_coordinates_lon,station_brand,totEnergy,totSessions,totCost,Potenza (kW),Station Città,Ricavi totali (€) (IVA esclusa),Tempo Totale (min),denominazione_regione,EV_percentage_per_region
+IT*F2X*EF2XITA2151*1,Area di Servizio - Arda Ovest,A1 - Autostrada del Sole,29017,44.96266,9.90426,EVTEC,4195.081,201,2312.77,62.5,Fiorenzuola d'Arda,2044.24,5064.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2151*2,Area di Servizio - Arda Ovest,A1 - Autostrada del Sole,29017,44.96266,9.90426,EVTEC,1273.4409999999998,80,700.4,62.5,Fiorenzuola d'Arda,666.06,2720.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2151*3,Area di Servizio - Arda Ovest,A1 - Autostrada del Sole,29017,44.96266,9.90426,EVTEC,2097.307999999999,297,944.33,22.0,Fiorenzuola d'Arda,773.02,10326.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN3001*1,Area di Servizio - Rubicone Est,A14 - Autostrada Adriatica,47039,44.116922,12.409015,alpitronic GmbH,40645.66799999995,1220,27640.46,300.0,Savignano sul Rubicone,23618.83,26046.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN3001*2,Area di Servizio - Rubicone Est,A14 - Autostrada Adriatica,47039,44.116922,12.409015,alpitronic GmbH,36914.25200000003,1096,25102.3,300.0,Savignano sul Rubicone,18580.26,21955.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITD2051*1,Area di Servizio - Brianza Nord,A4 Torino - Trieste,20864,45.57589,9.39336,EVTEC,2465.812000000001,149,1356.24,62.5,Caponago,1446.77,3574.0,Lombardia,0.0767
+IT*F2X*EF2XITD2051*2,Area di Servizio - Brianza Nord,A4 Torino - Trieste,20864,45.57589,9.39336,EVTEC,717.9759999999998,55,389.77,62.5,Caponago,480.38,1675.0,Lombardia,0.0767
+IT*F2X*EF2XITD2051*3,Area di Servizio - Brianza Nord,A4 Torino - Trieste,20864,45.57589,9.39336,EVTEC,1301.2609999999993,177,586.78,22.0,Caponago,684.45,9507.0,Lombardia,0.0767
+IT*F2X*EF2XITA9651*1,Area di Servizio - Giove Ovest,A1 - Autostrada del Sole,5024,42.49917,12.31096,alpitronic GmbH,342.15199999999993,28,188.16,50.0,Giove,272.9,1010.0,Umbria,0.0385
+IT*F2X*EF2XITA9651*2,Area di Servizio - Giove Ovest,A1 - Autostrada del Sole,5024,42.49917,12.31096,alpitronic GmbH,1037.838,211,469.18,22.0,Giove,481.43,6761.0,Umbria,0.0385
+IT*F2X*EF2XITN3002*1,Area di Servizio - Rubicone Est,A14 - Autostrada Adriatica,47039,44.11693,12.408955,alpitronic GmbH,36338.61999999998,1098,24778.99,300.0,Savignano sul Rubicone,20903.76,22907.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA9602*1,Area di Servizio - Giove Ovest,A1 - Autostrada del Sole,5024,42.49929,12.31107,alpitronic GmbH,27303.99200000002,875,18547.57,300.0,Giove,19010.57,22652.0,Umbria,0.0385
+IT*F2X*EF2XITA9602*2,Area di Servizio - Giove Ovest,A1 - Autostrada del Sole,5024,42.49929,12.31107,alpitronic GmbH,23121.676,708,15707.86,300.0,Giove,17260.24,20511.0,Umbria,0.0385
+IT*F2X*EF2XITA9601*1,Area di Servizio - Giove Ovest,A1 - Autostrada del Sole,5024,42.49927,12.31106,alpitronic GmbH,27132.45200000002,848,18461.65,300.0,Giove,19342.18,24676.0,Umbria,0.0385
+IT*F2X*EF2XITA9601*2,Area di Servizio - Giove Ovest,A1 - Autostrada del Sole,5024,42.49927,12.31106,alpitronic GmbH,19023.931999999997,579,12910.7,300.0,Giove,12395.09,14937.0,Umbria,0.0385
+IT*F2X*EF2XITN3002*2,Area di Servizio - Rubicone Est,A14 - Autostrada Adriatica,47039,44.11693,12.408955,alpitronic GmbH,37471.236,1194,25487.79,300.0,Savignano sul Rubicone,18993.64,21750.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITW3001*1,Area di Servizio - Fella Est,A23 Autostrada Palmanova-Tarvisio,33010,46.498992,13.375473,alpitronic GmbH,24764.124000000007,706,16840.19,300.0,Malborghetto Valbruna,1813.68,2084.0,Friuli-Venezia Giulia,0.0551
+IT*F2X*EF2XITW3001*2,Area di Servizio - Fella Est,A23 Autostrada Palmanova-Tarvisio,33010,46.498992,13.375473,alpitronic GmbH,41818.47499999995,1098,28449.04,300.0,Malborghetto Valbruna,4468.26,4742.0,Friuli-Venezia Giulia,0.0551
+IT*F2X*EF2XITW3002*1,Area di Servizio - Fella Est,A23 Autostrada Palmanova-Tarvisio,33010,46.498977,13.375566,alpitronic GmbH,20377.872999999978,573,13856.97,300.0,Malborghetto Valbruna,1781.56,2015.0,Friuli-Venezia Giulia,0.0551
+IT*F2X*EF2XITN3051*1,Area di Servizio - Rubicone Est,A14 - Autostrada Adriatica,47039,44.116774,12.408953,EVTEC,3213.3249999999994,145,1767.27,62.5,Savignano sul Rubicone,899.99,1988.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITW3002*2,Area di Servizio - Fella Est,A23 Autostrada Palmanova-Tarvisio,33010,46.498977,13.375566,alpitronic GmbH,32144.875000000036,835,21858.45,300.0,Malborghetto Valbruna,3140.11,3030.0,Friuli-Venezia Giulia,0.0551
+IT*F2X*EF2XITW3051*1,Area di Servizio - Fella Est,A23 Autostrada Palmanova-Tarvisio,33010,46.499013,13.3754,EVTEC,3741.771999999999,179,2057.9,62.5,Malborghetto Valbruna,105.87,234.0,Friuli-Venezia Giulia,0.0551
+IT*F2X*EF2XITW3051*2,Area di Servizio - Fella Est,A23 Autostrada Palmanova-Tarvisio,33010,46.499013,13.3754,EVTEC,324.661,24,180.2,62.5,Malborghetto Valbruna,26.29,97.0,Friuli-Venezia Giulia,0.0551
+IT*F2X*EF2XITW3051*3,Area di Servizio - Fella Est,A23 Autostrada Palmanova-Tarvisio,33010,46.499013,13.3754,EVTEC,258.777,51,116.43,22.0,Malborghetto Valbruna,20.1,224.0,Friuli-Venezia Giulia,0.0551
+IT*F2X*EF2XITN3051*2,Area di Servizio - Rubicone Est,A14 - Autostrada Adriatica,47039,44.116774,12.408953,EVTEC,699.901,42,384.93,62.5,Savignano sul Rubicone,514.66,1943.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITH1101*1,Area di Servizio - Villoresi Ovest,A08 MILANO-VARESE,20020,45.558758,9.039773,alpitronic GmbH,12931.165000000008,397,8798.89,,,,,Lombardia,0.0767
+IT*F2X*EF2XITN5601*1,Area di Servizio - Conero Ovest,A14 - Autostrada Adriatica,60026,43.481229,13.594777,alpitronic GmbH,23942.274999999987,809,16339.45,300.0,Numana,15117.33,16681.0,Marche,0.0407
+IT*F2X*EF2XITN5601*2,Area di Servizio - Conero Ovest,A14 - Autostrada Adriatica,60026,43.481229,13.594777,alpitronic GmbH,10684.25600000001,313,7236.53,300.0,Numana,6608.52,7665.0,Marche,0.0407
+IT*F2X*EF2XITN3051*3,Area di Servizio - Rubicone Est,A14 - Autostrada Adriatica,47039,44.116774,12.408953,EVTEC,593.3889999999998,123,267.14,22.0,Savignano sul Rubicone,147.01,2077.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITH1101*2,Area di Servizio - Villoresi Ovest,A08 MILANO-VARESE,20020,45.558758,9.039773,alpitronic GmbH,11876.490000000002,326,8094.43,,,,,Lombardia,0.0767
+IT*F2X*EF2XITH1102*1,Area di Servizio - Villoresi Ovest,A08 MILANO-VARESE,20020,45.558733,9.039827,alpitronic GmbH,11656.777999999997,398,7914.29,,,,,Lombardia,0.0767
+IT*F2X*EF2XITH1102*2,Area di Servizio - Villoresi Ovest,A08 MILANO-VARESE,20020,45.558733,9.039827,alpitronic GmbH,13356.459999999995,406,9093.07,,,,,Lombardia,0.0767
+IT*F2X*EF2XITN5602*1,Area di Servizio - Conero Ovest,A14 - Autostrada Adriatica,60026,43.481183,13.594838,alpitronic GmbH,16488.908,529,11221.05,300.0,Numana,17720.93,19057.0,Marche,0.0407
+IT*F2X*EF2XITN5602*2,Area di Servizio - Conero Ovest,A14 - Autostrada Adriatica,60026,43.481183,13.594838,alpitronic GmbH,18466.159999999993,562,12550.04,300.0,Numana,17032.64,18847.0,Marche,0.0407
+IT*F2X*EF2XITH1151*1,Area di Servizio - Villoresi Ovest,A08 MILANO-VARESE,20020,45.558677,9.039933,EVTEC,2211.0370000000007,100,1214.12,,,,,Lombardia,0.0767
+IT*F2X*EF2XITH1151*2,Area di Servizio - Villoresi Ovest,A08 MILANO-VARESE,20020,45.558677,9.039933,EVTEC,260.124,21,143.07,,,,,Lombardia,0.0767
+IT*F2X*EF2XITH1151*3,Area di Servizio - Villoresi Ovest,A08 MILANO-VARESE,20020,45.558677,9.039933,EVTEC,315.65399999999994,67,142.07,,,,,Lombardia,0.0767
+IT*F2X*EF2XITN5651*2,Area di Servizio - Conero Ovest,A14 - Autostrada Adriatica,60026,43.481079,13.594935,EVTEC,183.987,17,101.2,62.5,Numana,322.65,1493.0,Marche,0.0407
+IT*F2X*EF2XITN5651*3,Area di Servizio - Conero Ovest,A14 - Autostrada Adriatica,60026,43.481079,13.594935,EVTEC,403.6059999999999,96,181.62,22.0,Numana,213.6,4503.0,Marche,0.0407
+IT*F2X*EF2XITA3701*1,Area di Servizio - Badia Nuova Ovest,A1 var. - Variante di Valico,40035,44.15106,11.19363,alpitronic GmbH,41809.55199999993,1286,28444.59,300.0,Castiglione dei Pepoli,20793.27,24048.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3701*2,Area di Servizio - Badia Nuova Ovest,A1 var. - Variante di Valico,40035,44.15106,11.19363,alpitronic GmbH,38578.77799999997,1106,26245.08,300.0,Castiglione dei Pepoli,17939.8,20281.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3702*1,Area di Servizio - Badia Nuova Ovest,A1 var. - Variante di Valico,40035,44.151067,11.193595,alpitronic GmbH,41097.976000000075,1268,27936.54,300.0,Castiglione dei Pepoli,15032.11,17934.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITX5051*1,Area di Servizio - Monferrato Est,A26 Autostrada dei Trafori,15040,45.07458,8.511,EVTEC,2158.7989999999995,120,1187.33,62.5,Occimiano,826.66,2090.0,Piemonte,0.0732
+IT*F2X*EF2XITX5051*2,Area di Servizio - Monferrato Est,A26 Autostrada dei Trafori,15040,45.07458,8.511,EVTEC,412.261,30,226.75,62.5,Occimiano,254.48,1039.0,Piemonte,0.0732
+IT*F2X*EF2XITA3702*2,Area di Servizio - Badia Nuova Ovest,A1 var. - Variante di Valico,40035,44.151067,11.193595,alpitronic GmbH,44815.05400000006,1301,30474.41,300.0,Castiglione dei Pepoli,14497.2,16495.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITX5151*1,Area di Servizio - Monferrato Ovest,A26 Autostrada dei Trafori,15040,45.074825,8.508883,EVTEC,4317.472000000002,186,2374.59,62.5,Occimiano,1263.69,3039.0,Piemonte,0.0732
+IT*F2X*EF2XITX5151*2,Area di Servizio - Monferrato Ovest,A26 Autostrada dei Trafori,15040,45.074825,8.508883,EVTEC,571.2370000000001,34,314.16,62.5,Occimiano,196.94,893.0,Piemonte,0.0732
+IT*F2X*EF2XITX5151*3,Area di Servizio - Monferrato Ovest,A26 Autostrada dei Trafori,15040,45.074825,8.508883,EVTEC,607.688,108,273.43,22.0,Occimiano,228.11,3153.0,Piemonte,0.0732
+IT*F2X*EF2XITA3751*1,Area di Servizio - Badia Nuova Ovest,A1 var. - Variante di Valico,40035,44.151305,11.193514,EVTEC,5133.834999999997,220,2823.66,62.5,Castiglione dei Pepoli,1197.96,2686.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3751*2,Area di Servizio - Badia Nuova Ovest,A1 var. - Variante di Valico,40035,44.151305,11.193514,EVTEC,546.9449999999999,33,300.79,62.5,Castiglione dei Pepoli,270.34,1086.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3751*3,Area di Servizio - Badia Nuova Ovest,A1 var. - Variante di Valico,40035,44.151305,11.193514,EVTEC,1089.7719999999997,215,490.45,22.0,Castiglione dei Pepoli,274.19,3963.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITP2102*1,Area di Servizio - Irpinia Sud,Autostrada dei due Mari,83100,40.92538,14.7831,alpitronic GmbH,13986.866000000002,455,9664.81,300.0,Avellino,11916.45,13452.0,Campania,0.0206
+IT*F2X*EF2XITP2102*2,Area di Servizio - Irpinia Sud,Autostrada dei due Mari,83100,40.92538,14.7831,alpitronic GmbH,6658.760999999998,190,4612.83,300.0,Avellino,4115.71,4950.0,Campania,0.0206
+IT*F2X*EF2XITP2101*1,Area di Servizio - Irpinia Sud,Autostrada dei due Mari,83100,40.925431,14.783183,alpitronic GmbH,19548.693999999996,647,13326.19,300.0,Avellino,10279.31,12435.0,Campania,0.0206
+IT*F2X*EF2XITP2101*2,Area di Servizio - Irpinia Sud,Autostrada dei due Mari,83100,40.925431,14.783183,alpitronic GmbH,16598.08799999999,486,11281.65,300.0,Avellino,6215.14,7756.0,Campania,0.0206
+IT*F2X*EF2XITG7051*1,Area di Servizio - Giovi Est,A7 - Autostrada dei Giovi,16019,44.603716,8.953862,EVTEC,941.39,51,517.81,62.5,Ronco Scrivia,280.7,766.0,Liguria,0.0664
+IT*F2X*EF2XITG7051*2,Area di Servizio - Giovi Est,A7 - Autostrada dei Giovi,16019,44.603716,8.953862,EVTEC,242.476,19,133.35,62.5,Ronco Scrivia,93.67,376.0,Liguria,0.0664
+IT*F2X*EF2XITG7051*3,Area di Servizio - Giovi Est,A7 - Autostrada dei Giovi,16019,44.603716,8.953862,EVTEC,398.01799999999986,71,179.12,22.0,Ronco Scrivia,143.6,2143.0,Liguria,0.0664
+IT*F2X*EF2XITX2051*1,Area di Servizio - Stura Est,A26 - Autostrada dei Trafori,15070,44.591275,8.665651,EVTEC,4229.494000000001,221,2331.01,62.5,Belforte Monferrato,1367.94,3420.0,Piemonte,0.0732
+IT*F2X*EF2XITX2051*2,Area di Servizio - Stura Est,A26 - Autostrada dei Trafori,15070,44.591275,8.665651,EVTEC,735.237,41,404.41,62.5,Belforte Monferrato,408.86,1634.0,Piemonte,0.0732
+IT*F2X*EF2XITX2051*3,Area di Servizio - Stura Est,A26 - Autostrada dei Trafori,15070,44.591275,8.665651,EVTEC,1226.221,181,551.85,22.0,Belforte Monferrato,384.21,5292.0,Piemonte,0.0732
+IT*F2X*EF2XITX5002*1,Area di Servizio - Monferrato Est,A26 Autostrada dei Trafori,15040,45.07462,8.51099,alpitronic GmbH,24107.93600000003,882,16380.21,300.0,Occimiano,15468.4,18282.0,Piemonte,0.0732
+IT*F2X*EF2XITX5002*2,Area di Servizio - Monferrato Est,A26 Autostrada dei Trafori,15040,45.07462,8.51099,alpitronic GmbH,19032.596,623,12944.75,300.0,Occimiano,11569.31,14200.0,Piemonte,0.0732
+IT*F2X*EF2XITX5001*1,Area di Servizio - Monferrato Est,A26 Autostrada dei Trafori,15040,45.07469,8.51101,alpitronic GmbH,16728.727999999996,611,11351.23,300.0,Occimiano,12065.55,14414.0,Piemonte,0.0732
+IT*F2X*EF2XITX5001*2,Area di Servizio - Monferrato Est,A26 Autostrada dei Trafori,15040,45.07469,8.51101,alpitronic GmbH,20635.807999999997,671,14025.58,300.0,Occimiano,11971.37,14732.0,Piemonte,0.0732
+IT*F2X*EF2XITA3003*1,Area di Servizio - Secchia Est,Autostrada del Sole,41100,44.662235,10.858016,alpitronic GmbH,29116.573000000044,868,19806.57,300.0,Modena,4642.6,5567.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITX5101*1,Area di Servizio - Monferrato Ovest,A26 Autostrada dei Trafori,15040,45.0749,8.50907,alpitronic GmbH,27301.748000000018,942,18569.62,300.0,Occimiano,17499.75,19836.0,Piemonte,0.0732
+IT*F2X*EF2XITX5101*2,Area di Servizio - Monferrato Ovest,A26 Autostrada dei Trafori,15040,45.0749,8.50907,alpitronic GmbH,19875.176,599,13518.01,300.0,Occimiano,9139.17,11297.0,Piemonte,0.0732
+IT*F2X*EF2XITX5102*1,Area di Servizio - Monferrato Ovest,A26 Autostrada dei Trafori,15040,45.07489,8.50897,alpitronic GmbH,18418.986000000008,622,13009.01,300.0,Occimiano,11879.38,14204.0,Piemonte,0.0732
+IT*F2X*EF2XITX5102*2,Area di Servizio - Monferrato Ovest,A26 Autostrada dei Trafori,15040,45.07489,8.50897,alpitronic GmbH,30240.676000000025,902,21707.75,300.0,Occimiano,17055.63,20688.0,Piemonte,0.0732
+IT*F2X*EF2XITA3003*2,Area di Servizio - Secchia Est,Autostrada del Sole,41100,44.662235,10.858016,alpitronic GmbH,44366.231999999945,1284,30201.23,300.0,Modena,6419.78,7886.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3004*1,Area di Servizio - Secchia Est,Autostrada del Sole,41100,44.662234,10.85799,alpitronic GmbH,45742.363999999965,1564,31524.9,300.0,Modena,5750.53,7246.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3004*2,Area di Servizio - Secchia Est,Autostrada del Sole,41100,44.662234,10.85799,alpitronic GmbH,28425.610999999997,1018,19341.41,300.0,Modena,3019.3,3709.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITD2101*1,Area di Servizio - Brianza Sud,A4 Torino - Trieste,20864,45.57406,9.3934,alpitronic GmbH,29564.863999999976,1061,20117.74,300.0,Caponago,29919.93,38149.0,Lombardia,0.0767
+IT*F2X*EF2XITD2101*2,Area di Servizio - Brianza Sud,A4 Torino - Trieste,20864,45.57406,9.3934,alpitronic GmbH,28905.111999999983,989,19640.17,300.0,Caponago,19588.75,25070.0,Lombardia,0.0767
+IT*F2X*EF2XITD2102*1,Area di Servizio - Brianza Sud,A4 Torino - Trieste,20864,45.57405,9.39331,alpitronic GmbH,37808.791999999965,1442,25722.17,300.0,Caponago,36772.54,45271.0,Lombardia,0.0767
+IT*F2X*EF2XITD2102*2,Area di Servizio - Brianza Sud,A4 Torino - Trieste,20864,45.57405,9.39331,alpitronic GmbH,24343.639999999996,915,16553.64,300.0,Caponago,24769.57,31332.0,Lombardia,0.0767
+IT*F2X*EF2XITN6651*1,Area di Servizio - Piceno Ovest,Autostrada Adriatica,63828,43.075143,13.842842,EVTEC,1896.4180000000008,81,1043.03,62.5,Campofilone,784.13,1839.0,Marche,0.0407
+IT*F2X*EF2XITN6651*2,Area di Servizio - Piceno Ovest,Autostrada Adriatica,63828,43.075143,13.842842,EVTEC,255.206,20,140.38,62.5,Campofilone,217.13,936.0,Marche,0.0407
+IT*F2X*EF2XITN6651*3,Area di Servizio - Piceno Ovest,Autostrada Adriatica,63828,43.075143,13.842842,EVTEC,517.2940000000002,102,232.77,22.0,Campofilone,127.14,2551.0,Marche,0.0407
+IT*F2X*EF2XITN5151*3,Area di Servizio - Esino Ovest,Autostrada Adriatica,60033,43.627101,13.333993,EVTEC,425.611,100,192.51,22.0,Chiaravalle,41.48,581.0,Marche,0.0407
+IT*F2X*EF2XITN5051*1,Area di Servizio - Esino Est,Autostrada Adriatica,60033,43.626774,13.334975,EVTEC,3356.262,155,1845.9,62.5,Chiaravalle,1930.03,4687.0,Marche,0.0407
+IT*F2X*EF2XITN5051*2,Area di Servizio - Esino Est,Autostrada Adriatica,60033,43.626774,13.334975,EVTEC,348.95900000000006,22,191.93,62.5,Chiaravalle,412.68,1715.0,Marche,0.0407
+IT*F2X*EF2XITN5051*3,Area di Servizio - Esino Est,Autostrada Adriatica,60033,43.626774,13.334975,EVTEC,454.8170000000002,95,204.71,22.0,Chiaravalle,210.17,3501.0,Marche,0.0407
+IT*F2X*EF2XITO1001*1,Area di Servizio - Torre Fantine Est,A14 - Autostrada Adriatica,71010,41.909717,15.168962,alpitronic GmbH,13861.898,430,9427.18,300.0,Chieuti,10486.46,12349.0,Puglia,0.0246
+IT*F2X*EF2XITO1001*2,Area di Servizio - Torre Fantine Est,A14 - Autostrada Adriatica,71010,41.909717,15.168962,alpitronic GmbH,9597.525999999998,265,6529.73,300.0,Chieuti,7553.93,8660.0,Puglia,0.0246
+IT*F2X*EF2XITO1002*1,Area di Servizio - Torre Fantine Est,A14 - Autostrada Adriatica,71010,41.909686,15.168951,alpitronic GmbH,16673.167999999994,506,11343.04,300.0,Chieuti,14411.13,16345.0,Puglia,0.0246
+IT*F2X*EF2XITO1002*2,Area di Servizio - Torre Fantine Est,A14 - Autostrada Adriatica,71010,41.909686,15.168951,alpitronic GmbH,12529.761999999986,343,8505.33,300.0,Chieuti,9460.6,10901.0,Puglia,0.0246
+IT*F2X*EF2XITO1051*1,Area di Servizio - Torre Fantine Est,A14 - Autostrada Adriatica,71010,41.909717,15.168884,EVTEC,1424.2339999999997,58,783.33,62.5,Chieuti,581.17,1440.0,Puglia,0.0246
+IT*F2X*EF2XITO1051*2,Area di Servizio - Torre Fantine Est,A14 - Autostrada Adriatica,71010,41.909717,15.168884,EVTEC,189.705,13,104.34,62.5,Chieuti,141.3,509.0,Puglia,0.0246
+IT*F2X*EF2XITO1051*3,Area di Servizio - Torre Fantine Est,A14 - Autostrada Adriatica,71010,41.909717,15.168884,EVTEC,262.79400000000004,73,118.26,22.0,Chieuti,169.56,2667.0,Puglia,0.0246
+IT*F2X*EF2XITB2101*1,Area di Servizio - Mascherone Ovest,Autostrada del Sole,60,42.123209,12.616878,alpitronic GmbH,5175.846000000001,155,3528.69,300.0,Capena,4197.8,4942.0,Lazio,0.0694
+IT*F2X*EF2XITB2101*2,Area di Servizio - Mascherone Ovest,Autostrada del Sole,60,42.123209,12.616878,alpitronic GmbH,6124.949,160,4164.97,300.0,Capena,2931.32,3464.0,Lazio,0.0694
+IT*F2X*EF2XITB2102*1,Area di Servizio - Mascherone Ovest,Autostrada del Sole,60,42.123278,12.616865,alpitronic GmbH,12660.554999999988,374,8559.52,300.0,Capena,8660.86,9973.0,Lazio,0.0694
+IT*F2X*EF2XITA8551*1,Area di Servizio - Fabro Est,A1 - Autostrada del Sole,5015,42.875865,12.019143,EVTEC,4853.090000000003,208,2675.05,62.5,Fabro,2029.12,4964.0,Umbria,0.0385
+IT*F2X*EF2XITA8551*2,Area di Servizio - Fabro Est,A1 - Autostrada del Sole,5015,42.875865,12.019143,EVTEC,522.28,30,287.25,62.5,Fabro,285.67,1075.0,Umbria,0.0385
+IT*F2X*EF2XITA8551*3,Area di Servizio - Fabro Est,A1 - Autostrada del Sole,5015,42.875865,12.019143,EVTEC,925.0879999999996,185,416.31,22.0,Fabro,405.57,7241.0,Umbria,0.0385
+IT*F2X*EF2XITB2151*1,Area di Servizio - Mascherone Ovest,Autostrada del Sole,60,42.123164,12.616923,EVTEC,949.48,41,522.22,62.5,Capena,263.4,688.0,Lazio,0.0694
+IT*F2X*EF2XITB2151*2,Area di Servizio - Mascherone Ovest,Autostrada del Sole,60,42.123164,12.616923,EVTEC,165.56199999999998,12,91.05,62.5,Capena,121.42,465.0,Lazio,0.0694
+IT*F2X*EF2XITB2151*3,Area di Servizio - Mascherone Ovest,Autostrada del Sole,60,42.123164,12.616923,EVTEC,411.0650000000001,70,184.97,22.0,Capena,141.25,2145.0,Lazio,0.0694
+IT*F2X*EF2XITX2001*1,Area di Servizio - Stura Est,A26 - Autostrada dei Trafori,15070,44.591343,8.665681,alpitronic GmbH,34418.170000000006,1183,23415.51,300.0,Belforte Monferrato,21226.69,26964.0,Piemonte,0.0732
+IT*F2X*EF2XITX2001*2,Area di Servizio - Stura Est,A26 - Autostrada dei Trafori,15070,44.591343,8.665681,alpitronic GmbH,34471.18000000003,1072,23453.58,300.0,Belforte Monferrato,18276.09,23471.0,Piemonte,0.0732
+IT*F2X*EF2XITX2002*1,Area di Servizio - Stura Est,A26 - Autostrada dei Trafori,15070,44.59141,8.665706,alpitronic GmbH,24996.870000000003,874,17004.44,300.0,Belforte Monferrato,12956.94,17086.0,Piemonte,0.0732
+IT*F2X*EF2XITX2002*2,Area di Servizio - Stura Est,A26 - Autostrada dei Trafori,15070,44.59141,8.665706,alpitronic GmbH,36225.00399999997,1220,24669.6,300.0,Belforte Monferrato,20556.33,26535.0,Piemonte,0.0732
+IT*F2X*EF2XITH3101*1,Area di Servizio - Brughiera Ovest,Autostrada dei laghi,21040,45.762983,8.809624,alpitronic GmbH,14600.953999999994,558,9983.48,300.0,Cascine Maggio,10584.13,14756.0,Lombardia,0.0767
+IT*F2X*EF2XITH3101*2,Area di Servizio - Brughiera Ovest,Autostrada dei laghi,21040,45.762983,8.809624,alpitronic GmbH,18666.324000000015,708,12713.5,300.0,Cascine Maggio,11761.71,15391.0,Lombardia,0.0767
+IT*F2X*EF2XITH3102*1,Area di Servizio - Brughiera Ovest,Autostrada dei laghi,21040,45.762915,8.809618,alpitronic GmbH,36696.95600000003,1405,24958.96,300.0,Cascine Maggio,25007.95,32575.0,Lombardia,0.0767
+IT*F2X*EF2XITH3102*2,Area di Servizio - Brughiera Ovest,Autostrada dei laghi,21040,45.762915,8.809618,alpitronic GmbH,17598.476000000006,571,11966.58,300.0,Cascine Maggio,9096.21,12337.0,Lombardia,0.0767
+IT*F2X*EF2XITA3501*1,Area di Servizio - Cantagallo Est,A1 - Autostrada del Sole,40033,44.456656,11.280327,alpitronic GmbH,12034.092999999992,348,8171.44,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3501*2,Area di Servizio - Cantagallo Est,A1 - Autostrada del Sole,40033,44.456656,11.280327,alpitronic GmbH,14745.264,383,10025.62,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3502*1,Area di Servizio - Cantagallo Est,A1 - Autostrada del Sole,40033,44.4566,11.280372,alpitronic GmbH,10348.034,298,7038.59,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3502*2,Area di Servizio - Cantagallo Est,A1 - Autostrada del Sole,40033,44.4566,11.280372,alpitronic GmbH,15753.136,420,10731.55,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITD2001*1,Area di Servizio - Brianza Nord,A4 Torino - Trieste,20864,45.57584,9.39376,alpitronic GmbH,24333.295999999973,886,16559.11,300.0,Caponago,25434.2,30196.0,Lombardia,0.0767
+IT*F2X*EF2XITB2502*1,Area di Servizio - Prenestina Est,A1 - Autostrada del Sole,10,41.891269,12.759088,alpitronic GmbH,24057.145000000004,789,16316.08,300.0,Roma,14955.11,18140.0,Lazio,0.0694
+IT*F2X*EF2XITB2502*2,Area di Servizio - Prenestina Est,A1 - Autostrada del Sole,10,41.891269,12.759088,alpitronic GmbH,15613.739000000009,493,10545.22,300.0,Roma,8378.07,10252.0,Lazio,0.0694
+IT*F2X*EF2XITM2051*3,Area di Servizio - Po Est,A13 Bologna - Padova,44121,44.879292,11.570791,EVTEC,765.2319999999999,138,347.9,22.0,Ferrara,392.18,6135.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITB2501*1,Area di Servizio - Prenestina Est,A1 - Autostrada del Sole,10,41.891249,12.75905,alpitronic GmbH,18214.471,604,12485.7,300.0,Roma,12455.8,14959.0,Lazio,0.0694
+IT*F2X*EF2XITB2501*2,Area di Servizio - Prenestina Est,A1 - Autostrada del Sole,10,41.891249,12.75905,alpitronic GmbH,15626.553999999998,487,10687.18,300.0,Roma,8840.77,10769.0,Lazio,0.0694
+IT*F2X*EF2XITD2001*2,Area di Servizio - Brianza Nord,A4 Torino - Trieste,20864,45.57584,9.39376,alpitronic GmbH,26389.895999999993,925,17945.67,300.0,Caponago,28321.27,33412.0,Lombardia,0.0767
+IT*F2X*EF2XITD2002*1,Area di Servizio - Brianza Nord,A4 Torino - Trieste,20864,45.57585,9.39382,alpitronic GmbH,32117.808000000023,1177,21863.69,300.0,Caponago,27513.35,32159.0,Lombardia,0.0767
+IT*F2X*EF2XITB2551*1,Area di Servizio - Prenestina Est,A1 - Autostrada del Sole,10,41.891073,12.759,EVTEC,1865.7380000000005,80,997.71,62.5,Roma,538.1899999999999,1332.0,Lazio,0.0694
+IT*F2X*EF2XITD2002*2,Area di Servizio - Brianza Nord,A4 Torino - Trieste,20864,45.57585,9.39382,alpitronic GmbH,20513.39599999998,736,13972.17,300.0,Caponago,16388.51,20452.0,Lombardia,0.0767
+IT*F2X*EF2XITN8151*1,Area di Servizio - Torre Cerrano Ovest,Autostrada Adriatica,64028,42.530677,14.124067,EVTEC,1818.264,85,987.9,62.5,Torre Cerrano,627.21,1576.0,Abruzzo,0.0374
+IT*F2X*EF2XITN8151*2,Area di Servizio - Torre Cerrano Ovest,Autostrada Adriatica,64028,42.530677,14.124067,EVTEC,444.3420000000001,30,244.39,62.5,Torre Cerrano,496.99,2044.0,Abruzzo,0.0374
+IT*F2X*EF2XITN8151*3,Area di Servizio - Torre Cerrano Ovest,Autostrada Adriatica,64028,42.530677,14.124067,EVTEC,503.6520000000001,86,226.58,22.0,Torre Cerrano,152.34,2752.0,Abruzzo,0.0374
+IT*F2X*EF2XITB2551*2,Area di Servizio - Prenestina Est,A1 - Autostrada del Sole,10,41.891073,12.759,EVTEC,257.289,18,141.51,62.5,Roma,188.37,604.0,Lazio,0.0694
+IT*F2X*EF2XITB2551*3,Area di Servizio - Prenestina Est,A1 - Autostrada del Sole,10,41.891073,12.759,EVTEC,576.1009999999999,118,252.69,22.0,Roma,231.49,3708.0,Lazio,0.0694
+IT*F2X*EF2XITP4151*1,Area di Servizio - Calaggio Sud,A16 Autostrada dei due Mari,83059,41.064668,15.314502,EVTEC,838.963,40,461.46,62.5,Vallata,438.48,1007.0,Campania,0.0206
+IT*F2X*EF2XITA3001*1,Area di Servizio - Secchia Est,Autostrada del Sole,41100,44.662303,10.858004,alpitronic GmbH,54080.24000000002,1620,36771.63,300.0,Modena,59523.37,72659.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3001*2,Area di Servizio - Secchia Est,Autostrada del Sole,41100,44.662303,10.858004,alpitronic GmbH,74038.46399999993,2121,50322.77,300.0,Modena,47942.33,59545.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3002*1,Area di Servizio - Secchia Est,Autostrada del Sole,41100,44.662299,10.857972,alpitronic GmbH,56488.65599999999,1694,38425.58,300.0,Modena,50395.54,60386.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3002*2,Area di Servizio - Secchia Est,Autostrada del Sole,41100,44.662299,10.857972,alpitronic GmbH,49288.35199999996,1423,33402.09,300.0,Modena,50382.72,61242.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITH3001*1,Area di Servizio - Brughiera Est,Autostrada dei laghi,21040,45.762379,8.810866,alpitronic GmbH,32222.063999999937,992,21915.1,300.0,Cascine Maggio,21266.09,25026.0,Lombardia,0.0767
+IT*F2X*EF2XITH3001*2,Area di Servizio - Brughiera Est,Autostrada dei laghi,21040,45.762379,8.810866,alpitronic GmbH,25378.88,593,17263.09,300.0,Cascine Maggio,26771.76,20113.0,Lombardia,0.0767
+IT*F2X*EF2XITH3002*1,Area di Servizio - Brughiera Est,Autostrada dei laghi,21040,45.762405,8.81087,alpitronic GmbH,51589.02800000006,1197,35102.47,300.0,Cascine Maggio,35024.03,31860.0,Lombardia,0.0767
+IT*F2X*EF2XITH3002*2,Area di Servizio - Brughiera Est,Autostrada dei laghi,21040,45.762405,8.81087,alpitronic GmbH,23130.943999999996,824,15778.99,300.0,Cascine Maggio,16656.21,20028.0,Lombardia,0.0767
+IT*F2X*EF2XITLINC03*1,Aeroporto - Linate Commerciale,Aeroporto Linate Commerciale,20090,45.461865,9.276166,alpitronic GmbH,27777.87599999999,955,19371.73,300.0,Milano,23719.01,40637.0,Piemonte,0.0732
+IT*F2X*EF2XITLINC03*2,Aeroporto - Linate Commerciale,Aeroporto Linate Commerciale,20090,45.461865,9.276166,alpitronic GmbH,47775.99999999999,1660,33341.42,300.0,Milano,34927.01,66634.0,Piemonte,0.0732
+IT*F2X*EF2XITA3051*1,Area di Servizio - Secchia Est,Autostrada del Sole,41100,44.66244,10.858156,alpitronic GmbH,1180.348,79,650.27,50.0,Modena,675.28,2640.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3051*2,Area di Servizio - Secchia Est,Autostrada del Sole,41100,44.66244,10.858156,alpitronic GmbH,2587.6419999999985,604,1169.13,22.0,Modena,1234.24,18337.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA9003*1,Area di Servizio - Tevere Est,A1 - Autostrada del Sole,1021,42.623415,12.232488,alpitronic GmbH,2252.915,70,1532.01,,,,,Lazio,0.0694
+IT*F2X*EF2XITA9003*2,Area di Servizio - Tevere Est,A1 - Autostrada del Sole,1021,42.623415,12.232488,alpitronic GmbH,1253.541,36,852.86,,,,,Lazio,0.0694
+IT*F2X*EF2XITLINC05*1,Aeroporto - Linate Commerciale,Aeroporto Linate Commerciale,20090,45.46187,9.275956,alpitronic GmbH,21147.67599999998,733,14822.33,300.0,Milano,16656.08,29441.0,Piemonte,0.0732
+IT*F2X*EF2XITLINC05*2,Aeroporto - Linate Commerciale,Aeroporto Linate Commerciale,20090,45.46187,9.275956,alpitronic GmbH,41444.81599999994,1547,28799.89,300.0,Milano,32611.83,61114.0,Piemonte,0.0732
+IT*F2X*EF2XITA8651*1,Area di Servizio - Fabro Ovest,A1 - Autostrada del Sole,5015,42.876654,12.017233,EVTEC,4471.291000000001,207,2455.88,62.5,Fabro,1528.09,3473.0,Umbria,0.0385
+IT*F2X*EF2XITA8651*2,Area di Servizio - Fabro Ovest,A1 - Autostrada del Sole,5015,42.876654,12.017233,EVTEC,425.51700000000005,22,234.02,62.5,Fabro,274.79,1146.0,Umbria,0.0385
+IT*F2X*EF2XITA8651*3,Area di Servizio - Fabro Ovest,A1 - Autostrada del Sole,5015,42.876654,12.017233,EVTEC,1039.707,178,463.77,22.0,Fabro,305.86,5209.0,Umbria,0.0385
+IT*F2X*EF2XITA1001*1,Area di Servizio - San Zenone al Lambro Est,A1 - Autostrada del Sole,20070,45.321512,9.37723,alpitronic GmbH,33353.18399999995,1113,22626.82,300.0,Melegnano,33739.91,35982.0,Lombardia,0.0767
+IT*F2X*EF2XITA1001*2,Area di Servizio - San Zenone al Lambro Est,A1 - Autostrada del Sole,20070,45.321512,9.37723,alpitronic GmbH,33809.736000000004,1009,22884.07,300.0,Melegnano,29598.91,32342.0,Lombardia,0.0767
+IT*F2X*EF2XITA1002*1,Area di Servizio - San Zenone al Lambro Est,A1 - Autostrada del Sole,20070,45.32147,9.377177,alpitronic GmbH,43867.26399999997,1481,29815.99,300.0,Melegnano,33632.47,36346.0,Lombardia,0.0767
+IT*F2X*EF2XITA1002*2,Area di Servizio - San Zenone al Lambro Est,A1 - Autostrada del Sole,20070,45.32147,9.377177,alpitronic GmbH,31344.288000000008,1032,21191.46,300.0,Melegnano,31696.0,35280.0,Lombardia,0.0767
+IT*F2X*EF2XITN3604*2,Area di Servizio - Montefeltro Ovest,Autostrada Adriatica,47838,43.994404,12.618473,alpitronic GmbH,7057.128999999998,201,4767.51,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2003*1,Area di Servizio - Po Est,A13 Bologna - Padova,44121,44.879328,11.570735,alpitronic GmbH,2956.1049999999977,105,2009.82,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2003*2,Area di Servizio - Po Est,A13 Bologna - Padova,44121,44.879328,11.570735,alpitronic GmbH,1286.6419999999998,49,874.73,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2004*1,Area di Servizio - Po Est,A13 Bologna - Padova,44121,44.879328,11.570781,alpitronic GmbH,1817.4019999999996,66,1235.85,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1051*1,Area di Servizio - Sillaro Est,A14 - Autostrada Adriatica,40024,44.429416,11.600241,EVTEC,5179.4389999999985,222,2845.83,62.5,Castel San Pietro Terme,1966.74,5021.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1051*2,Area di Servizio - Sillaro Est,A14 - Autostrada Adriatica,40024,44.429416,11.600241,EVTEC,631.231,42,347.17,62.5,Castel San Pietro Terme,401.91,1668.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1051*3,Area di Servizio - Sillaro Est,A14 - Autostrada Adriatica,40024,44.429416,11.600241,EVTEC,1136.999999999999,178,511.68,22.0,Castel San Pietro Terme,422.73,5601.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1001*1,Area di Servizio - Sillaro Est,A14 - Autostrada Adriatica,40024,44.42926,11.600198,alpitronic GmbH,36825.42199999997,1120,25020.6,300.0,Castel San Pietro Terme,21500.27,24822.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1001*2,Area di Servizio - Sillaro Est,A14 - Autostrada Adriatica,40024,44.42926,11.600198,alpitronic GmbH,39768.096000000005,1134,27017.7,300.0,Castel San Pietro Terme,20399.91,23579.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1002*1,Area di Servizio - Sillaro Est,A14 - Autostrada Adriatica,40024,44.429218,11.600174,alpitronic GmbH,45489.50399999995,1523,30946.65,300.0,Castel San Pietro Terme,25995.93,31247.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1002*2,Area di Servizio - Sillaro Est,A14 - Autostrada Adriatica,40024,44.429218,11.600174,alpitronic GmbH,31463.39600000002,943,21425.77,300.0,Castel San Pietro Terme,17972.64,21322.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2004*2,Area di Servizio - Po Est,A13 Bologna - Padova,44121,44.879328,11.570781,alpitronic GmbH,2666.681,77,1813.36,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN8051*1,Area di Servizio - Torre Cerrano Est,Autostrada Adriatica,64028,42.531791,14.124218,EVTEC,1420.8539999999998,69,781.47,62.5,Torre Cerrano,460.85,1200.0,Abruzzo,0.0374
+IT*F2X*EF2XITN8051*2,Area di Servizio - Torre Cerrano Est,Autostrada Adriatica,64028,42.531791,14.124218,EVTEC,1045.2430000000002,58,574.9,62.5,Torre Cerrano,592.58,2200.0,Abruzzo,0.0374
+IT*F2X*EF2XITN8051*3,Area di Servizio - Torre Cerrano Est,Autostrada Adriatica,64028,42.531791,14.124218,EVTEC,307.33099999999996,49,138.29,22.0,Torre Cerrano,160.42,2630.0,Abruzzo,0.0374
+IT*F2X*EF2XITB4002*1,Area di Servizio - La Macchia Est,Autostrada del Sole,3012,41.686526,13.188619,alpitronic GmbH,38248.156,1253,25964.94,300.0,Anagni,33925.62,40014.0,Lazio,0.0694
+IT*F2X*EF2XITB4002*2,Area di Servizio - La Macchia Est,Autostrada del Sole,3012,41.686526,13.188619,alpitronic GmbH,31621.452000000005,1042,21481.47,300.0,Anagni,25079.91,30032.0,Lazio,0.0694
+IT*F2X*EF2XITB4001*1,Area di Servizio - La Macchia Est,Autostrada del Sole,3012,41.686553,13.188656,alpitronic GmbH,33892.02800000005,1129,23066.38,300.0,Anagni,13924.43,16523.0,Lazio,0.0694
+IT*F2X*EF2XITB4001*2,Area di Servizio - La Macchia Est,Autostrada del Sole,3012,41.686553,13.188656,alpitronic GmbH,28436.46199999996,935,19242.41,300.0,Anagni,10288.56,12795.0,Lazio,0.0694
+IT*F2X*EF2XITA7001*1,Area di Servizio - Badia al Pino Est,A1  Autostrada del Sole,52041,43.405595,11.763815,alpitronic GmbH,17497.48599999999,461,11898.22,300.0,Civitella In Val di Chiana,12472.2,15961.0,Toscana,0.0877
+IT*F2X*EF2XITA7001*2,Area di Servizio - Badia al Pino Est,A1  Autostrada del Sole,52041,43.405595,11.763815,alpitronic GmbH,20961.907999999967,546,14221.87,300.0,Civitella In Val di Chiana,13665.61,15759.0,Toscana,0.0877
+IT*F2X*EF2XITA7002*1,Area di Servizio - Badia al Pino Est,A1  Autostrada del Sole,52041,43.40554,11.763788,alpitronic GmbH,39053.35600000002,1079,26419.0,300.0,Civitella In Val di Chiana,28525.99,33110.0,Toscana,0.0877
+IT*F2X*EF2XITA7002*2,Area di Servizio - Badia al Pino Est,A1  Autostrada del Sole,52041,43.40554,11.763788,alpitronic GmbH,40614.36199999999,1142,27554.06,300.0,Civitella In Val di Chiana,22670.32,27356.0,Toscana,0.0877
+IT*F2X*EF2XITA7051*1,Area di Servizio - Badia al Pino Est,A1  Autostrada del Sole,52041,43.405595,11.763815,EVTEC,2989.6020000000003,114,1650.15,62.5,Civitella In Val di Chiana,1187.82,2627.0,Toscana,0.0877
+IT*F2X*EF2XITA7051*2,Area di Servizio - Badia al Pino Est,A1  Autostrada del Sole,52041,43.405595,11.763815,EVTEC,477.8330000000001,30,262.8,62.5,Civitella In Val di Chiana,332.38,1168.0,Toscana,0.0877
+IT*F2X*EF2XITA7051*3,Area di Servizio - Badia al Pino Est,A1  Autostrada del Sole,52041,43.405595,11.763815,EVTEC,897.8729999999998,134,403.95,22.0,Civitella In Val di Chiana,340.4,5883.0,Toscana,0.0877
+IT*F2X*EF2XITA7101*1,Area di Servizio - Badia al Pino Ovest,A1  Autostrada del Sole,52041,43.407976,11.762806,alpitronic GmbH,30705.18800000001,918,20904.04,300.0,Civitella In Val di Chiana,24918.86,30106.0,Toscana,0.0877
+IT*F2X*EF2XITA7101*2,Area di Servizio - Badia al Pino Ovest,A1  Autostrada del Sole,52041,43.407976,11.762806,alpitronic GmbH,9356.659999999998,312,6371.81,300.0,Civitella In Val di Chiana,8774.12,10427.0,Toscana,0.0877
+IT*F2X*EF2XITA7102*1,Area di Servizio - Badia al Pino Ovest,A1  Autostrada del Sole,52041,43.407978,11.762863,alpitronic GmbH,18120.842000000004,556,12303.99,300.0,Civitella In Val di Chiana,15632.27,18739.0,Toscana,0.0877
+IT*F2X*EF2XITA7102*2,Area di Servizio - Badia al Pino Ovest,A1  Autostrada del Sole,52041,43.407978,11.762863,alpitronic GmbH,21148.580000000013,603,14358.1,300.0,Civitella In Val di Chiana,16459.71,19567.0,Toscana,0.0877
+IT*F2X*EF2XITA7151*1,Area di Servizio - Badia al Pino Ovest,A1  Autostrada del Sole,52041,43.408129,11.76261,EVTEC,11332.471,444,6250.58,62.5,Civitella In Val di Chiana,2104.84,4788.0,Toscana,0.0877
+IT*F2X*EF2XITA7151*2,Area di Servizio - Badia al Pino Ovest,A1  Autostrada del Sole,52041,43.408129,11.76261,EVTEC,478.0100000000001,34,262.91,62.5,Civitella In Val di Chiana,315.02,1175.0,Toscana,0.0877
+IT*F2X*EF2XITA7151*3,Area di Servizio - Badia al Pino Ovest,A1  Autostrada del Sole,52041,43.408129,11.76261,EVTEC,1072.915,217,486.74,22.0,Civitella In Val di Chiana,366.04,7151.0,Toscana,0.0877
+IT*F2X*EF2XITM1002*1,Area di Servizio - Castel Bentivoglio Est,A13 Bologna - Padova,40010,44.621103,11.419783,alpitronic GmbH,28139.728,976,19154.1,300.0,Bentivoglio,15107.85,17792.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN3651*1,Area di Servizio - Montefeltro Ovest,Autostrada Adriatica,47838,43.994228,12.61838,EVTEC,3043.0879999999997,149,1673.68,62.5,Riccione,1007.13,2583.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN3651*2,Area di Servizio - Montefeltro Ovest,Autostrada Adriatica,47838,43.994228,12.61838,EVTEC,1081.773,59,594.97,62.5,Riccione,781.25,2997.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN3651*3,Area di Servizio - Montefeltro Ovest,Autostrada Adriatica,47838,43.994228,12.61838,EVTEC,915.9370000000008,160,412.18,22.0,Riccione,259.82,4120.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1101*1,Area di Servizio - Sillaro Ovest,A14 - Autostrada Adriatica,40024,44.427775,11.599347,alpitronic GmbH,19446.87099999999,602,13245.22,300.0,Castel San Pietro Terme,13321.48,15974.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1101*2,Area di Servizio - Sillaro Ovest,A14 - Autostrada Adriatica,40024,44.427775,11.599347,alpitronic GmbH,37403.221000000034,1148,25432.33,300.0,Castel San Pietro Terme,22711.05,27101.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1102*1,Area di Servizio - Sillaro Ovest,A14 - Autostrada Adriatica,40024,44.4278,11.599364,alpitronic GmbH,57160.819999999934,1850,38866.36,300.0,Castel San Pietro Terme,32374.65,38785.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1102*2,Area di Servizio - Sillaro Ovest,A14 - Autostrada Adriatica,40024,44.4278,11.599364,alpitronic GmbH,48902.61400000006,1572,33259.83,300.0,Castel San Pietro Terme,18242.45,22112.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1151*1,Area di Servizio - Sillaro Ovest,A14 - Autostrada Adriatica,40024,44.427628,11.599236,EVTEC,6306.472000000001,300,3483.0,62.5,Castel San Pietro Terme,3000.25,7073.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN8001*1,Area di Servizio - Torre Cerrano Est,Autostrada Adriatica,64028,42.531713,14.12447,alpitronic GmbH,24719.06800000001,765,17139.67,300.0,Torre Cerrano,19425.73,22986.0,Abruzzo,0.0374
+IT*F2X*EF2XITN8001*2,Area di Servizio - Torre Cerrano Est,Autostrada Adriatica,64028,42.531713,14.12447,alpitronic GmbH,15865.354000000005,478,10762.51,300.0,Torre Cerrano,10642.57,13488.0,Abruzzo,0.0374
+IT*F2X*EF2XITN8002*1,Area di Servizio - Torre Cerrano Est,Autostrada Adriatica,64028,42.531736,14.124386,alpitronic GmbH,11140.745999999996,353,7576.34,300.0,Torre Cerrano,8673.79,10757.0,Abruzzo,0.0374
+IT*F2X*EF2XITN8002*2,Area di Servizio - Torre Cerrano Est,Autostrada Adriatica,64028,42.531736,14.124386,alpitronic GmbH,11865.832000000011,352,8071.93,300.0,Torre Cerrano,7876.07,10438.0,Abruzzo,0.0374
+IT*F2X*EF2XITN1151*2,Area di Servizio - Sillaro Ovest,A14 - Autostrada Adriatica,40024,44.427628,11.599236,EVTEC,457.98200000000014,26,251.89,62.5,Castel San Pietro Terme,302.77,1324.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1151*3,Area di Servizio - Sillaro Ovest,A14 - Autostrada Adriatica,40024,44.427628,11.599236,EVTEC,1258.7520000000009,238,564.52,22.0,Castel San Pietro Terme,476.31,7187.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM1001*2,Area di Servizio - Castel Bentivoglio Est,A13 Bologna - Padova,40010,44.621103,11.419783,alpitronic GmbH,21295.83200000001,676,14488.15,300.0,Bentivoglio,10920.17,12026.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITY3001*1,Area di Servizio - Sile Est,A27 - Autostrada d'Alemagna,31032,45.607796,12.298567,alpitronic GmbH,17119.53,610,11625.43,300.0,Casale sul Sile,12353.43,14476.0,Veneto,0.062
+IT*F2X*EF2XITY3001*2,Area di Servizio - Sile Est,A27 - Autostrada d'Alemagna,31032,45.607796,12.298567,alpitronic GmbH,19317.941000000003,618,13136.15,300.0,Casale sul Sile,13749.52,14913.0,Veneto,0.062
+IT*F2X*EF2XITY3002*1,Area di Servizio - Sile Est,A27 - Autostrada d'Alemagna,31032,45.607797,12.298652,alpitronic GmbH,18136.414999999983,610,12309.36,300.0,Casale sul Sile,8166.34,9446.0,Veneto,0.062
+IT*F2X*EF2XITY3002*2,Area di Servizio - Sile Est,A27 - Autostrada d'Alemagna,31032,45.607797,12.298652,alpitronic GmbH,11386.171000000008,395,7742.99,300.0,Casale sul Sile,5148.0,6024.0,Veneto,0.062
+IT*F2X*EF2XITY3051*1,Area di Servizio - Sile Est,A27 - Autostrada d'Alemagna,31032,45.607532,12.298706,EVTEC,2056.7470000000008,97,1131.17,62.5,Casale sul Sile,881.76,2202.0,Veneto,0.062
+IT*F2X*EF2XITY3051*2,Area di Servizio - Sile Est,A27 - Autostrada d'Alemagna,31032,45.607532,12.298706,EVTEC,114.95300000000002,12,63.23,62.5,Casale sul Sile,99.64,356.0,Veneto,0.062
+IT*F2X*EF2XITY3051*3,Area di Servizio - Sile Est,A27 - Autostrada d'Alemagna,31032,45.607532,12.298706,EVTEC,295.7999999999999,44,133.15,22.0,Casale sul Sile,114.98,1663.0,Veneto,0.062
+IT*F2X*EF2XITO1101*1,Area di Servizio - Torre Fantine Ovest,A14 - Autostrada Adriatica,71010,41.908914,15.168433,alpitronic GmbH,14128.24499999999,439,9614.7,300.0,Chieuti,6255.22,7644.0,Puglia,0.0246
+IT*F2X*EF2XITO1101*2,Area di Servizio - Torre Fantine Ovest,A14 - Autostrada Adriatica,71010,41.908914,15.168433,alpitronic GmbH,20.958,1,14.25,300.0,Chieuti,7289.3,8562.0,Puglia,0.0246
+IT*F2X*EF2XITO1102*1,Area di Servizio - Torre Fantine Ovest,A14 - Autostrada Adriatica,71010,41.908932,15.168601,alpitronic GmbH,17044.172000000017,509,11598.06,300.0,Chieuti,9924.26,11779.0,Puglia,0.0246
+IT*F2X*EF2XITO1102*2,Area di Servizio - Torre Fantine Ovest,A14 - Autostrada Adriatica,71010,41.908932,15.168601,alpitronic GmbH,17480.398999999994,527,11908.52,300.0,Chieuti,8213.2,9653.0,Puglia,0.0246
+IT*F2X*EF2XITO1151*1,Area di Servizio - Torre Fantine Ovest,A14 - Autostrada Adriatica,71010,41.908973,15.168712,EVTEC,1693.1850000000002,71,931.27,62.5,Chieuti,368.48,859.0,Puglia,0.0246
+IT*F2X*EF2XITO1151*2,Area di Servizio - Torre Fantine Ovest,A14 - Autostrada Adriatica,71010,41.908973,15.168712,EVTEC,223.626,15,123.0,62.5,Chieuti,107.06,491.0,Puglia,0.0246
+IT*F2X*EF2XITO1151*3,Area di Servizio - Torre Fantine Ovest,A14 - Autostrada Adriatica,71010,41.908973,15.168712,EVTEC,480.3369999999999,87,216.15,22.0,Chieuti,168.72,2986.0,Puglia,0.0246
+IT*F2X*EF2XITB2601*1,Area di Servizio - Prenestina Ovest,A1 - Autostrada del Sole,10,41.889533,12.758343,alpitronic GmbH,15969.762000000004,507,10796.92,300.0,Roma,11083.18,12846.0,Lazio,0.0694
+IT*F2X*EF2XITB2601*2,Area di Servizio - Prenestina Ovest,A1 - Autostrada del Sole,10,41.889533,12.758343,alpitronic GmbH,14342.965000000007,427,9696.82,300.0,Roma,8307.18,9644.0,Lazio,0.0694
+IT*F2X*EF2XITB2602*1,Area di Servizio - Prenestina Ovest,A1 - Autostrada del Sole,10,41.889566,12.758418,alpitronic GmbH,20706.262,686,14205.16,300.0,Roma,16355.17,18937.0,Lazio,0.0694
+IT*F2X*EF2XITB2602*2,Area di Servizio - Prenestina Ovest,A1 - Autostrada del Sole,10,41.889566,12.758418,alpitronic GmbH,14763.095999999992,481,10000.43,300.0,Roma,9620.52,11826.0,Lazio,0.0694
+IT*F2X*EF2XITX2003*1,Area di Servizio - Stura Est,A26 - Autostrada dei Trafori,15070,44.591463,8.665741,alpitronic GmbH,4786.206000000002,159,3256.3,,,,,Piemonte,0.0732
+IT*F2X*EF2XITX2003*2,Area di Servizio - Stura Est,A26 - Autostrada dei Trafori,15070,44.591463,8.665741,alpitronic GmbH,7693.220999999999,228,5228.84,,,,,Piemonte,0.0732
+IT*F2X*EF2XITX2004*1,Area di Servizio - Stura Est,A26 - Autostrada dei Trafori,15070,44.591528,8.66577,alpitronic GmbH,4992.345999999999,167,3368.17,,,,,Piemonte,0.0732
+IT*F2X*EF2XITX2004*2,Area di Servizio - Stura Est,A26 - Autostrada dei Trafori,15070,44.591528,8.66577,alpitronic GmbH,6890.114999999995,212,4692.35,,,,,Piemonte,0.0732
+IT*F2X*EF2XITD0102*1,Area di Servizio - Novate Nord,Torino - Trieste,20026,45.530277,9.14942,alpitronic GmbH,26972.164000000008,952,18275.28,300.0,Novate Milanese,11830.01,14293.0,Lombardia,0.0767
+IT*F2X*EF2XITD0102*2,Area di Servizio - Novate Nord,Torino - Trieste,20026,45.530277,9.14942,alpitronic GmbH,15157.828,514,9822.26,300.0,Novate Milanese,5220.94,6662.0,Lombardia,0.0767
+IT*F2X*EF2XITD0101*1,Area di Servizio - Novate Nord,Torino - Trieste,20026,45.5303,9.14942,alpitronic GmbH,20478.269,731,13745.69,300.0,Novate Milanese,8310.63,9671.0,Lombardia,0.0767
+IT*F2X*EF2XITD0101*2,Area di Servizio - Novate Nord,Torino - Trieste,20026,45.5303,9.14942,alpitronic GmbH,18616.952000000005,618,12531.82,300.0,Novate Milanese,6243.62,7693.0,Lombardia,0.0767
+IT*F2X*EF2XITN0503*1,Area di Servizio - Pioppa Est,A14 - Autostrada Adriatica,40069,44.519363,11.214104,UNKNOWN,9246.347000000009,286,6267.37,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITD0151*1,Area di Servizio - Novate Nord,Torino - Trieste,20026,45.530433,9.149317,EVTEC,3759.4980000000014,181,2067.9,62.5,Novate Milanese,819.5,2090.0,Lombardia,0.0767
+IT*F2X*EF2XITD0151*2,Area di Servizio - Novate Nord,Torino - Trieste,20026,45.530433,9.149317,EVTEC,358.83700000000005,39,197.35,62.5,Novate Milanese,257.73,960.0,Lombardia,0.0767
+IT*F2X*EF2XITD0151*3,Area di Servizio - Novate Nord,Torino - Trieste,20026,45.530433,9.149317,EVTEC,1025.7039999999995,122,461.57,22.0,Novate Milanese,321.35,6004.0,Lombardia,0.0767
+IT*F2X*EF2XITH1001*1,Area di Servizio - Villoresi Est,A08 MILANO-VARESE,20020,45.558978,9.042351,alpitronic GmbH,21962.767000000025,640,14877.46,,,,,Lombardia,0.0767
+IT*F2X*EF2XITH1001*2,Area di Servizio - Villoresi Est,A08 MILANO-VARESE,20020,45.558978,9.042351,alpitronic GmbH,27725.59399999999,759,18871.22,,,,,Lombardia,0.0767
+IT*F2X*EF2XITH1002*1,Area di Servizio - Villoresi Est,A08 MILANO-VARESE,20020,45.558944,9.042353,alpitronic GmbH,23221.254000000008,696,15795.7,,,,,Lombardia,0.0767
+IT*F2X*EF2XITH1002*2,Area di Servizio - Villoresi Est,A08 MILANO-VARESE,20020,45.558944,9.042353,alpitronic GmbH,22206.426000000018,587,15083.27,,,,,Lombardia,0.0767
+IT*F2X*EF2XITH1051*1,Area di Servizio - Villoresi Est,A08 MILANO-VARESE,20020,45.559054,9.042329,EVTEC,3251.8889999999997,132,1784.01,,,,,Lombardia,0.0767
+IT*F2X*EF2XITH1051*2,Area di Servizio - Villoresi Est,A08 MILANO-VARESE,20020,45.559054,9.042329,EVTEC,635.7899999999998,39,349.73,,,,,Lombardia,0.0767
+IT*F2X*EF2XITH1051*3,Area di Servizio - Villoresi Est,A08 MILANO-VARESE,20020,45.559054,9.042329,EVTEC,679.5010000000002,132,304.46,,,,,Lombardia,0.0767
+IT*F2X*EF2XITN0504*1,Area di Servizio - Pioppa Est,A14 - Autostrada Adriatica,40069,44.519366,11.214183,alpitronic GmbH,9839.160000000003,296,6692.54,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0504*2,Area di Servizio - Pioppa Est,A14 - Autostrada Adriatica,40069,44.519366,11.214183,alpitronic GmbH,11591.107,326,7897.2,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0603*1,Area di Servizio - Pioppa Ovest,Autostrada Adriatica,40069,44.518367,11.214225,UNKNOWN,165.05100000000002,6,112.53,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0603*2,Area di Servizio - Pioppa Ovest,Autostrada Adriatica,40069,44.518367,11.214225,UNKNOWN,181.738,5,123.59,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0604*1,Area di Servizio - Pioppa Ovest,Autostrada Adriatica,40069,44.518376,11.214226,UNKNOWN,205.753,7,139.91,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0604*2,Area di Servizio - Pioppa Ovest,Autostrada Adriatica,40069,44.518376,11.214226,UNKNOWN,338.233,10,229.98,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITB5151*1,Area di Servizio - Teano Ovest,Autostrada A1- Direzione Napoli Km 708,81057,41.23376,14.091779,EVTEC,4493.149999999998,219,2473.43,62.5,Teano,1666.96,4522.0,Campania,0.0206
+IT*F2X*EF2XITB5151*2,Area di Servizio - Teano Ovest,Autostrada A1- Direzione Napoli Km 708,81057,41.23376,14.091779,EVTEC,369.1909999999999,30,203.07,62.5,Teano,214.87,894.0,Campania,0.0206
+IT*F2X*EF2XITB5151*3,Area di Servizio - Teano Ovest,Autostrada A1- Direzione Napoli Km 708,81057,41.23376,14.091779,EVTEC,1546.831000000001,192,749.13,22.0,Teano,611.68,8444.0,Campania,0.0206
+IT*F2X*EF2XITP2002*1,Area di Servizio - Irpinia Nord,Autostrada dei due Mari,83100,40.926719,14.783162,alpitronic GmbH,21452.255999999983,735,14591.22,300.0,Avellino,13240.32,15145.0,Campania,0.0206
+IT*F2X*EF2XITP2002*2,Area di Servizio - Irpinia Nord,Autostrada dei due Mari,83100,40.926719,14.783162,alpitronic GmbH,10216.45099999999,321,6946.22,300.0,Avellino,5559.07,6783.0,Campania,0.0206
+IT*F2X*EF2XITP2001*1,Area di Servizio - Irpinia Nord,Autostrada dei due Mari,83100,40.926673,14.783092,alpitronic GmbH,11980.568000000005,397,8146.85,300.0,Avellino,7773.16,8626.0,Campania,0.0206
+IT*F2X*EF2XITP2001*2,Area di Servizio - Irpinia Nord,Autostrada dei due Mari,83100,40.926673,14.783092,alpitronic GmbH,9899.45999999999,317,6731.68,300.0,Avellino,4696.34,5431.0,Campania,0.0206
+IT*F2X*EF2XITL9102*1,Area di Servizio - Sant'Ilario Sud,A12 Autostrada Azzurra,16167,44.392354,9.045146,alpitronic GmbH,17496.254999999994,602,11897.72,300.0,Genova,6173.8,7694.0,Liguria,0.0664
+IT*F2X*EF2XITL9102*2,Area di Servizio - Sant'Ilario Sud,A12 Autostrada Azzurra,16167,44.392354,9.045146,alpitronic GmbH,28767.235000000008,935,19603.75,300.0,Genova,9749.94,12253.0,Liguria,0.0664
+IT*F2X*EF2XITB4051*1,Area di Servizio - La Macchia Est,Autostrada del Sole,3012,41.686784,13.188454,EVTEC,6712.490000000002,311,3691.87,62.5,Anagni,3361.55,7485.0,Lazio,0.0694
+IT*F2X*EF2XITI1001*1,Area di Servizio - Lario Est,A9 Autostrada dei laghi,22071,45.728993,9.028775,alpitronic GmbH,50752.41999999996,1653,34514.04,300.0,Cadorago,29501.15,34845.0,Lombardia,0.0767
+IT*F2X*EF2XITI1001*2,Area di Servizio - Lario Est,A9 Autostrada dei laghi,22071,45.728993,9.028775,alpitronic GmbH,66342.8480000001,2060,45119.66,300.0,Cadorago,36787.08,42415.0,Lombardia,0.0767
+IT*F2X*EF2XITI1002*1,Area di Servizio - Lario Est,A9 Autostrada dei laghi,22071,45.729017,9.028915,alpitronic GmbH,50063.12000000001,1617,34044.62,300.0,Cadorago,30496.68,35141.0,Lombardia,0.0767
+IT*F2X*EF2XITI1002*2,Area di Servizio - Lario Est,A9 Autostrada dei laghi,22071,45.729017,9.028915,alpitronic GmbH,35096.98199999999,1057,23870.09,300.0,Cadorago,18667.62,21512.0,Lombardia,0.0767
+IT*F2X*EF2XITX2103*1,Area di Servizio - Stura Ovest,A26 - Autostrada dei Trafori,15070,44.592331,8.664828,alpitronic GmbH,6177.208999999997,208,4203.71,,,,,Piemonte,0.0732
+IT*F2X*EF2XITX2103*2,Area di Servizio - Stura Ovest,A26 - Autostrada dei Trafori,15070,44.592331,8.664828,alpitronic GmbH,9658.483000000004,274,6584.85,,,,,Piemonte,0.0732
+IT*F2X*EF2XITX2104*1,Area di Servizio - Stura Ovest,A26 - Autostrada dei Trafori,15070,44.592393,8.664861,alpitronic GmbH,9987.602,323,6824.6,,,,,Piemonte,0.0732
+IT*F2X*EF2XITA7103*1,Area di Servizio - Badia al Pino Ovest,A1  Autostrada del Sole,52041,43.407908,11.762828,UNKNOWN,3869.8580000000015,107,2632.1,,,,,Toscana,0.0877
+IT*F2X*EF2XITLINP01*1,Aeroporto - Linate Prime,Viale dell'Aviazione,20138,45.45354,9.26075,alpitronic GmbH,2972.3600000000006,102,2027.24,150.0,Milano,2714.87,4941.0,Piemonte,0.0732
+IT*F2X*EF2XITLINP01*2,Aeroporto - Linate Prime,Viale dell'Aviazione,20138,45.45354,9.26075,alpitronic GmbH,2122.845,66,1459.88,150.0,Milano,1223.39,2531.0,Piemonte,0.0732
+IT*F2X*EF2XITLINP51*1,Aeroporto - Linate Prime,Viale dell'Aviazione,20138,45.45359,9.2607,FIMER SPA,1603.687,53,721.67,22.0,Milano,640.9,12252.0,Piemonte,0.0732
+IT*F2X*EF2XITLINP51*2,Aeroporto - Linate Prime,Viale dell'Aviazione,20138,45.45359,9.2607,FIMER SPA,937.543,88,453.9,22.0,Milano,495.67,25461.0,Piemonte,0.0732
+IT*F2X*EF2XITX2104*2,Area di Servizio - Stura Ovest,A26 - Autostrada dei Trafori,15070,44.592393,8.664861,alpitronic GmbH,11227.678000000002,332,7646.46,,,,,Piemonte,0.0732
+IT*F2X*EF2XITA7103*2,Area di Servizio - Badia al Pino Ovest,A1  Autostrada del Sole,52041,43.407908,11.762828,UNKNOWN,2952.173,76,2010.0,,,,,Toscana,0.0877
+IT*F2X*EF2XITB5101*1,Area di Servizio - Teano Ovest,Autostrada A1- Direzione Napoli Km 708,81057,41.23408,14.09174,alpitronic GmbH,40053.52799999999,1339,27341.12,300.0,Teano,29196.15,36940.0,Campania,0.0206
+IT*F2X*EF2XITB5101*2,Area di Servizio - Teano Ovest,Autostrada A1- Direzione Napoli Km 708,81057,41.23408,14.09174,alpitronic GmbH,25243.87600000001,817,17216.54,300.0,Teano,18164.53,22353.0,Campania,0.0206
+IT*F2X*EF2XITB5102*1,Area di Servizio - Teano Ovest,Autostrada A1- Direzione Napoli Km 708,81057,41.23402,14.09175,alpitronic GmbH,32056.883999999995,1032,21806.92,300.0,Teano,27544.02,32921.0,Campania,0.0206
+IT*F2X*EF2XITB5102*2,Area di Servizio - Teano Ovest,Autostrada A1- Direzione Napoli Km 708,81057,41.23402,14.09175,alpitronic GmbH,15925.092000000015,510,10840.49,300.0,Teano,15651.17,19283.0,Campania,0.0206
+IT*F2X*EF2XITN3603*1,Area di Servizio - Montefeltro Ovest,Autostrada Adriatica,47838,43.994391,12.618461,alpitronic GmbH,3854.059,115,2628.24,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN3603*2,Area di Servizio - Montefeltro Ovest,Autostrada Adriatica,47838,43.994391,12.618461,alpitronic GmbH,7889.242999999995,206,5357.38,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN8101*1,Area di Servizio - Torre Cerrano Ovest,Autostrada Adriatica,64028,42.53075,14.12417,alpitronic GmbH,9658.326000000005,289,6570.32,300.0,Torre Cerrano,6399.62,7673.0,Abruzzo,0.0374
+IT*F2X*EF2XITN8101*2,Area di Servizio - Torre Cerrano Ovest,Autostrada Adriatica,64028,42.53075,14.12417,alpitronic GmbH,14061.691999999985,421,9565.53,300.0,Torre Cerrano,8798.56,10571.0,Abruzzo,0.0374
+IT*F2X*EF2XITP2151*1,Area di Servizio - Irpinia Sud,Autostrada dei due Mari,83100,40.925533,14.783258,EVTEC,427.323,23,235.02,62.5,Avellino,601.55,1528.0,Campania,0.0206
+IT*F2X*EF2XITP2151*2,Area di Servizio - Irpinia Sud,Autostrada dei due Mari,83100,40.925533,14.783258,EVTEC,35.132000000000005,3,19.33,62.5,Avellino,52.78,144.0,Campania,0.0206
+IT*F2X*EF2XITP2151*3,Area di Servizio - Irpinia Sud,Autostrada dei due Mari,83100,40.925533,14.783258,EVTEC,405.2330000000002,85,182.41,22.0,Avellino,130.47,2333.0,Campania,0.0206
+IT*F2X*EF2XITN3604*1,Area di Servizio - Montefeltro Ovest,Autostrada Adriatica,47838,43.994404,12.618473,alpitronic GmbH,9952.931999999992,299,6747.8,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITB4551*1,Area di Servizio - Casilina Est,Autostrada del Sole,3030,41.49775,13.684146,EVTEC,5135.878999999996,252,2831.74,62.5,Castrocielo,2260.43,5499.0,Lazio,0.0694
+IT*F2X*EF2XITB4551*2,Area di Servizio - Casilina Est,Autostrada del Sole,3030,41.49775,13.684146,EVTEC,687.2710000000002,46,377.85,62.5,Castrocielo,355.89,1448.0,Lazio,0.0694
+IT*F2X*EF2XITB4551*3,Area di Servizio - Casilina Est,Autostrada del Sole,3030,41.49775,13.684146,EVTEC,1696.3219999999997,285,765.94,22.0,Castrocielo,417.6,6208.0,Lazio,0.0694
+IT*F2X*EF2XITB4501*1,Area di Servizio - Casilina Est,Autostrada del Sole,3030,41.497739,13.684173,alpitronic GmbH,53018.87199999989,1698,36043.11,300.0,Castrocielo,33802.47,38554.0,Lazio,0.0694
+IT*F2X*EF2XITP4101*1,Area di Servizio - Calaggio Sud,A16 Autostrada dei due Mari,83059,41.064711,15.314124,alpitronic GmbH,10473.514,365,7095.22,300.0,Vallata,6657.6,8142.0,Campania,0.0206
+IT*F2X*EF2XITP4101*2,Area di Servizio - Calaggio Sud,A16 Autostrada dei due Mari,83059,41.064711,15.314124,alpitronic GmbH,4312.428000000001,134,2942.64,300.0,Vallata,3021.08,3620.0,Campania,0.0206
+IT*F2X*EF2XITB4501*2,Area di Servizio - Casilina Est,Autostrada del Sole,3030,41.497739,13.684173,alpitronic GmbH,39905.48600000004,1167,27114.31,300.0,Castrocielo,19907.9,23220.0,Lazio,0.0694
+IT*F2X*EF2XITB4502*1,Area di Servizio - Casilina Est,Autostrada del Sole,3030,41.497747,13.684229,alpitronic GmbH,38453.61600000002,1570,26168.76,300.0,Castrocielo,21234.44,26527.0,Lazio,0.0694
+IT*F2X*EF2XITB4502*2,Area di Servizio - Casilina Est,Autostrada del Sole,3030,41.497747,13.684229,alpitronic GmbH,40682.55399999998,1248,27662.87,300.0,Castrocielo,21107.45,25777.0,Lazio,0.0694
+IT*F2X*EF2XITM3101*1,Area di Servizio - Adige Ovest,"A13, Bologna - Padova",45023,45.042081,11.709672,alpitronic GmbH,26705.119999999963,922,18159.52,300.0,Costa di Rovigo,13513.47,15770.0,Veneto,0.062
+IT*F2X*EF2XITM3101*2,Area di Servizio - Adige Ovest,"A13, Bologna - Padova",45023,45.042081,11.709672,alpitronic GmbH,19701.26500000001,614,13396.87,300.0,Costa di Rovigo,9472.36,11186.0,Veneto,0.062
+IT*F2X*EF2XITM3102*1,Area di Servizio - Adige Ovest,"A13, Bologna - Padova",45023,45.042081,11.709672,alpitronic GmbH,7872.173999999999,232,5363.92,300.0,Costa di Rovigo,5386.59,6425.0,Veneto,0.062
+IT*F2X*EF2XITM3102*2,Area di Servizio - Adige Ovest,"A13, Bologna - Padova",45023,45.042081,11.709672,alpitronic GmbH,7835.439,230,5329.81,300.0,Costa di Rovigo,5376.75,6308.0,Veneto,0.062
+IT*F2X*EF2XITN0651*1,Area di Servizio - Pioppa Ovest,Autostrada Adriatica,40069,44.51833,11.21339,EVTEC,2898.428999999999,120,1594.34,62.5,Zola Predosa,1236.92,2768.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0651*2,Area di Servizio - Pioppa Ovest,Autostrada Adriatica,40069,44.51833,11.21339,EVTEC,604.986,40,332.78,62.5,Zola Predosa,274.26,1270.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0651*3,Area di Servizio - Pioppa Ovest,Autostrada Adriatica,40069,44.51833,11.21339,EVTEC,1044.5700000000002,156,470.01,22.0,Zola Predosa,413.08,6000.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN6501*1,Area di Servizio - Piceno Est,Autostrada Adriatica,63828,43.075081,13.844133,alpitronic GmbH,24504.335999999967,766,16687.94,300.0,Campofilone,13697.73,15956.0,Marche,0.0407
+IT*F2X*EF2XITN0551*1,Area di Servizio - Pioppa Est,A14 - Autostrada Adriatica,40069,44.51962,11.21388,EVTEC,2751.7300000000014,127,1515.11,62.5,Bologna,1695.17,3983.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0551*2,Area di Servizio - Pioppa Est,A14 - Autostrada Adriatica,40069,44.51962,11.21388,EVTEC,525.157,34,290.03,62.5,Bologna,294.49,1289.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0551*3,Area di Servizio - Pioppa Est,A14 - Autostrada Adriatica,40069,44.51962,11.21388,EVTEC,912.231,147,411.01,22.0,Bologna,347.4,4871.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITO3651*1,Area di Servizio - Canne della Battaglia ovest,Autostrada Adriatica,76123,41.250764,16.218878,EVTEC,1811.635,90,996.38,62.5,Andria,771.02,1663.0,Puglia,0.0246
+IT*F2X*EF2XITO3651*2,Area di Servizio - Canne della Battaglia ovest,Autostrada Adriatica,76123,41.250764,16.218878,EVTEC,198.04100000000005,18,108.92,62.5,Andria,170.72,898.0,Puglia,0.0246
+IT*F2X*EF2XITO3651*3,Area di Servizio - Canne della Battaglia ovest,Autostrada Adriatica,76123,41.250764,16.218878,EVTEC,420.7510000000001,77,189.35,22.0,Andria,150.74,2344.0,Puglia,0.0246
+IT*F2X*EF2XITN6501*2,Area di Servizio - Piceno Est,Autostrada Adriatica,63828,43.075081,13.844133,alpitronic GmbH,12171.570000000009,374,8253.32,300.0,Campofilone,6662.45,7977.0,Marche,0.0407
+IT*F2X*EF2XITN6502*1,Area di Servizio - Piceno Est,Autostrada Adriatica,63828,43.075146,13.844111,alpitronic GmbH,15799.844000000014,498,10706.76,300.0,Campofilone,8122.53,9384.0,Marche,0.0407
+IT*F2X*EF2XITN6502*2,Area di Servizio - Piceno Est,Autostrada Adriatica,63828,43.075146,13.844111,alpitronic GmbH,23677.57900000001,726,16092.07,300.0,Campofilone,12572.5,14348.0,Marche,0.0407
+IT*F2X*EF2XITN6551*1,Area di Servizio - Piceno Est,Autostrada Adriatica,63828,43.07504,13.844353,EVTEC,1389.2870000000005,71,764.74,62.5,Campofilone,611.92,1377.0,Marche,0.0407
+IT*F2X*EF2XITN6551*2,Area di Servizio - Piceno Est,Autostrada Adriatica,63828,43.07504,13.844353,EVTEC,268.38800000000003,20,155.14,62.5,Campofilone,241.53,986.0,Marche,0.0407
+IT*F2X*EF2XITN6551*3,Area di Servizio - Piceno Est,Autostrada Adriatica,63828,43.07504,13.844353,EVTEC,433.326,94,194.98,22.0,Campofilone,127.27,2664.0,Marche,0.0407
+IT*F2X*EF2XITO3551*1,Area di Servizio - Canne della Battaglia Est,Autostrada Adriatica,76123,41.251762,16.220455,EVTEC,1743.9770000000003,74,959.19,62.5,Andria,839.3,1946.0,Puglia,0.0246
+IT*F2X*EF2XITO3551*2,Area di Servizio - Canne della Battaglia Est,Autostrada Adriatica,76123,41.251762,16.220455,EVTEC,195.69599999999997,11,107.63,62.5,Andria,161.55,741.0,Puglia,0.0246
+IT*F2X*EF2XITO3551*3,Area di Servizio - Canne della Battaglia Est,Autostrada Adriatica,76123,41.251762,16.220455,EVTEC,372.24899999999985,73,167.55,22.0,Andria,107.14,1991.0,Puglia,0.0246
+IT*F2X*EF2XITJ3001*1,Area di Servizio - Aurelia Sud,Autostrada dei fiori,17100,44.287675,8.441118,alpitronic GmbH,23603.159999999996,715,16052.45,300.0,Savona,15456.74,18431.0,Liguria,0.0664
+IT*F2X*EF2XITJ3001*2,Area di Servizio - Aurelia Sud,Autostrada dei fiori,17100,44.287675,8.441118,alpitronic GmbH,29695.923999999995,838,20194.91,300.0,Savona,15939.31,18440.0,Liguria,0.0664
+IT*F2X*EF2XITJ3002*1,Area di Servizio - Aurelia Sud,Autostrada dei fiori,17100,44.287676,8.441151,alpitronic GmbH,20538.35000000001,666,13982.13,300.0,Savona,12982.11,15214.0,Liguria,0.0664
+IT*F2X*EF2XITJ3002*2,Area di Servizio - Aurelia Sud,Autostrada dei fiori,17100,44.287676,8.441151,alpitronic GmbH,19059.176,563,12963.76,300.0,Savona,11648.15,14108.0,Liguria,0.0664
+IT*F2X*EF2XITD2104*1,Area di Servizio - Brianza Sud,A4 Torino - Trieste,20864,45.574202,9.393671,UNKNOWN,4016.807999999999,55,2731.46,,,,,Lombardia,0.0767
+IT*F2X*EF2XITD2104*2,Area di Servizio - Brianza Sud,A4 Torino - Trieste,20864,45.574202,9.393671,UNKNOWN,1765.707,55,1205.62,,,,,Lombardia,0.0767
+IT*F2X*EF2XITD2103*1,Area di Servizio - Brianza Sud,A4 Torino - Trieste,20864,45.574048,9.393228,alpitronic GmbH,6088.727000000001,226,4148.62,,,,,Lombardia,0.0767
+IT*F2X*EF2XITD2103*2,Area di Servizio - Brianza Sud,A4 Torino - Trieste,20864,45.574048,9.393228,alpitronic GmbH,4129.101999999999,140,2808.55,,,,,Lombardia,0.0767
+IT*F2X*EF2XITI1104*1,Area di Servizio - Lario Ovest,A9 Autostrada dei laghi,22071,45.729809,9.028021,UNKNOWN,6325.4090000000015,218,4307.0,,,,,Lombardia,0.0767
+IT*F2X*EF2XITI1104*2,Area di Servizio - Lario Ovest,A9 Autostrada dei laghi,22071,45.729809,9.028021,UNKNOWN,5121.287999999999,148,3483.19,,,,,Lombardia,0.0767
+IT*F2X*EF2XITI1103*1,Area di Servizio - Lario Ovest,A9 Autostrada dei laghi,22071,45.729814,9.027998,UNKNOWN,4290.288999999999,136,2921.03,,,,,Lombardia,0.0767
+IT*F2X*EF2XITI1103*2,Area di Servizio - Lario Ovest,A9 Autostrada dei laghi,22071,45.729814,9.027998,UNKNOWN,12222.491,350,8320.99,,,,,Lombardia,0.0767
+IT*F2X*EF2XITA2103*1,Area di Servizio - Arda Ovest,A1 - Autostrada del Sole,29017,44.962876,9.904446,alpitronic GmbH,7017.058000000002,214,4756.41,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2103*2,Area di Servizio - Arda Ovest,A1 - Autostrada del Sole,29017,44.962876,9.904446,alpitronic GmbH,7205.710999999998,198,4881.44,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2104*1,Area di Servizio - Arda Ovest,A1 - Autostrada del Sole,29017,44.962845,9.904528,alpitronic GmbH,1702.44,46,1158.98,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2104*2,Area di Servizio - Arda Ovest,A1 - Autostrada del Sole,29017,44.962845,9.904528,alpitronic GmbH,1608.6029999999998,47,1095.93,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2003*1,Area di Servizio - Arda Est,A1 - Autostrada del Sole,29017,44.962729,9.906592,alpitronic GmbH,13641.22799999998,426,9285.04,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2003*2,Area di Servizio - Arda Est,A1 - Autostrada del Sole,29017,44.962729,9.906592,alpitronic GmbH,10292.526000000003,284,7011.43,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2103*1,Area di Servizio - Po Ovest,A13 Bologna - Padova,44121,44.88008,11.569063,alpitronic GmbH,1607.7040000000002,53,1094.2,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2103*2,Area di Servizio - Po Ovest,A13 Bologna - Padova,44121,44.88008,11.569063,alpitronic GmbH,1455.148,38,989.51,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2104*1,Area di Servizio - Po Ovest,A13 Bologna - Padova,44121,44.880125,11.569063,alpitronic GmbH,1982.611,71,1348.5,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2104*2,Area di Servizio - Po Ovest,A13 Bologna - Padova,44121,44.880125,11.569063,alpitronic GmbH,2796.447000000001,78,1902.1,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITB4102*1,Area di Servizio - La Macchia Ovest,Autostrada del Sole,3012,41.686022,13.187523,alpitronic GmbH,40079.49200000001,1319,27277.87,300.0,Anagni,24145.86,28801.0,Lazio,0.0694
+IT*F2X*EF2XITB4102*2,Area di Servizio - La Macchia Ovest,Autostrada del Sole,3012,41.686022,13.187523,alpitronic GmbH,18449.712000000007,591,12520.17,300.0,Anagni,9327.88,10951.0,Lazio,0.0694
+IT*F2X*EF2XITB4101*1,Area di Servizio - La Macchia Ovest,Autostrada del Sole,3012,41.686065,13.187462,alpitronic GmbH,52073.2799999999,1739,35436.79,300.0,Anagni,32206.11,38341.0,Lazio,0.0694
+IT*F2X*EF2XITB4101*2,Area di Servizio - La Macchia Ovest,Autostrada del Sole,3012,41.686065,13.187462,alpitronic GmbH,43181.387999999984,1380,29369.18,300.0,Anagni,25141.31,29789.0,Lazio,0.0694
+IT*F2X*EF2XITA1601*1,Area di Servizio - Somaglia Ovest,A1 - Autostrada del Sole,26867,45.142303,9.632834,alpitronic GmbH,21592.647999999976,871,14690.96,300.0,Somaglia,12316.16,15466.0,Lombardia,0.0767
+IT*F2X*EF2XITA1601*2,Area di Servizio - Somaglia Ovest,A1 - Autostrada del Sole,26867,45.142303,9.632834,alpitronic GmbH,21025.570000000003,633,14288.8,300.0,Somaglia,12045.01,14631.0,Lombardia,0.0767
+IT*F2X*EF2XITB5103*1,Area di Servizio - Teano Ovest,Autostrada A1- Direzione Napoli Km 708,81057,41.234115,14.091836,alpitronic GmbH,9760.997,308,6604.34,,,,,Campania,0.0206
+IT*F2X*EF2XITB5103*2,Area di Servizio - Teano Ovest,Autostrada A1- Direzione Napoli Km 708,81057,41.234115,14.091836,alpitronic GmbH,10614.872000000008,321,7194.4,,,,,Campania,0.0206
+IT*F2X*EF2XITB5104*1,Area di Servizio - Teano Ovest,Autostrada A1- Direzione Napoli Km 708,81057,41.2341,14.091828,alpitronic GmbH,5874.071,192,3993.98,,,,,Campania,0.0206
+IT*F2X*EF2XITB5104*2,Area di Servizio - Teano Ovest,Autostrada A1- Direzione Napoli Km 708,81057,41.2341,14.091828,alpitronic GmbH,3288.8129999999996,99,2231.47,,,,,Campania,0.0206
+IT*F2X*EF2XITI1102*1,Area di Servizio - Lario Ovest,A9 Autostrada dei laghi,22071,45.729876,9.028002,alpitronic GmbH,35807.231999999996,1308,24244.37,300.0,Cadorago,27090.01,32244.0,Lombardia,0.0767
+IT*F2X*EF2XITI1102*2,Area di Servizio - Lario Ovest,A9 Autostrada dei laghi,22071,45.729876,9.028002,alpitronic GmbH,33978.36599999998,1087,23110.11,300.0,Cadorago,16222.44,19395.0,Lombardia,0.0767
+IT*F2X*EF2XITI1101*1,Area di Servizio - Lario Ovest,A9 Autostrada dei laghi,22071,45.729872,9.028027,alpitronic GmbH,29238.683999999997,1004,19887.3,300.0,Cadorago,17837.65,21325.0,Lombardia,0.0767
+IT*F2X*EF2XITI1101*2,Area di Servizio - Lario Ovest,A9 Autostrada dei laghi,22071,45.729872,9.028027,alpitronic GmbH,48570.02399999992,1514,33054.54,300.0,Cadorago,27387.52,32582.0,Lombardia,0.0767
+IT*F2X*EF2XITM2002*1,Area di Servizio - Po Est,A13 Bologna - Padova,44121,44.879309,11.570733,alpitronic GmbH,15806.34000000001,525,10774.78,300.0,Ferrara,16158.22,19054.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2002*2,Area di Servizio - Po Est,A13 Bologna - Padova,44121,44.879309,11.570733,alpitronic GmbH,18328.060000000012,616,12472.71,300.0,Ferrara,15615.46,19347.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA1602*1,Area di Servizio - Somaglia Ovest,A1 - Autostrada del Sole,26867,45.142295,9.63287,alpitronic GmbH,28951.365999999973,1032,19695.61,300.0,Somaglia,15244.37,23574.0,Lombardia,0.0767
+IT*F2X*EF2XITA1602*2,Area di Servizio - Somaglia Ovest,A1 - Autostrada del Sole,26867,45.142295,9.63287,alpitronic GmbH,28369.616000000005,929,19271.55,300.0,Somaglia,12827.37,20047.0,Lombardia,0.0767
+IT*F2X*EF2XITM1002*2,Area di Servizio - Castel Bentivoglio Est,A13 Bologna - Padova,40010,44.621103,11.419783,alpitronic GmbH,9505.767999999998,371,6466.88,300.0,Bentivoglio,4949.97,6023.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA1651*1,Area di Servizio - Somaglia Ovest,A1 - Autostrada del Sole,26867,45.142338,9.632621,EVTEC,3512.0649999999996,172,1937.2,62.5,Somaglia,1797.01,4197.0,Lombardia,0.0767
+IT*F2X*EF2XITA1651*2,Area di Servizio - Somaglia Ovest,A1 - Autostrada del Sole,26867,45.142338,9.632621,EVTEC,544.767,32,299.64,62.5,Somaglia,364.73,1462.0,Lombardia,0.0767
+IT*F2X*EF2XITN6601*1,Area di Servizio - Piceno Ovest,Autostrada Adriatica,63828,43.075092,13.842841,alpitronic GmbH,21653.43199999999,677,14726.04,300.0,Campofilone,13751.1,15450.0,Marche,0.0407
+IT*F2X*EF2XITN6601*2,Area di Servizio - Piceno Ovest,Autostrada Adriatica,63828,43.075092,13.842841,alpitronic GmbH,19228.06199999998,569,13025.88,300.0,Campofilone,10257.45,12573.0,Marche,0.0407
+IT*F2X*EF2XITN6602*1,Area di Servizio - Piceno Ovest,Autostrada Adriatica,63828,43.074984,13.842805,alpitronic GmbH,14188.315999999992,486,9649.98,300.0,Campofilone,9250.49,10518.0,Marche,0.0407
+IT*F2X*EF2XITN6602*2,Area di Servizio - Piceno Ovest,Autostrada Adriatica,63828,43.074984,13.842805,alpitronic GmbH,13002.966,402,8842.12,300.0,Campofilone,6664.48,7761.0,Marche,0.0407
+IT*F2X*EF2XITA1651*3,Area di Servizio - Somaglia Ovest,A1 - Autostrada del Sole,26867,45.142338,9.632621,EVTEC,1244.888,219,560.21,22.0,Somaglia,341.35,5521.0,Lombardia,0.0767
+IT*F2X*EF2XITG7001*1,Area di Servizio - Giovi Est,A7 - Autostrada dei Giovi,16019,44.603742,8.953914,alpitronic GmbH,15335.921999999991,548,10427.12,300.0,Ronco Scrivia,8509.02,10362.0,Liguria,0.0664
+IT*F2X*EF2XITG7001*2,Area di Servizio - Giovi Est,A7 - Autostrada dei Giovi,16019,44.603742,8.953914,alpitronic GmbH,10590.413000000008,342,7201.68,300.0,Ronco Scrivia,4821.69,5423.0,Liguria,0.0664
+IT*F2X*EF2XITM1051*1,Area di Servizio - Castel Bentivoglio Est,A13 Bologna - Padova,40010,44.621041,11.419495,EVTEC,1164.437,56,640.42,62.5,Bentivoglio,465.76,1257.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM1051*2,Area di Servizio - Castel Bentivoglio Est,A13 Bologna - Padova,40010,44.621041,11.419495,EVTEC,448.8809999999999,28,246.89,62.5,Bentivoglio,277.18,930.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM1051*3,Area di Servizio - Castel Bentivoglio Est,A13 Bologna - Padova,40010,44.621041,11.419495,EVTEC,739.7969999999999,126,333.64,22.0,Bentivoglio,254.42,3391.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITCOLMI06*2,COLUMBUS - 06,Via Michelangelo Buonarroti,20145,45.472776,9.15579,UNKNOWN,54.799,5,24.66,,,,,Piemonte,0.0732
+IT*F2X*EF2XITM2001*1,Area di Servizio - Po Est,A13 Bologna - Padova,44121,44.879309,11.570733,alpitronic GmbH,23507.800000000032,819,16026.37,300.0,Ferrara,22033.32,25868.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2001*2,Area di Servizio - Po Est,A13 Bologna - Padova,44121,44.879309,11.570733,alpitronic GmbH,16229.983999999984,560,11040.16,300.0,Ferrara,12249.42,17211.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITG7002*1,Area di Servizio - Giovi Est,A7 - Autostrada dei Giovi,16019,44.603752,8.953927,alpitronic GmbH,13768.21699999999,520,9364.42,300.0,Ronco Scrivia,6186.25,7754.0,Liguria,0.0664
+IT*F2X*EF2XITG7002*2,Area di Servizio - Giovi Est,A7 - Autostrada dei Giovi,16019,44.603752,8.953927,alpitronic GmbH,20118.934999999976,694,13681.86,300.0,Ronco Scrivia,8971.91,11078.0,Liguria,0.0664
+IT*F2X*EF2XITM1001*1,Area di Servizio - Castel Bentivoglio Est,A13 Bologna - Padova,40010,44.621103,11.419783,alpitronic GmbH,12315.128,438,8374.38,300.0,Bentivoglio,6946.19,8533.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2101*1,Area di Servizio - Po Ovest,A13 Bologna - Padova,44121,44.880125,11.569063,alpitronic GmbH,19714.00000000001,678,13408.49,300.0,Ferrara,16225.59,18747.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2101*2,Area di Servizio - Po Ovest,A13 Bologna - Padova,44121,44.880125,11.569063,alpitronic GmbH,16696.076,522,11364.64,300.0,Ferrara,11083.4,13749.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2102*1,Area di Servizio - Po Ovest,A13 Bologna - Padova,44121,44.88008,11.569063,alpitronic GmbH,13205.322,423,8979.6,300.0,Ferrara,10269.54,12117.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2102*2,Area di Servizio - Po Ovest,A13 Bologna - Padova,44121,44.88008,11.569063,alpitronic GmbH,9808.338,319,6669.73,300.0,Ferrara,6907.53,8703.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA1151*1,Area di Servizio - San Zenone al Lambro Ovest,A1 - Autostrada del Sole,20070,45.320858,9.375379,EVTEC,2528.952,120,1398.41,62.5,Melegnano,799.96,2290.0,Lombardia,0.0767
+IT*F2X*EF2XITD3001*1,Area di Servizio - Brembo Nord,A4 Torino - Venezia,24040,45.6329,9.599531,UNKNOWN,11574.308000000005,366,7921.0,300.0,Osio Sopra,1292.91,1615.0,Lombardia,0.0767
+IT*F2X*EF2XITB2651*1,Area di Servizio - Prenestina Ovest,A1 - Autostrada del Sole,10,41.889611,12.758468,EVTEC,2809.481,127,1589.94,62.5,Roma,770.5600000000001,1843.0,Lazio,0.0694
+IT*F2X*EF2XITB2651*2,Area di Servizio - Prenestina Ovest,A1 - Autostrada del Sole,10,41.889611,12.758468,EVTEC,154.778,13,87.37,62.5,Roma,188.45,736.0,Lazio,0.0694
+IT*F2X*EF2XITB2651*3,Area di Servizio - Prenestina Ovest,A1 - Autostrada del Sole,10,41.889611,12.758468,EVTEC,474.2960000000003,100,232.57,22.0,Roma,146.69,2761.0,Lazio,0.0694
+IT*F2X*EF2XITD3001*2,Area di Servizio - Brembo Nord,A4 Torino - Venezia,24040,45.6329,9.599531,UNKNOWN,11882.138000000004,365,8080.29,300.0,Osio Sopra,911.69,1300.0,Lombardia,0.0767
+IT*F2X*EF2XITD3002*1,Area di Servizio - Brembo Nord,A4 Torino - Venezia,24040,45.632842,9.599435,UNKNOWN,23588.021000000022,836,16056.46,300.0,Osio Sopra,5426.19,6603.0,Lombardia,0.0767
+IT*F2X*EF2XITD3002*2,Area di Servizio - Brembo Nord,A4 Torino - Venezia,24040,45.632842,9.599435,UNKNOWN,29882.45599999997,971,20325.12,300.0,Osio Sopra,5517.2,7017.0,Lombardia,0.0767
+IT*F2X*EF2XITD3051*1,Area di Servizio - Brembo Nord,A4 Torino - Venezia,24040,45.632936,9.599632,UNKNOWN,1805.867,102,994.25,62.5,Osio Sopra,198.21,512.0,Lombardia,0.0767
+IT*F2X*EF2XITD3051*2,Area di Servizio - Brembo Nord,A4 Torino - Venezia,24040,45.632936,9.599632,UNKNOWN,543.0879999999999,40,298.7,62.5,Osio Sopra,117.66,392.0,Lombardia,0.0767
+IT*F2X*EF2XITD3051*3,Area di Servizio - Brembo Nord,A4 Torino - Venezia,24040,45.632936,9.599632,UNKNOWN,750.3439999999998,117,338.74,22.0,Osio Sopra,121.16,1869.0,Lombardia,0.0767
+IT*F2X*EF2XITK1101*1,Area di Servizio - Peretola Sud,Autostrada Firenze-Mare,50019,43.818725,11.172365,alpitronic GmbH,34235.464000000014,1144,23288.44,300.0,Sesto Fiorentino,22277.04,26299.0,Toscana,0.0877
+IT*F2X*EF2XITK1101*2,Area di Servizio - Peretola Sud,Autostrada Firenze-Mare,50019,43.818725,11.172365,alpitronic GmbH,25044.145999999997,829,16995.63,300.0,Sesto Fiorentino,13794.52,17816.0,Toscana,0.0877
+IT*F2X*EF2XITK1102*1,Area di Servizio - Peretola Sud,Autostrada Firenze-Mare,50019,43.818687,11.172426,alpitronic GmbH,13770.481999999998,446,9363.98,300.0,Sesto Fiorentino,9328.61,10891.0,Toscana,0.0877
+IT*F2X*EF2XITK1102*2,Area di Servizio - Peretola Sud,Autostrada Firenze-Mare,50019,43.818687,11.172426,alpitronic GmbH,16286.453999999996,507,11090.92,300.0,Sesto Fiorentino,8046.07,9723.0,Toscana,0.0877
+IT*F2X*EF2XITD2151*1,Area di Servizio - Brianza Sud,A4 Torino - Trieste,20864,45.57403,9.39375,EVTEC,2084.186999999999,129,1146.59,62.5,Caponago,1028.44,2626.0,Lombardia,0.0767
+IT*F2X*EF2XITD2151*2,Area di Servizio - Brianza Sud,A4 Torino - Trieste,20864,45.57403,9.39375,EVTEC,722.3389999999998,61,382.42,62.5,Caponago,404.99,1387.0,Lombardia,0.0767
+IT*F2X*EF2XITD2151*3,Area di Servizio - Brianza Sud,A4 Torino - Trieste,20864,45.57403,9.39375,EVTEC,1708.2540000000013,262,770.74,22.0,Caponago,593.86,8026.0,Lombardia,0.0767
+IT*F2X*EF2XITA5502*1,Area di Servizio - Firenze Nord,Sesto Fiorentino,50019,43.831821,11.16024,alpitronic GmbH,35239.36399999997,1058,24045.8,300.0,Firenze,27920.7,33480.0,Toscana,0.0877
+IT*F2X*EF2XITA5502*2,Area di Servizio - Firenze Nord,Sesto Fiorentino,50019,43.831821,11.16024,alpitronic GmbH,30569.812,889,20774.04,300.0,Firenze,21851.35,25867.0,Toscana,0.0877
+IT*F2X*EF2XITA5501*1,Area di Servizio - Firenze Nord,Sesto Fiorentino,50019,43.831844,11.160295,alpitronic GmbH,26938.695999999985,895,18343.64,300.0,Firenze,21701.82,26150.0,Toscana,0.0877
+IT*F2X*EF2XITA5501*2,Area di Servizio - Firenze Nord,Sesto Fiorentino,50019,43.831844,11.160295,alpitronic GmbH,31805.20399999999,975,21655.27,300.0,Firenze,21369.44,26080.0,Toscana,0.0877
+IT*F2X*EF2XITA1051*1,Area di Servizio - San Zenone al Lambro Est,A1 - Autostrada del Sole,20070,45.321575,9.377425,EVTEC,1495.5049999999994,85,822.52,62.5,Melegnano,1359.09,3077.0,Lombardia,0.0767
+IT*F2X*EF2XITA1051*2,Area di Servizio - San Zenone al Lambro Est,A1 - Autostrada del Sole,20070,45.321575,9.377425,EVTEC,779.4920000000001,58,428.74,62.5,Melegnano,562.33,2397.0,Lombardia,0.0767
+IT*F2X*EF2XITA1051*3,Area di Servizio - San Zenone al Lambro Est,A1 - Autostrada del Sole,20070,45.321575,9.377425,EVTEC,769.224,121,347.06,22.0,Melegnano,416.08,5321.0,Lombardia,0.0767
+IT*F2X*EF2XITA1101*1,Area di Servizio - San Zenone al Lambro Ovest,A1 - Autostrada del Sole,20070,45.321025,9.375251,alpitronic GmbH,27913.89600000002,888,18988.47,300.0,Melegnano,27778.73,31524.0,Lombardia,0.0767
+IT*F2X*EF2XITA1101*2,Area di Servizio - San Zenone al Lambro Ovest,A1 - Autostrada del Sole,20070,45.321025,9.375251,alpitronic GmbH,21696.347999999984,712,14725.41,300.0,Melegnano,16891.81,20528.0,Lombardia,0.0767
+IT*F2X*EF2XITA1102*1,Area di Servizio - San Zenone al Lambro Ovest,A1 - Autostrada del Sole,20070,45.321051,9.375283,alpitronic GmbH,25910.983999999964,837,17607.39,300.0,Melegnano,20923.24,25324.0,Lombardia,0.0767
+IT*F2X*EF2XITA1102*2,Area di Servizio - San Zenone al Lambro Ovest,A1 - Autostrada del Sole,20070,45.321051,9.375283,alpitronic GmbH,41156.535999999986,1295,27894.83,300.0,Melegnano,28881.19,35957.0,Lombardia,0.0767
+IT*F2X*EF2XITA1151*2,Area di Servizio - San Zenone al Lambro Ovest,A1 - Autostrada del Sole,20070,45.320858,9.375379,EVTEC,711.2669999999998,54,392.42,62.5,Melegnano,393.33,1538.0,Lombardia,0.0767
+IT*F2X*EF2XITA1151*3,Area di Servizio - San Zenone al Lambro Ovest,A1 - Autostrada del Sole,20070,45.320858,9.375379,EVTEC,1295.8480000000004,202,583.12,22.0,Melegnano,421.74,5693.0,Lombardia,0.0767
+IT*F2X*EF2XITW1101*1,Area di Servizio - Ledra Ovest,A23 Autostrada Palmanova-Tarvisio,33010,46.18619,13.118897,alpitronic GmbH,7754.935999999999,251,5256.14,300.0,Colloredo di Monte Albano,601.84,780.0,Friuli-Venezia Giulia,0.0551
+IT*F2X*EF2XITW1101*2,Area di Servizio - Ledra Ovest,A23 Autostrada Palmanova-Tarvisio,33010,46.18619,13.118897,alpitronic GmbH,28010.45699999998,870,19048.11,300.0,Colloredo di Monte Albano,2726.42,2892.0,Friuli-Venezia Giulia,0.0551
+IT*F2X*EF2XITW1102*1,Area di Servizio - Ledra Ovest,A23 Autostrada Palmanova-Tarvisio,33010,46.186181,13.118957,alpitronic GmbH,19150.195000000003,636,13036.25,300.0,Colloredo di Monte Albano,2550.64,2955.0,Friuli-Venezia Giulia,0.0551
+IT*F2X*EF2XITW1102*2,Area di Servizio - Ledra Ovest,A23 Autostrada Palmanova-Tarvisio,33010,46.186181,13.118957,alpitronic GmbH,26174.70200000001,833,17798.96,300.0,Colloredo di Monte Albano,3012.45,3508.0,Friuli-Venezia Giulia,0.0551
+IT*F2X*EF2XITN3601*1,Area di Servizio - Montefeltro Ovest,Autostrada Adriatica,47838,43.994348,12.618521,alpitronic GmbH,32631.21200000007,1021,22166.61,300.0,Riccione,22859.83,25892.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN3601*2,Area di Servizio - Montefeltro Ovest,Autostrada Adriatica,47838,43.994348,12.618521,alpitronic GmbH,30918.967999999975,923,20965.78,300.0,Riccione,17309.59,20743.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN3602*1,Area di Servizio - Montefeltro Ovest,Autostrada Adriatica,47838,43.994373,12.618548,alpitronic GmbH,35677.03199999996,1121,24397.37,300.0,Riccione,27334.54,31777.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN3602*2,Area di Servizio - Montefeltro Ovest,Autostrada Adriatica,47838,43.994373,12.618548,alpitronic GmbH,33014.27199999999,999,22426.2,300.0,Riccione,19513.8,23982.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2051*1,Area di Servizio - Arda Est,A1 - Autostrada del Sole,29017,44.962899,9.906408,EVTEC,11606.419,528,6392.01,62.5,Casa Nuova,6324.83,13759.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2051*2,Area di Servizio - Arda Est,A1 - Autostrada del Sole,29017,44.962899,9.906408,EVTEC,1315.331,80,723.22,62.5,Casa Nuova,911.52,3415.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2051*3,Area di Servizio - Arda Est,A1 - Autostrada del Sole,29017,44.962899,9.906408,EVTEC,2101.9989999999984,325,945.81,22.0,Casa Nuova,661.1,8842.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2001*1,Area di Servizio - Arda Est,A1 - Autostrada del Sole,29017,44.962843,9.906473,alpitronic GmbH,68450.14399999997,2136,46524.74,300.0,Casa Nuova,51286.73,57684.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2001*2,Area di Servizio - Arda Est,A1 - Autostrada del Sole,29017,44.962843,9.906473,alpitronic GmbH,59881.303999999895,1760,40704.9,300.0,Casa Nuova,36859.15,45465.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2002*1,Area di Servizio - Arda Est,A1 - Autostrada del Sole,29017,44.962798,9.906515,alpitronic GmbH,68289.67199999992,2175,46492.95,300.0,Casa Nuova,51205.17,58379.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2002*2,Area di Servizio - Arda Est,A1 - Autostrada del Sole,29017,44.962798,9.906515,alpitronic GmbH,74152.35199999996,2092,50355.66,300.0,Casa Nuova,54209.87,62399.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA1501*1,Area di Servizio - Somaglia Est,A1 - Autostrada del Sole,26867,45.142708,9.635074,alpitronic GmbH,20136.761000000028,674,13661.28,300.0,Somaglia,2903.83,3369.0,Lombardia,0.0767
+IT*F2X*EF2XITA1501*2,Area di Servizio - Somaglia Est,A1 - Autostrada del Sole,26867,45.142708,9.635074,alpitronic GmbH,25850.863,718,17582.24,300.0,Somaglia,2041.55,2290.0,Lombardia,0.0767
+IT*F2X*EF2XITA1502*1,Area di Servizio - Somaglia Est,A1 - Autostrada del Sole,26867,45.142631,9.63498,alpitronic GmbH,30292.163999999997,1046,20624.49,300.0,Somaglia,5068.66,5437.0,Lombardia,0.0767
+IT*F2X*EF2XITA1502*2,Area di Servizio - Somaglia Est,A1 - Autostrada del Sole,26867,45.142631,9.63498,alpitronic GmbH,35567.524999999965,1141,24028.79,300.0,Somaglia,4390.9,5487.0,Lombardia,0.0767
+IT*F2X*EF2XITA1551*1,Area di Servizio - Somaglia Est,A1 - Autostrada del Sole,26867,45.142511,9.634849,EVTEC,3466.5579999999964,181,1908.14,62.5,Somaglia,290.61,628.0,Lombardia,0.0767
+IT*F2X*EF2XITA1551*2,Area di Servizio - Somaglia Est,A1 - Autostrada del Sole,26867,45.142511,9.634849,EVTEC,495.5879999999999,35,272.86,62.5,Somaglia,99.66,336.0,Lombardia,0.0767
+IT*F2X*EF2XITA1551*3,Area di Servizio - Somaglia Est,A1 - Autostrada del Sole,26867,45.142511,9.634849,EVTEC,825.3599999999998,149,372.22,22.0,Somaglia,76.08,919.0,Lombardia,0.0767
+IT*F2X*EF2XITP2051*1,Area di Servizio - Irpinia Nord,Autostrada dei due Mari,83100,40.926719,14.783162,EVTEC,924.516,60,508.5,62.5,Avellino,390.82,939.0,Campania,0.0206
+IT*F2X*EF2XITP2051*2,Area di Servizio - Irpinia Nord,Autostrada dei due Mari,83100,40.926719,14.783162,EVTEC,169.213,9,93.07,62.5,Avellino,21.02,67.0,Campania,0.0206
+IT*F2X*EF2XITH3004*1,Area di Servizio - Brughiera Est,Autostrada dei laghi,21040,45.762436,8.810945,UNKNOWN,1442.4889999999998,51,980.88,,,,,Lombardia,0.0767
+IT*F2X*EF2XITP2051*3,Area di Servizio - Irpinia Nord,Autostrada dei due Mari,83100,40.926719,14.783162,EVTEC,193.319,36,86.97,22.0,Avellino,82.33,1017.0,Campania,0.0206
+IT*F2X*EF2XITH3004*2,Area di Servizio - Brughiera Est,Autostrada dei laghi,21040,45.762436,8.810945,UNKNOWN,2312.429,79,1572.38,,,,,Lombardia,0.0767
+IT*F2X*EF2XITH3051*1,Area di Servizio - Brughiera Est,Autostrada dei laghi,21040,45.762135,8.810747,EVTEC,3881.863999999998,170,2139.32,62.5,Cascine Maggio,1254.55,2945.0,Lombardia,0.0767
+IT*F2X*EF2XITH3051*2,Area di Servizio - Brughiera Est,Autostrada dei laghi,21040,45.762135,8.810747,EVTEC,398.977,37,219.44,62.5,Cascine Maggio,199.12,727.0,Lombardia,0.0767
+IT*F2X*EF2XITH3051*3,Area di Servizio - Brughiera Est,Autostrada dei laghi,21040,45.762135,8.810747,EVTEC,973.4910000000004,94,438.06,22.0,Cascine Maggio,257.89,3074.0,Lombardia,0.0767
+IT*F2X*EF2XITN5003*1,Area di Servizio - Esino Est,Autostrada Adriatica,60033,43.626918,13.334995,alpitronic GmbH,4393.452,120,2987.53,,,,,Marche,0.0407
+IT*F2X*EF2XITN5003*2,Area di Servizio - Esino Est,Autostrada Adriatica,60033,43.626918,13.334995,alpitronic GmbH,3448.852999999999,85,2346.88,,,,,Marche,0.0407
+IT*F2X*EF2XITN5004*1,Area di Servizio - Esino Est,Autostrada Adriatica,60033,43.626851,13.334995,alpitronic GmbH,7539.885999999998,219,5101.76,,,,,Marche,0.0407
+IT*F2X*EF2XITN5004*2,Area di Servizio - Esino Est,Autostrada Adriatica,60033,43.626851,13.334995,alpitronic GmbH,5455.259000000003,152,3716.01,,,,,Marche,0.0407
+IT*F2X*EF2XITN5001*1,Area di Servizio - Esino Est,Autostrada Adriatica,60033,43.62697,13.33526,alpitronic GmbH,30068.071999999996,877,20414.28,300.0,Chiaravalle,21437.88,24859.0,Marche,0.0407
+IT*F2X*EF2XITN5001*2,Area di Servizio - Esino Est,Autostrada Adriatica,60033,43.62697,13.33526,alpitronic GmbH,19804.236,565,13449.6,300.0,Chiaravalle,12935.6,15648.0,Marche,0.0407
+IT*F2X*EF2XITN9101*1,Area di Servizio - Sangro Ovest,Autostrada Adriatica,66020,42.200133,14.561535,alpitronic GmbH,17293.32800000001,497,11760.9,300.0,Torino di Sangro,7448.25,8570.0,Abruzzo,0.0374
+IT*F2X*EF2XITN9101*2,Area di Servizio - Sangro Ovest,Autostrada Adriatica,66020,42.200133,14.561535,alpitronic GmbH,16596.846999999994,462,11238.97,300.0,Torino di Sangro,6786.45,7914.0,Abruzzo,0.0374
+IT*F2X*EF2XITN9102*1,Area di Servizio - Sangro Ovest,Autostrada Adriatica,66020,42.200133,14.561535,alpitronic GmbH,19580.79299999996,579,13323.83,300.0,Torino di Sangro,9101.1,10543.0,Abruzzo,0.0374
+IT*F2X*EF2XITN9102*2,Area di Servizio - Sangro Ovest,Autostrada Adriatica,66020,42.200133,14.561535,alpitronic GmbH,11835.736999999996,348,8026.29,300.0,Torino di Sangro,4633.36,5536.0,Abruzzo,0.0374
+IT*F2X*EF2XITN9151*1,Area di Servizio - Sangro Ovest,Autostrada Adriatica,66020,42.200133,14.561535,EVTEC,1919.1689999999992,91,1055.82,62.5,Torino di Sangro,540.3100000000001,1228.0,Abruzzo,0.0374
+IT*F2X*EF2XITN5002*1,Area di Servizio - Esino Est,Autostrada Adriatica,60033,43.62697,13.33516,alpitronic GmbH,32803.664,1015,22277.65,300.0,Chiaravalle,26168.64,31350.0,Marche,0.0407
+IT*F2X*EF2XITN5002*2,Area di Servizio - Esino Est,Autostrada Adriatica,60033,43.62697,13.33516,alpitronic GmbH,25433.288000000008,726,17280.08,300.0,Chiaravalle,16588.06,20299.0,Marche,0.0407
+IT*F2X*EF2XITN9151*2,Area di Servizio - Sangro Ovest,Autostrada Adriatica,66020,42.200133,14.561535,EVTEC,506.19700000000006,28,278.41,62.5,Torino di Sangro,307.09,1051.0,Abruzzo,0.0374
+IT*F2X*EF2XITN9151*3,Area di Servizio - Sangro Ovest,Autostrada Adriatica,66020,42.200133,14.561535,EVTEC,483.4100000000001,125,218.07,22.0,Torino di Sangro,98.21,2051.0,Abruzzo,0.0374
+IT*F2X*EF2XITH3151*1,Area di Servizio - Brughiera Ovest,Autostrada dei laghi,21040,45.762921,8.809442,EVTEC,2683.476999999999,140,1481.73,62.5,Cascine Maggio,943.34,2198.0,Lombardia,0.0767
+IT*F2X*EF2XITH3151*2,Area di Servizio - Brughiera Ovest,Autostrada dei laghi,21040,45.762921,8.809442,EVTEC,567.8020000000002,50,312.27,62.5,Cascine Maggio,356.41,1499.0,Lombardia,0.0767
+IT*F2X*EF2XITH3151*3,Area di Servizio - Brughiera Ovest,Autostrada dei laghi,21040,45.762921,8.809442,EVTEC,518.6870000000001,79,233.35,22.0,Cascine Maggio,111.83,2415.0,Lombardia,0.0767
+IT*F2X*EF2XITLINC51*1,Aeroporto - Linate,Aeroporto Linate - Arrivi,20090,45.46215,9.27871,EVTEC,10430.153999999997,486,5978.51,62.5,Milano,4496.7,12004.0,Piemonte,0.0732
+IT*F2X*EF2XITLINC51*2,Aeroporto - Linate,Aeroporto Linate - Arrivi,20090,45.46215,9.27871,EVTEC,204.779,27,112.61,62.5,Milano,243.08,1087.0,Piemonte,0.0732
+IT*F2X*EF2XITLINC51*3,Aeroporto - Linate,Aeroporto Linate - Arrivi,20090,45.46215,9.27871,EVTEC,5265.553000000003,704,2381.02,22.0,Milano,2502.65,67602.0,Piemonte,0.0732
+IT*F2X*EF2XITA6602*1,Area di Servizio - Arno Ovest,A1 - Autostrada del Sole,52027,43.65052,11.46448,alpitronic GmbH,28650.63199999999,852,19486.17,300.0,Firenze,28019.91,33767.0,Toscana,0.0877
+IT*F2X*EF2XITA6602*2,Area di Servizio - Arno Ovest,A1 - Autostrada del Sole,52027,43.65052,11.46448,alpitronic GmbH,33243.95200000002,940,22625.74,300.0,Firenze,16671.41,20525.0,Toscana,0.0877
+IT*F2X*EF2XITA6601*1,Area di Servizio - Arno Ovest,A1 - Autostrada del Sole,52027,43.65052,11.46442,alpitronic GmbH,41977.34400000001,1245,28577.3,300.0,Firenze,26307.92,32000.0,Toscana,0.0877
+IT*F2X*EF2XITA6601*2,Area di Servizio - Arno Ovest,A1 - Autostrada del Sole,52027,43.65052,11.46442,alpitronic GmbH,44275.63199999994,1277,30129.9,300.0,Firenze,25086.15,31236.0,Toscana,0.0877
+IT*F2X*EF2XITG7101*1,Area di Servizio - Giovi Ovest,A7 - Autostrada dei Giovi,16019,44.604724,8.952741,alpitronic GmbH,7948.4879999999985,260,5432.34,300.0,Ronco Scrivia,1107.72,1179.0,Liguria,0.0664
+IT*F2X*EF2XITG7101*2,Area di Servizio - Giovi Ovest,A7 - Autostrada dei Giovi,16019,44.604724,8.952741,alpitronic GmbH,3422.6589999999997,103,2331.59,300.0,Ronco Scrivia,343.72,441.0,Liguria,0.0664
+IT*F2X*EF2XITG7102*1,Area di Servizio - Giovi Ovest,A7 - Autostrada dei Giovi,16019,44.604646,8.952816,alpitronic GmbH,17437.543,587,11813.36,300.0,Ronco Scrivia,2366.48,2757.0,Liguria,0.0664
+IT*F2X*EF2XITG7102*2,Area di Servizio - Giovi Ovest,A7 - Autostrada dei Giovi,16019,44.604646,8.952816,alpitronic GmbH,17142.057,533,11666.53,300.0,Ronco Scrivia,1685.45,1990.0,Liguria,0.0664
+IT*F2X*EF2XITP3101*1,Area di Servizio - Mirabella Sud,A16 - Autostrada dei Due Mari,83036,41.06018,15.013467,alpitronic GmbH,7886.626000000001,266,5365.11,300.0,Mirabella Eclano,2830.86,3360.0,Campania,0.0206
+IT*F2X*EF2XITP3101*2,Area di Servizio - Mirabella Sud,A16 - Autostrada dei Due Mari,83036,41.06018,15.013467,alpitronic GmbH,7051.529000000002,245,4798.01,300.0,Mirabella Eclano,2043.68,2501.0,Campania,0.0206
+IT*F2X*EF2XITP3102*1,Area di Servizio - Mirabella Sud,A16 - Autostrada dei Due Mari,83036,41.060238,15.013405,alpitronic GmbH,12475.910999999996,402,8511.07,300.0,Mirabella Eclano,4099.92,4855.0,Campania,0.0206
+IT*F2X*EF2XITP3102*2,Area di Servizio - Mirabella Sud,A16 - Autostrada dei Due Mari,83036,41.060238,15.013405,alpitronic GmbH,7052.975999999999,229,4797.28,300.0,Mirabella Eclano,1838.15,2098.0,Campania,0.0206
+IT*F2X*EF2XITP3151*1,Area di Servizio - Mirabella Sud,A16 - Autostrada dei Due Mari,83036,41.060126,15.013521,EVTEC,1527.3549999999998,74,840.09,62.5,Mirabella Eclano,82.06,233.0,Campania,0.0206
+IT*F2X*EF2XITP3151*2,Area di Servizio - Mirabella Sud,A16 - Autostrada dei Due Mari,83036,41.060126,15.013521,EVTEC,176.252,13,96.94,62.5,Mirabella Eclano,28.21,74.0,Campania,0.0206
+IT*F2X*EF2XITP3151*3,Area di Servizio - Mirabella Sud,A16 - Autostrada dei Due Mari,83036,41.060126,15.013521,EVTEC,345.57499999999993,75,155.48,22.0,Mirabella Eclano,58.29,893.0,Campania,0.0206
+IT*F2X*EF2XITB0501*1,Area di Servizio - Flaminia Est,Autostrada del Sole,2046,42.316275,12.493314,alpitronic GmbH,23011.29599999996,739,15639.67,300.0,Magliana Sabina,9729.75,11507.0,Lazio,0.0694
+IT*F2X*EF2XITB0501*2,Area di Servizio - Flaminia Est,Autostrada del Sole,2046,42.316275,12.493314,alpitronic GmbH,27092.352000000024,832,18314.23,300.0,Magliana Sabina,10714.6,12961.0,Lazio,0.0694
+IT*F2X*EF2XITB0502*1,Area di Servizio - Flaminia Est,Autostrada del Sole,2046,42.316241,12.493237,alpitronic GmbH,52263.63000000007,1735,35502.87,300.0,Magliana Sabina,19458.36,22756.0,Lazio,0.0694
+IT*F2X*EF2XITB0502*2,Area di Servizio - Flaminia Est,Autostrada del Sole,2046,42.316241,12.493237,alpitronic GmbH,35696.532000000065,1147,24170.66,300.0,Magliana Sabina,10369.17,12608.0,Lazio,0.0694
+IT*F2X*EF2XITA3551*1,Area di Servizio - Cantagallo Est,A1 - Autostrada del Sole,40033,44.456704,11.2803,UNKNOWN,1918.576,90,1079.97,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3551*2,Area di Servizio - Cantagallo Est,A1 - Autostrada del Sole,40033,44.456704,11.2803,UNKNOWN,164.05499999999998,8,90.23,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3551*3,Area di Servizio - Cantagallo Est,A1 - Autostrada del Sole,40033,44.456704,11.2803,UNKNOWN,270.79900000000004,47,121.5,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA8501*1,Area di Servizio - Fabro Est,A1 - Autostrada del Sole,5015,42.875911,12.019079,alpitronic GmbH,36311.32399999997,1083,24672.2,300.0,Fabro,25203.43,30879.0,Umbria,0.0385
+IT*F2X*EF2XITA8501*2,Area di Servizio - Fabro Est,A1 - Autostrada del Sole,5015,42.875911,12.019079,alpitronic GmbH,32412.224,922,21959.67,300.0,Fabro,19624.45,25208.0,Umbria,0.0385
+IT*F2X*EF2XITA8502*1,Area di Servizio - Fabro Est,A1 - Autostrada del Sole,5015,42.875973,12.019045,alpitronic GmbH,23364.378000000004,722,15884.75,300.0,Fabro,16973.0,20642.0,Umbria,0.0385
+IT*F2X*EF2XITA8502*2,Area di Servizio - Fabro Est,A1 - Autostrada del Sole,5015,42.875973,12.019045,alpitronic GmbH,31450.685999999943,857,21389.67,300.0,Fabro,17603.9,21509.0,Umbria,0.0385
+IT*F2X*EF2XITO4551*1,Area di Servizio - Murge Est,A14 - Autostrada Adriatica,70026,41.095756,16.76955,EVTEC,691.6970000000001,29,380.4,62.5,Modugno,187.01,419.0,Puglia,0.0246
+IT*F2X*EF2XITO4551*2,Area di Servizio - Murge Est,A14 - Autostrada Adriatica,70026,41.095756,16.76955,EVTEC,226.998,13,124.85,62.5,Modugno,109.89,481.0,Puglia,0.0246
+IT*F2X*EF2XITO4551*3,Area di Servizio - Murge Est,A14 - Autostrada Adriatica,70026,41.095756,16.76955,EVTEC,209.836,36,94.44,22.0,Modugno,50.29,790.0,Puglia,0.0246
+IT*F2X*EF2XITA8601*1,Area di Servizio - Fabro Ovest,A1 - Autostrada del Sole,5015,42.87661,12.017173,alpitronic GmbH,23290.357999999986,667,15845.73,300.0,Fabro,16909.71,19365.0,Umbria,0.0385
+IT*F2X*EF2XITA8601*2,Area di Servizio - Fabro Ovest,A1 - Autostrada del Sole,5015,42.87661,12.017173,alpitronic GmbH,34420.417999999976,995,23272.13,300.0,Fabro,14879.81,17250.0,Umbria,0.0385
+IT*F2X*EF2XITA8602*1,Area di Servizio - Fabro Ovest,A1 - Autostrada del Sole,5015,42.876497,12.01713,alpitronic GmbH,33548.164000000004,990,22835.03,300.0,Fabro,16877.83,20157.0,Umbria,0.0385
+IT*F2X*EF2XITA8602*2,Area di Servizio - Fabro Ovest,A1 - Autostrada del Sole,5015,42.876497,12.01713,alpitronic GmbH,41643.97800000001,1203,28267.26,300.0,Fabro,18557.7,22963.0,Umbria,0.0385
+IT*F2X*EF2XITA1003*1,Area di Servizio - San Zenone al Lambro Est,A1 - Autostrada del Sole,20070,45.32152,9.377206,alpitronic GmbH,9477.413,278,6451.54,,,,,Lombardia,0.0767
+IT*F2X*EF2XITL9101*1,Area di Servizio - Sant'Ilario Sud,A12 Autostrada Azzurra,16167,44.392307,9.045145,alpitronic GmbH,28384.70000000001,1028,19328.88,300.0,Genova,19007.65,23441.0,Liguria,0.0664
+IT*F2X*EF2XITL9101*2,Area di Servizio - Sant'Ilario Sud,A12 Autostrada Azzurra,16167,44.392307,9.045145,alpitronic GmbH,15520.821999999998,515,10556.12,300.0,Genova,10176.35,12772.0,Liguria,0.0664
+IT*F2X*EF2XITB2102*2,Area di Servizio - Mascherone Ovest,Autostrada del Sole,60,42.123278,12.616865,alpitronic GmbH,10631.647999999996,312,7246.54,300.0,Capena,6344.17,7542.0,Lazio,0.0694
+IT*F2X*EF2XITA1003*2,Area di Servizio - San Zenone al Lambro Est,A1 - Autostrada del Sole,20070,45.32152,9.377206,alpitronic GmbH,6132.222000000001,171,4120.99,,,,,Lombardia,0.0767
+IT*F2X*EF2XITA1004*1,Area di Servizio - San Zenone al Lambro Est,A1 - Autostrada del Sole,20070,45.321494,9.377169,alpitronic GmbH,2080.737,64,1397.96,,,,,Lombardia,0.0767
+IT*F2X*EF2XITA1004*2,Area di Servizio - San Zenone al Lambro Est,A1 - Autostrada del Sole,20070,45.321494,9.377169,alpitronic GmbH,4301.029,110,2878.65,,,,,Lombardia,0.0767
+IT*F2X*EF2XITM3151*1,Area di Servizio - Adige Ovest,"A13, Bologna - Padova",45023,45.04199,11.709883,EVTEC,2184.0969999999993,86,1201.26,62.5,Costa di Rovigo,899.74,2052.0,Veneto,0.062
+IT*F2X*EF2XITM3151*2,Area di Servizio - Adige Ovest,"A13, Bologna - Padova",45023,45.04199,11.709883,EVTEC,143.48700000000002,12,78.92,62.5,Costa di Rovigo,99.94,360.0,Veneto,0.062
+IT*F2X*EF2XITM3151*3,Area di Servizio - Adige Ovest,"A13, Bologna - Padova",45023,45.04199,11.709883,EVTEC,324.69699999999983,89,146.11,22.0,Costa di Rovigo,133.95,1901.0,Veneto,0.062
+IT*F2X*EF2XITL2101*1,Area di Servizio - Tirreno Ovest,A12 civitavecchia - Roma,59,42.029539,11.962239,alpitronic GmbH,27557.748000000007,1016,18632.25,300.0,Tolfa,15508.22,18592.0,Lazio,0.0694
+IT*F2X*EF2XITL2101*2,Area di Servizio - Tirreno Ovest,A12 civitavecchia - Roma,59,42.029539,11.962239,alpitronic GmbH,10160.383000000003,393,6944.88,,,,,Lazio,0.0694
+IT*F2X*EF2XITL2001*1,Area di Servizio - Tirreno Est,A12 civitavecchia - Roma,59,42.03131,11.96291,alpitronic GmbH,13300.377999999975,566,9009.4,300.0,Tolfa,9735.58,12314.0,Lazio,0.0694
+IT*F2X*EF2XITL2001*2,Area di Servizio - Tirreno Est,A12 civitavecchia - Roma,59,42.03131,11.96291,alpitronic GmbH,3821.7919999999976,164,2772.1,300.0,Tolfa,3002.47,3852.0,Lazio,0.0694
+IT*F2X*EF2XITL2002*1,Area di Servizio - Tirreno Est,A12 civitavecchia - Roma,59,42.03134,11.96282,alpitronic GmbH,11323.825000000012,421,7628.88,300.0,Tolfa,4444.64,6802.0,Lazio,0.0694
+IT*F2X*EF2XITL2002*2,Area di Servizio - Tirreno Est,A12 civitavecchia - Roma,59,42.03134,11.96282,alpitronic GmbH,15253.809,548,10325.6,300.0,Tolfa,6507.67,8487.0,Lazio,0.0694
+IT*F2X*EF2XITL2102*1,Area di Servizio - Tirreno Ovest,A12 civitavecchia - Roma,59,42.029548,11.962146,alpitronic GmbH,17316.718999999997,670,11696.43,300.0,Tolfa,7866.34,10001.0,Lazio,0.0694
+IT*F2X*EF2XITL2102*2,Area di Servizio - Tirreno Ovest,A12 civitavecchia - Roma,59,42.029548,11.962146,alpitronic GmbH,20428.697,726,13870.67,300.0,Tolfa,10118.9,11853.0,Lazio,0.0694
+IT*F2X*EF2XITP4102*1,Area di Servizio - Calaggio Sud,A16 Autostrada dei due Mari,83059,41.064701,15.314212,alpitronic GmbH,8512.625000000002,287,5788.55,300.0,Vallata,6731.22,8233.0,Campania,0.0206
+IT*F2X*EF2XITP4102*2,Area di Servizio - Calaggio Sud,A16 Autostrada dei due Mari,83059,41.064701,15.314212,alpitronic GmbH,8754.560999999996,289,5954.08,300.0,Vallata,6398.8,7462.0,Campania,0.0206
+IT*F2X*EF2XITP4002*1,Area di Servizio - Calaggio Nord,A16 Autostrada dei due Mari,83059,41.066723,15.316047,alpitronic GmbH,22403.182,680,15215.18,300.0,Vallata,11542.38,13185.0,Campania,0.0206
+IT*F2X*EF2XITP4002*2,Area di Servizio - Calaggio Nord,A16 Autostrada dei due Mari,83059,41.066723,15.316047,alpitronic GmbH,12399.268999999998,376,8431.55,300.0,Vallata,5571.89,6848.0,Campania,0.0206
+IT*F2X*EF2XITCOLMI04*1,COLUMBUS - 04,Via Michelangelo Buonarroti,20145,45.472812,9.155885,UNKNOWN,178.639,5,99.27,,,,,Piemonte,0.0732
+IT*F2X*EF2XITCOLMI04*2,COLUMBUS - 04,Via Michelangelo Buonarroti,20145,45.472812,9.155885,UNKNOWN,335.977,16,232.08,,,,,Piemonte,0.0732
+IT*F2X*EF2XITCOLMI05*1,COLUMBUS - 05,Via Michelangelo Buonarroti,20145,45.472782,9.155957,UNKNOWN,270.311,9,124.29,,,,,Piemonte,0.0732
+IT*F2X*EF2XITCOLMI05*2,COLUMBUS - 05,Via Michelangelo Buonarroti,20145,45.472782,9.155957,UNKNOWN,126.606,6,56.98,,,,,Piemonte,0.0732
+IT*F2X*EF2XITH3003*1,Area di Servizio - Brughiera Est,Autostrada dei laghi,21040,45.762401,8.810946,UNKNOWN,915.068,34,622.25,,,,,Lombardia,0.0767
+IT*F2X*EF2XITY3151*1,Area di Servizio - Sile Ovest,A27 - Autostrada d'Alemagna,31032,45.608516,12.29713,EVTEC,1472.5780000000009,83,809.93,62.5,Casale sul Sile,557.51,1456.0,Veneto,0.062
+IT*F2X*EF2XITY3151*2,Area di Servizio - Sile Ovest,A27 - Autostrada d'Alemagna,31032,45.608516,12.29713,EVTEC,89.21099999999998,11,49.06,62.5,Casale sul Sile,58.83,283.0,Veneto,0.062
+IT*F2X*EF2XITY3151*3,Area di Servizio - Sile Ovest,A27 - Autostrada d'Alemagna,31032,45.608516,12.29713,EVTEC,0.0,0,0.0,22.0,Casale sul Sile,47.91,799.0,Veneto,0.062
+IT*F2X*EF2XITCOLMI06*1,COLUMBUS - 06,Via Michelangelo Buonarroti,20145,45.472776,9.15579,UNKNOWN,158.884,6,78.14,,,,,Piemonte,0.0732
+IT*F2X*EF2XITH3003*2,Area di Servizio - Brughiera Est,Autostrada dei laghi,21040,45.762401,8.810946,UNKNOWN,3509.835000000001,40,2390.76,,,,,Lombardia,0.0767
+IT*F2X*EF2XITMXPC01*1,Aeroporto - Malpensa Commerciale,Malpensa Aeroporto,21010,45.624652,8.711917,alpitronic GmbH,20987.62299999998,654,14396.49,300.0,Ferno,9726.43,15375.0,Lombardia,0.0767
+IT*F2X*EF2XITMXPC01*2,Aeroporto - Malpensa Commerciale,Malpensa Aeroporto,21010,45.624652,8.711917,alpitronic GmbH,40094.8,1396,27370.84,300.0,Ferno,20009.16,32047.0,Lombardia,0.0767
+IT*F2X*EF2XITMXPC02*1,Aeroporto - Malpensa Commerciale,Malpensa Aeroporto,21010,45.62473,8.711995,alpitronic GmbH,24964.813,810,17276.38,300.0,Ferno,12833.48,20852.0,Lombardia,0.0767
+IT*F2X*EF2XITMXPC02*2,Aeroporto - Malpensa Commerciale,Malpensa Aeroporto,21010,45.62473,8.711995,alpitronic GmbH,43730.71400000003,1535,29836.03,300.0,Ferno,23048.1,38546.0,Lombardia,0.0767
+IT*F2X*EF2XITMXPC03*1,Aeroporto - Malpensa Commerciale,Malpensa Aeroporto,21010,45.624778,8.712048,alpitronic GmbH,29138.028999999984,967,19950.46,300.0,Ferno,14398.74,23800.0,Lombardia,0.0767
+IT*F2X*EF2XITMXPC03*2,Aeroporto - Malpensa Commerciale,Malpensa Aeroporto,21010,45.624778,8.712048,alpitronic GmbH,34586.85499999993,1173,23597.35,300.0,Ferno,18441.08,30151.0,Lombardia,0.0767
+IT*F2X*EF2XITMXPC51*1,Aeroporto - Malpensa Commerciale,Malpensa Aeroporto,21010,45.624853,8.712122,EVTEC,4872.956000000001,205,2892.7,62.5,Ferno,1162.85,3055.0,Lombardia,0.0767
+IT*F2X*EF2XITMXPC51*2,Aeroporto - Malpensa Commerciale,Malpensa Aeroporto,21010,45.624853,8.712122,EVTEC,510.72999999999985,32,287.81,62.5,Ferno,245.49,1044.0,Lombardia,0.0767
+IT*F2X*EF2XITMXPC51*3,Aeroporto - Malpensa Commerciale,Malpensa Aeroporto,21010,45.624853,8.712122,EVTEC,3327.841,427,1521.28,22.0,Ferno,729.58,25902.0,Lombardia,0.0767
+IT*F2X*EF2XITB4603*1,Area di Servizio - Casilina Ovest,Autostrada del Sole,3030,41.496848,13.683229,alpitronic GmbH,3528.0419999999986,119,2388.27,,,,,Lazio,0.0694
+IT*F2X*EF2XITB4603*2,Area di Servizio - Casilina Ovest,Autostrada del Sole,3030,41.496848,13.683229,alpitronic GmbH,3248.876999999999,93,2217.34,,,,,Lazio,0.0694
+IT*F2X*EF2XITZ9902*1,Area di Servizio - Arno Est,A1 - Autostrada del Sole,52027,43.58289,11.52261,alpitronic GmbH,26099.95600000004,770,17709.81,300.0,San Giovanni Valdarno,18644.21,21871.0,Toscana,0.0877
+IT*F2X*EF2XITZ9902*2,Area di Servizio - Arno Est,A1 - Autostrada del Sole,52027,43.58289,11.52261,alpitronic GmbH,23142.323999999997,679,15708.87,300.0,San Giovanni Valdarno,15868.44,19085.0,Toscana,0.0877
+IT*F2X*EF2XITB4604*1,Area di Servizio - Casilina Ovest,Autostrada del Sole,3030,41.496838,13.683253,alpitronic GmbH,994.607,34,676.33,,,,,Lazio,0.0694
+IT*F2X*EF2XITB4604*2,Area di Servizio - Casilina Ovest,Autostrada del Sole,3030,41.496838,13.683253,alpitronic GmbH,3700.9129999999977,116,2517.41,,,,,Lazio,0.0694
+IT*F2X*EF2XITO4502*1,Area di Servizio - Murge Est,A14 - Autostrada Adriatica,70026,41.095803,16.769734,alpitronic GmbH,9978.264000000006,343,6785.3,300.0,Modugno,5511.76,6440.0,Puglia,0.0246
+IT*F2X*EF2XITN5651*1,Area di Servizio - Conero Ovest,A14 - Autostrada Adriatica,60026,43.481079,13.594935,EVTEC,1041.155,52,572.63,62.5,Numana,871.45,2096.0,Marche,0.0407
+IT*F2X*EF2XITO4502*2,Area di Servizio - Murge Est,A14 - Autostrada Adriatica,70026,41.095803,16.769734,alpitronic GmbH,13191.801999999998,386,8970.43,300.0,Modugno,7400.77,8129.0,Puglia,0.0246
+IT*F2X*EF2XITL9001*1,Area di Servizio - Sant'Ilario Nord,A12 Autostrada Azzurra,16167,44.393379,9.046716,alpitronic GmbH,24165.28799999998,772,16402.56,300.0,Genova,14154.59,16316.0,Liguria,0.0664
+IT*F2X*EF2XITL9001*2,Area di Servizio - Sant'Ilario Nord,A12 Autostrada Azzurra,16167,44.393379,9.046716,alpitronic GmbH,16861.886000000013,510,11466.1,300.0,Genova,8878.37,10568.0,Liguria,0.0664
+IT*F2X*EF2XITL9002*1,Area di Servizio - Sant'Ilario Nord,A12 Autostrada Azzurra,16167,44.393371,9.046653,alpitronic GmbH,28519.500000000025,997,19405.74,300.0,Genova,17488.55,20517.0,Liguria,0.0664
+IT*F2X*EF2XITL9002*2,Area di Servizio - Sant'Ilario Nord,A12 Autostrada Azzurra,16167,44.393371,9.046653,alpitronic GmbH,30628.40400000001,945,20827.7,300.0,Genova,18170.97,21703.0,Liguria,0.0664
+IT*F2X*EF2XITX2101*1,Area di Servizio - Stura Ovest,A26 - Autostrada dei Trafori,15070,44.59224,8.664714,alpitronic GmbH,29070.73599999998,925,19771.07,300.0,Belforte Monferrato,17410.97,20832.0,Piemonte,0.0732
+IT*F2X*EF2XITX2101*2,Area di Servizio - Stura Ovest,A26 - Autostrada dei Trafori,15070,44.59224,8.664714,alpitronic GmbH,39813.38799999993,1122,27075.92,300.0,Belforte Monferrato,20348.92,24016.0,Piemonte,0.0732
+IT*F2X*EF2XITX2102*1,Area di Servizio - Stura Ovest,A26 - Autostrada dei Trafori,15070,44.592282,8.664741,alpitronic GmbH,41888.868000000046,1284,28497.8,300.0,Belforte Monferrato,24082.03,28103.0,Piemonte,0.0732
+IT*F2X*EF2XITX2102*2,Area di Servizio - Stura Ovest,A26 - Autostrada dei Trafori,15070,44.592282,8.664741,alpitronic GmbH,50862.25199999997,1495,34600.04,300.0,Belforte Monferrato,27538.25,32406.0,Piemonte,0.0732
+IT*F2X*EF2XITD1101*1,Area di Servizio - Lambro Sud,A4 Torino - Trieste,20092,45.54796,9.206374,UNKNOWN,10630.499000000002,415,7232.02,300.0,Cinisello Balsamo,3077.5,3926.0,Lombardia,0.0767
+IT*F2X*EF2XITD1101*2,Area di Servizio - Lambro Sud,A4 Torino - Trieste,20092,45.54796,9.206374,UNKNOWN,16207.113000000008,540,11022.85,300.0,Cinisello Balsamo,4013.06,5170.0,Lombardia,0.0767
+IT*F2X*EF2XITD1102*1,Area di Servizio - Lambro Sud,A4 Torino - Trieste,20092,45.54801,9.206341,UNKNOWN,16512.483000000004,557,11262.62,300.0,Cinisello Balsamo,4928.05,5984.0,Lombardia,0.0767
+IT*F2X*EF2XITD1102*2,Area di Servizio - Lambro Sud,A4 Torino - Trieste,20092,45.54801,9.206341,UNKNOWN,9163.843000000004,307,6251.08,300.0,Cinisello Balsamo,2498.6,3158.0,Lombardia,0.0767
+IT*F2X*EF2XITD1151*1,Area di Servizio - Lambro Sud,A4 Torino - Trieste,20092,45.547907,9.2064,UNKNOWN,2236.1460000000006,109,1229.93,62.5,Cinisello Balsamo,425.92,1077.0,Lombardia,0.0767
+IT*F2X*EF2XITD1151*2,Area di Servizio - Lambro Sud,A4 Torino - Trieste,20092,45.547907,9.2064,UNKNOWN,272.25499999999994,20,149.76,62.5,Cinisello Balsamo,83.99,279.0,Lombardia,0.0767
+IT*F2X*EF2XITD1151*3,Area di Servizio - Lambro Sud,A4 Torino - Trieste,20092,45.547907,9.2064,UNKNOWN,584.6109999999998,89,263.06,22.0,Cinisello Balsamo,152.56,1736.0,Lombardia,0.0767
+IT*F2X*EF2XITA1103*1,Area di Servizio - San Zenone al Lambro Ovest,A1 - Autostrada del Sole,20070,45.321034,9.375245,alpitronic GmbH,7353.597999999998,215,4975.06,,,,,Lombardia,0.0767
+IT*F2X*EF2XITA1103*2,Area di Servizio - San Zenone al Lambro Ovest,A1 - Autostrada del Sole,20070,45.321034,9.375245,alpitronic GmbH,6628.2249999999985,185,4511.42,,,,,Lombardia,0.0767
+IT*F2X*EF2XITI1151*1,Area di Servizio - Lario Ovest,A9 Autostrada dei laghi,22071,45.729891,9.028302,EVTEC,3400.663,165,1880.69,62.5,Cadorago,1971.16,4629.0,Lombardia,0.0767
+IT*F2X*EF2XITI1151*2,Area di Servizio - Lario Ovest,A9 Autostrada dei laghi,22071,45.729891,9.028302,EVTEC,371.707,27,203.37,62.5,Cadorago,242.34,841.0,Lombardia,0.0767
+IT*F2X*EF2XITI1151*3,Area di Servizio - Lario Ovest,A9 Autostrada dei laghi,22071,45.729891,9.028302,EVTEC,713.0720000000003,146,320.89,22.0,Cadorago,245.7,4252.0,Lombardia,0.0767
+IT*F2X*EF2XITA1104*1,Area di Servizio - San Zenone al Lambro Ovest,A1 - Autostrada del Sole,20070,45.321055,9.375276,alpitronic GmbH,9716.230999999998,300,6584.79,,,,,Lombardia,0.0767
+IT*F2X*EF2XITA1104*2,Area di Servizio - San Zenone al Lambro Ovest,A1 - Autostrada del Sole,20070,45.321055,9.375276,alpitronic GmbH,8840.431,249,6031.03,,,,,Lombardia,0.0767
+IT*F2X*EF2XITN5101*1,Area di Servizio - Esino Ovest,Autostrada Adriatica,60033,43.627041,13.333977,alpitronic GmbH,28368.950999999994,883,19274.93,300.0,Chiaravalle,3329.02,3991.0,Marche,0.0407
+IT*F2X*EF2XITN5101*2,Area di Servizio - Esino Ovest,Autostrada Adriatica,60033,43.627041,13.333977,alpitronic GmbH,19305.665999999994,541,13151.91,300.0,Chiaravalle,2452.66,2591.0,Marche,0.0407
+IT*F2X*EF2XITN5102*1,Area di Servizio - Esino Ovest,Autostrada Adriatica,60033,43.627042,13.334019,alpitronic GmbH,24633.37,751,16760.64,300.0,Chiaravalle,3866.43,4283.0,Marche,0.0407
+IT*F2X*EF2XITN5102*2,Area di Servizio - Esino Ovest,Autostrada Adriatica,60033,43.627042,13.334019,alpitronic GmbH,24939.34299999999,745,16957.45,300.0,Chiaravalle,2729.0299999999997,3154.0,Marche,0.0407
+IT*F2X*EF2XITN5151*1,Area di Servizio - Esino Ovest,Autostrada Adriatica,60033,43.627101,13.333993,EVTEC,2278.0659999999993,120,1252.93,62.5,Chiaravalle,147.21,356.0,Marche,0.0407
+IT*F2X*EF2XITN5151*2,Area di Servizio - Esino Ovest,Autostrada Adriatica,60033,43.627101,13.333993,EVTEC,303.802,17,167.09,62.5,Chiaravalle,66.34,268.0,Marche,0.0407
+IT*F2X*EF2XITB0601*1,Area di Servizio - Flaminia Ovest,Autostrada del Sole,2046,42.316708,12.491263,alpitronic GmbH,22588.307999999994,783,15300.76,300.0,Magliana Sabina,4465.52,5377.0,Lazio,0.0694
+IT*F2X*EF2XITB0601*2,Area di Servizio - Flaminia Ovest,Autostrada del Sole,2046,42.316708,12.491263,alpitronic GmbH,16465.083999999988,534,11167.36,300.0,Magliana Sabina,2800.0,3516.0,Lazio,0.0694
+IT*F2X*EF2XITB0602*1,Area di Servizio - Flaminia Ovest,Autostrada del Sole,2046,42.316641,12.491271,alpitronic GmbH,23780.104000000018,842,16069.24,300.0,Magliana Sabina,4793.49,5521.0,Lazio,0.0694
+IT*F2X*EF2XITB0602*2,Area di Servizio - Flaminia Ovest,Autostrada del Sole,2046,42.316641,12.491271,alpitronic GmbH,20902.140000000003,698,14098.97,300.0,Magliana Sabina,3391.27,3755.0,Lazio,0.0694
+IT*F2X*EF2XITD5101*1,Area di Servizio - Valtrompia Sud,A4 Torino - Trieste,25030,45.532563,10.148351,alpitronic GmbH,49977.95600000002,1752,34004.07,300.0,Roncadelle,30915.36,36013.0,Lombardia,0.0767
+IT*F2X*EF2XITD5101*2,Area di Servizio - Valtrompia Sud,A4 Torino - Trieste,25030,45.532563,10.148351,alpitronic GmbH,45114.93200000005,1491,30688.02,300.0,Roncadelle,23144.37,28581.0,Lombardia,0.0767
+IT*F2X*EF2XITD5102*1,Area di Servizio - Valtrompia Sud,A4 Torino - Trieste,25030,45.532517,10.148412,alpitronic GmbH,55984.13600000014,2057,38073.02,300.0,Roncadelle,41988.1,52189.0,Lombardia,0.0767
+IT*F2X*EF2XITD5102*2,Area di Servizio - Valtrompia Sud,A4 Torino - Trieste,25030,45.532517,10.148412,alpitronic GmbH,55547.51199999998,1913,37792.34,300.0,Roncadelle,28709.86,35976.0,Lombardia,0.0767
+IT*F2X*EF2XITB0651*1,Area di Servizio - Flaminia Ovest,Autostrada del Sole,2046,42.316708,12.491263,EVTEC,2038.2120000000004,91,1122.69,62.5,Magliana Sabina,120.64,325.0,Lazio,0.0694
+IT*F2X*EF2XITB0651*2,Area di Servizio - Flaminia Ovest,Autostrada del Sole,2046,42.316708,12.491263,EVTEC,219.01300000000003,18,120.47,62.5,Magliana Sabina,27.66,125.0,Lazio,0.0694
+IT*F2X*EF2XITB0651*3,Area di Servizio - Flaminia Ovest,Autostrada del Sole,2046,42.316708,12.491263,EVTEC,535.4339999999999,130,240.97,22.0,Magliana Sabina,72.85000000000001,932.0,Lazio,0.0694
+IT*F2X*EF2XITD5151*1,Area di Servizio - Valtrompia Sud,A4 Torino - Trieste,25030,45.532713,10.148356,EVTEC,4830.839999999998,261,2656.93,62.5,Roncadelle,1670.6,4044.0,Lombardia,0.0767
+IT*F2X*EF2XITD5151*2,Area di Servizio - Valtrompia Sud,A4 Torino - Trieste,25030,45.532713,10.148356,EVTEC,1331.6230000000005,100,727.72,62.5,Roncadelle,579.09,2037.0,Lombardia,0.0767
+IT*F2X*EF2XITD5151*3,Area di Servizio - Valtrompia Sud,A4 Torino - Trieste,25030,45.532713,10.148356,EVTEC,1059.85,191,477.15,22.0,Roncadelle,445.97,6444.0,Lombardia,0.0767
+IT*F2X*EF2XITD5001*1,Area di Servizio - Valtrompia Nord,A4 Torino - Trieste,25030,45.532591,10.151154,alpitronic GmbH,50767.46400000005,1968,34545.2,300.0,Roncadelle,33004.86,35096.0,Lombardia,0.0767
+IT*F2X*EF2XITD5001*2,Area di Servizio - Valtrompia Nord,A4 Torino - Trieste,25030,45.532591,10.151154,alpitronic GmbH,54109.943999999974,1775,36765.98,300.0,Roncadelle,31863.2,34832.0,Lombardia,0.0767
+IT*F2X*EF2XITD5002*2,Area di Servizio - Valtrompia Nord,A4 Torino - Trieste,25030,45.532573,10.151184,alpitronic GmbH,58958.21600000006,1948,40093.27,300.0,Roncadelle,34469.89,39944.0,Lombardia,0.0767
+IT*F2X*EF2XITD5051*1,Area di Servizio - Valtrompia Nord,A4 Torino - Trieste,25030,45.532702,10.151009,EVTEC,4845.4429999999975,269,2673.85,62.5,Roncadelle,1691.75,3870.0,Lombardia,0.0767
+IT*F2X*EF2XITD5051*2,Area di Servizio - Valtrompia Nord,A4 Torino - Trieste,25030,45.532702,10.151009,EVTEC,2124.211,95,1166.95,62.5,Roncadelle,599.47,1854.0,Lombardia,0.0767
+IT*F2X*EF2XITD5051*3,Area di Servizio - Valtrompia Nord,A4 Torino - Trieste,25030,45.532702,10.151009,EVTEC,664.8699999999998,103,299.16,22.0,Roncadelle,366.93,4405.0,Lombardia,0.0767
+IT*F2X*EF2XITK1151*1,Area di Servizio - Peretola Sud,Autostrada Firenze-Mare,50019,43.818793,11.172242,EVTEC,1598.5759999999998,89,879.21,62.5,Sesto Fiorentino,374.56,1008.0,Toscana,0.0877
+IT*F2X*EF2XITK1151*2,Area di Servizio - Peretola Sud,Autostrada Firenze-Mare,50019,43.818793,11.172242,EVTEC,1096.269,68,605.65,62.5,Sesto Fiorentino,244.24,824.0,Toscana,0.0877
+IT*F2X*EF2XITN9001*1,Area di Servizio - Sangro Est,A14 - Autostrada Adriatica,66020,42.200565,14.563543,alpitronic GmbH,18080.060000000005,514,12313.19,300.0,Torino di Sangro,3554.65,4098.0,Abruzzo,0.0374
+IT*F2X*EF2XITN9001*2,Area di Servizio - Sangro Est,A14 - Autostrada Adriatica,66020,42.200565,14.563543,alpitronic GmbH,16970.163000000004,456,11495.91,300.0,Torino di Sangro,3110.2,3546.0,Abruzzo,0.0374
+IT*F2X*EF2XITK1151*3,Area di Servizio - Peretola Sud,Autostrada Firenze-Mare,50019,43.818793,11.172242,EVTEC,251.389,41,113.12,22.0,Sesto Fiorentino,162.14,2276.0,Toscana,0.0877
+IT*F2X*EF2XITN9002*1,Area di Servizio - Sangro Est,A14 - Autostrada Adriatica,66020,42.200441,14.56358,alpitronic GmbH,12781.371999999992,349,8691.39,300.0,Torino di Sangro,2359.01,2543.0,Abruzzo,0.0374
+IT*F2X*EF2XITN9002*2,Area di Servizio - Sangro Est,A14 - Autostrada Adriatica,66020,42.200441,14.56358,alpitronic GmbH,8511.592000000004,215,5743.09,300.0,Torino di Sangro,1332.18,1527.0,Abruzzo,0.0374
+IT*F2X*EF2XITN9051*1,Area di Servizio - Sangro Est,A14 - Autostrada Adriatica,66020,42.200565,14.563543,EVTEC,2853.4269999999997,131,1572.38,62.5,Torino di Sangro,191.68,443.0,Abruzzo,0.0374
+IT*F2X*EF2XITN9051*2,Area di Servizio - Sangro Est,A14 - Autostrada Adriatica,66020,42.200565,14.563543,EVTEC,467.02300000000014,36,256.85,62.5,Torino di Sangro,55.63,137.0,Abruzzo,0.0374
+IT*F2X*EF2XITN9051*3,Area di Servizio - Sangro Est,A14 - Autostrada Adriatica,66020,42.200565,14.563543,EVTEC,269.38699999999994,39,121.24,22.0,Torino di Sangro,20.07,342.0,Abruzzo,0.0374
+IT*F2X*EF2XITL2051*1,Area di Servizio - Tirreno Est,A12 civitavecchia - Roma,59,42.031206,11.963229,EVTEC,7391.832000000002,404,4041.22,62.5,Tolfa,2416.4,5810.0,Lazio,0.0694
+IT*F2X*EF2XITL2051*2,Area di Servizio - Tirreno Est,A12 civitavecchia - Roma,59,42.031206,11.963229,EVTEC,139.781,13,76.88,62.5,Tolfa,103.93,332.0,Lazio,0.0694
+IT*F2X*EF2XITY3101*1,Area di Servizio - Sile Ovest,A27 - Autostrada d'Alemagna,31032,45.60822,12.29714,alpitronic GmbH,16891.79800000001,639,11494.89,300.0,Casale sul Sile,11073.19,12828.0,Veneto,0.062
+IT*F2X*EF2XITY3101*2,Area di Servizio - Sile Ovest,A27 - Autostrada d'Alemagna,31032,45.60822,12.29714,alpitronic GmbH,13488.303999999996,452,9143.97,300.0,Casale sul Sile,7838.24,8984.0,Veneto,0.062
+IT*F2X*EF2XITY3102*1,Area di Servizio - Sile Ovest,A27 - Autostrada d'Alemagna,31032,45.608097,12.297046,alpitronic GmbH,14924.81899999998,547,10148.96,300.0,Casale sul Sile,8814.13,9795.0,Veneto,0.062
+IT*F2X*EF2XITY3102*2,Area di Servizio - Sile Ovest,A27 - Autostrada d'Alemagna,31032,45.608097,12.297046,alpitronic GmbH,13160.588,485,8961.17,300.0,Casale sul Sile,7080.17,8493.0,Veneto,0.062
+IT*F2X*EF2XITL2051*3,Area di Servizio - Tirreno Est,A12 civitavecchia - Roma,59,42.031206,11.963229,EVTEC,727.1830000000002,119,327.24,22.0,Tolfa,241.89,2818.0,Lazio,0.0694
+IT*F2X*EF2XITO4501*1,Area di Servizio - Murge Est,A14 - Autostrada Adriatica,70026,41.095737,16.769807,alpitronic GmbH,20649.127999999982,600,14049.4,300.0,Modugno,11924.12,13510.0,Puglia,0.0246
+IT*F2X*EF2XITO4501*2,Area di Servizio - Murge Est,A14 - Autostrada Adriatica,70026,41.095737,16.769807,alpitronic GmbH,12500.797000000004,367,8539.48,300.0,Modugno,6570.29,7748.0,Puglia,0.0246
+IT*F2X*EF2XITA5551*1,Area di Servizio - Firenze Nord,Sesto Fiorentino,50019,43.831825,11.160121,EVTEC,2580.406,118,1419.26,62.5,Firenze,1178.36,2793.0,Toscana,0.0877
+IT*F2X*EF2XITA5551*2,Area di Servizio - Firenze Nord,Sesto Fiorentino,50019,43.831825,11.160121,EVTEC,510.265,39,280.82,62.5,Firenze,469.3,1612.0,Toscana,0.0877
+IT*F2X*EF2XITA5551*3,Area di Servizio - Firenze Nord,Sesto Fiorentino,50019,43.831825,11.160121,EVTEC,297.83200000000005,28,134.68,22.0,Firenze,0.0,1988.0,Toscana,0.0877
+IT*F2X*EF2XITN0601*2,Area di Servizio - Pioppa Ovest,Autostrada Adriatica,40069,44.5183,11.21429,alpitronic GmbH,33391.46000000003,954,22695.18,300.0,Zola Predosa,19504.04,22357.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0602*1,Area di Servizio - Pioppa Ovest,Autostrada Adriatica,40069,44.51834,11.21432,alpitronic GmbH,39028.392,1403,26566.78,300.0,Zola Predosa,27738.25,32825.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0602*2,Area di Servizio - Pioppa Ovest,Autostrada Adriatica,40069,44.51834,11.21432,alpitronic GmbH,44084.70399999999,1292,29996.33,300.0,Zola Predosa,25194.65,28863.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0502*1,Area di Servizio - Pioppa Est,A14 - Autostrada Adriatica,40069,44.51956,11.21367,alpitronic GmbH,19202.23199999997,640,13103.12,300.0,Bologna,18552.72,22657.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0502*2,Area di Servizio - Pioppa Est,A14 - Autostrada Adriatica,40069,44.51956,11.21367,alpitronic GmbH,19365.108000000007,569,13176.17,300.0,Bologna,14630.5,17844.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0501*1,Area di Servizio - Pioppa Est,A14 - Autostrada Adriatica,40069,44.51957,11.21374,alpitronic GmbH,25340.53600000002,753,17234.23,300.0,Bologna,27157.79,31940.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0501*2,Area di Servizio - Pioppa Est,A14 - Autostrada Adriatica,40069,44.51957,11.21374,alpitronic GmbH,28303.50400000002,823,19250.47,300.0,Bologna,22155.78,27430.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM1102*1,Area di Servizio - Castel Bentivoglio Ovest,A13 Bologna - Padova,40010,44.622627,11.419865,alpitronic GmbH,12502.11900000001,431,8502.59,300.0,Bologna,7801.11,9366.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM1102*2,Area di Servizio - Castel Bentivoglio Ovest,A13 Bologna - Padova,40010,44.622627,11.419865,alpitronic GmbH,18411.380000000016,544,12522.86,300.0,Bologna,10508.83,12383.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM1101*1,Area di Servizio - Castel Bentivoglio Ovest,A13 Bologna - Padova,40010,44.622627,11.419865,alpitronic GmbH,22873.357999999986,825,15559.47,300.0,Bologna,14536.79,17486.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM1101*2,Area di Servizio - Castel Bentivoglio Ovest,A13 Bologna - Padova,40010,44.622627,11.419865,alpitronic GmbH,10661.794999999996,318,7272.57,300.0,Bologna,5327.36,6671.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITB4602*1,Area di Servizio - Casilina Ovest,Autostrada del Sole,3030,41.496869,13.683172,alpitronic GmbH,21484.80400000002,750,14565.36,300.0,Castrocielo,11265.59,14666.0,Lazio,0.0694
+IT*F2X*EF2XITB4602*2,Area di Servizio - Casilina Ovest,Autostrada del Sole,3030,41.496869,13.683172,alpitronic GmbH,31118.59599999999,1088,21120.67,300.0,Castrocielo,19669.59,24904.0,Lazio,0.0694
+IT*F2X*EF2XITB4651*1,Area di Servizio - Casilina Ovest,Autostrada del Sole,3030,41.496698,13.683156,EVTEC,3303.9940000000015,160,1841.23,62.5,Castrocielo,1069.18,2503.0,Lazio,0.0694
+IT*F2X*EF2XITB4651*2,Area di Servizio - Casilina Ovest,Autostrada del Sole,3030,41.496698,13.683156,EVTEC,527.938,39,290.35,62.5,Castrocielo,304.17,1067.0,Lazio,0.0694
+IT*F2X*EF2XITB4651*3,Area di Servizio - Casilina Ovest,Autostrada del Sole,3030,41.496698,13.683156,EVTEC,1275.1159999999998,233,571.59,22.0,Castrocielo,493.0,7174.0,Lazio,0.0694
+IT*F2X*EF2XITA7104*1,Area di Servizio - Badia al Pino Ovest,A1  Autostrada del Sole,52041,43.407908,11.762877,UNKNOWN,1180.0009999999995,34,810.08,,,,,Toscana,0.0877
+IT*F2X*EF2XITA7104*2,Area di Servizio - Badia al Pino Ovest,A1  Autostrada del Sole,52041,43.407908,11.762877,UNKNOWN,2228.801,63,1518.79,,,,,Toscana,0.0877
+IT*F2X*EF2XITA7003*1,Area di Servizio - Badia al Pino Est,A1  Autostrada del Sole,52041,43.405467,11.763752,UNKNOWN,3705.5969999999993,99,2519.81,,,,,Toscana,0.0877
+IT*F2X*EF2XITA7003*2,Area di Servizio - Badia al Pino Est,A1  Autostrada del Sole,52041,43.405467,11.763752,UNKNOWN,5150.426999999998,132,3502.22,,,,,Toscana,0.0877
+IT*F2X*EF2XITA7004*1,Area di Servizio - Badia al Pino Est,A1  Autostrada del Sole,52041,43.405421,11.763815,alpitronic GmbH,6364.339,168,4331.03,,,,,Toscana,0.0877
+IT*F2X*EF2XITA7004*2,Area di Servizio - Badia al Pino Est,A1  Autostrada del Sole,52041,43.405421,11.763815,alpitronic GmbH,5289.256000000001,141,3606.59,,,,,Toscana,0.0877
+IT*F2X*EF2XITA2501*1,Area di Servizio - San Martino Est,"A1, Milano - Napoli",43122,44.827249,10.37954,alpitronic GmbH,36168.929000000026,1129,24609.95,300.0,Parma,2642.41,2914.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2501*2,Area di Servizio - San Martino Est,"A1, Milano - Napoli",43122,44.827249,10.37954,alpitronic GmbH,36494.249999999985,1059,24833.6,300.0,Parma,1850.18,2134.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2502*1,Area di Servizio - San Martino Est,"A1, Milano - Napoli",43122,44.827231,10.379522,UNKNOWN,21013.105999999992,650,14261.54,300.0,Parma,793.6800000000001,913.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITB5501*1,Area di Servizio - San Nicola Est,Autostrada del Sole,81020,41.049091,14.323112,alpitronic GmbH,30425.81200000003,926,20723.15,300.0,San Nicola La Strada,24392.13,28809.0,Campania,0.0206
+IT*F2X*EF2XITB5501*2,Area di Servizio - San Nicola Est,Autostrada del Sole,81020,41.049091,14.323112,alpitronic GmbH,19264.59599999999,571,13062.29,300.0,San Nicola La Strada,13218.05,15351.0,Campania,0.0206
+IT*F2X*EF2XITA2502*2,Area di Servizio - San Martino Est,"A1, Milano - Napoli",43122,44.827231,10.379522,UNKNOWN,29240.215999999986,835,19862.63,300.0,Parma,1468.6,1574.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2551*1,Area di Servizio - San Martino Est,"A1, Milano - Napoli",43122,44.827226,10.379641,EVTEC,6311.810000000005,272,3491.47,62.5,Parma,166.87,326.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2551*2,Area di Servizio - San Martino Est,"A1, Milano - Napoli",43122,44.827226,10.379641,EVTEC,439.509,36,245.64,62.5,Parma,10.95,39.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2551*3,Area di Servizio - San Martino Est,"A1, Milano - Napoli",43122,44.827226,10.379641,EVTEC,969.2810000000002,267,434.97,22.0,Parma,6.55,219.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2601*1,Area di Servizio - San Martino Ovest,"A1, Milano - Napoli",43100,44.826198,10.378719,UNKNOWN,21225.516000000003,668,14409.57,300.0,Parma,1231.93,1535.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2601*2,Area di Servizio - San Martino Ovest,"A1, Milano - Napoli",43100,44.826198,10.378719,UNKNOWN,25703.713,736,17457.94,300.0,Parma,840.65,1066.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2602*1,Area di Servizio - San Martino Ovest,"A1, Milano - Napoli",43100,44.826184,10.378795,UNKNOWN,30842.66899999999,1010,20987.05,300.0,Parma,1861.2,2236.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2602*2,Area di Servizio - San Martino Ovest,"A1, Milano - Napoli",43100,44.826184,10.378795,UNKNOWN,30723.78600000002,939,20917.22,300.0,Parma,1607.27,2267.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2651*1,Area di Servizio - San Martino Ovest,"A1, Milano - Napoli",43100,44.826236,10.378697,UNKNOWN,4799.439,210,2635.81,62.5,Parma,148.21,364.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2651*2,Area di Servizio - San Martino Ovest,"A1, Milano - Napoli",43100,44.826236,10.378697,UNKNOWN,722.1340000000001,40,399.28,62.5,Parma,48.17,151.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITB5502*1,Area di Servizio - San Nicola Est,Autostrada del Sole,81020,41.049049,14.32312,alpitronic GmbH,26332.087999999985,913,17879.27,300.0,San Nicola La Strada,21111.86,30176.0,Campania,0.0206
+IT*F2X*EF2XITB5502*2,Area di Servizio - San Nicola Est,Autostrada del Sole,81020,41.049049,14.32312,alpitronic GmbH,49106.824000000015,1651,33096.29,300.0,San Nicola La Strada,21134.62,26598.0,Campania,0.0206
+IT*F2X*EF2XITA2651*3,Area di Servizio - San Martino Ovest,"A1, Milano - Napoli",43100,44.826236,10.378697,UNKNOWN,963.2240000000004,158,432.78,22.0,Parma,49.53,498.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITB5551*1,Area di Servizio - San Nicola Est,Autostrada del Sole,81020,41.048925,14.323337,EVTEC,5674.229999999998,280,3079.73,62.5,San Nicola La Strada,1729.07,4480.0,Campania,0.0206
+IT*F2X*EF2XITB5551*2,Area di Servizio - San Nicola Est,Autostrada del Sole,81020,41.048925,14.323337,EVTEC,390.087,31,214.55,62.5,San Nicola La Strada,172.04,691.0,Campania,0.0206
+IT*F2X*EF2XITB5551*3,Area di Servizio - San Nicola Est,Autostrada del Sole,81020,41.048925,14.323337,EVTEC,950.2659999999994,158,426.55,22.0,San Nicola La Strada,390.49,6356.0,Campania,0.0206
+IT*F2X*EF2XITO3501*1,Area di Servizio - Canne della Battaglia Est,Autostrada Adriatica,76123,41.251814,16.220186,alpitronic GmbH,24798.811999999987,709,16871.06,300.0,Andria,16846.85,19497.0,Puglia,0.0246
+IT*F2X*EF2XITO3501*2,Area di Servizio - Canne della Battaglia Est,Autostrada Adriatica,76123,41.251814,16.220186,alpitronic GmbH,16394.317999999977,416,11114.34,300.0,Andria,8501.52,10425.0,Puglia,0.0246
+IT*F2X*EF2XITA9001*1,Area di Servizio - Tevere Est,A1 - Autostrada del Sole,1021,42.623546,12.232471,alpitronic GmbH,10650.929999999997,338,7251.43,300.0,Civitella D'agliano,2349.76,3004.0,Lazio,0.0694
+IT*F2X*EF2XITA9001*2,Area di Servizio - Tevere Est,A1 - Autostrada del Sole,1021,42.623546,12.232471,alpitronic GmbH,11819.39,331,8056.31,300.0,Civitella D'agliano,2059.31,2571.0,Lazio,0.0694
+IT*F2X*EF2XITA9002*1,Area di Servizio - Tevere Est,A1 - Autostrada del Sole,1021,42.623481,12.232482,alpitronic GmbH,14840.327,455,10059.81,300.0,Civitella D'agliano,3603.27,4775.0,Lazio,0.0694
+IT*F2X*EF2XITA9002*2,Area di Servizio - Tevere Est,A1 - Autostrada del Sole,1021,42.623481,12.232482,alpitronic GmbH,12855.581,379,8702.76,300.0,Civitella D'agliano,2436.32,3042.0,Lazio,0.0694
+IT*F2X*EF2XITA9051*1,Area di Servizio - Tevere Est,A1 - Autostrada del Sole,1021,42.623415,12.232488,EVTEC,1462.269,65,804.28,62.5,Civitella D'agliano,265.06,702.0,Lazio,0.0694
+IT*F2X*EF2XITA9051*2,Area di Servizio - Tevere Est,A1 - Autostrada del Sole,1021,42.623415,12.232488,EVTEC,177.779,13,97.78,62.5,Civitella D'agliano,51.88,176.0,Lazio,0.0694
+IT*F2X*EF2XITA3601*1,Area di Servizio - Cantagallo Ovest,A1 - Autostrada del Sole,40033,44.456131,11.279496,alpitronic GmbH,33468.572,961,22732.45,300.0,Casalecchio di Reno,8873.96,10200.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3601*2,Area di Servizio - Cantagallo Ovest,A1 - Autostrada del Sole,40033,44.456131,11.279496,alpitronic GmbH,38539.59199999995,1067,26215.92,300.0,Casalecchio di Reno,7189.91,8473.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3602*1,Area di Servizio - Cantagallo Ovest,A1 - Autostrada del Sole,40033,44.456098,11.279547,alpitronic GmbH,37646.449,1113,25642.99,300.0,Casalecchio di Reno,6985.44,8524.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3602*2,Area di Servizio - Cantagallo Ovest,A1 - Autostrada del Sole,40033,44.456098,11.279547,alpitronic GmbH,46941.02000000009,1327,31891.38,300.0,Casalecchio di Reno,7961.19,9791.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITO3502*1,Area di Servizio - Canne della Battaglia Est,Autostrada Adriatica,76123,41.251814,16.220104,alpitronic GmbH,21686.735999999968,687,14747.33,300.0,Andria,14528.19,17506.0,Puglia,0.0246
+IT*F2X*EF2XITO3502*2,Area di Servizio - Canne della Battaglia Est,Autostrada Adriatica,76123,41.251814,16.220104,alpitronic GmbH,24561.248000000025,695,16715.14,300.0,Andria,13941.66,17039.0,Puglia,0.0246
+IT*F2X*EF2XITA3651*1,Area di Servizio - Cantagallo Ovest,A1 - Autostrada del Sole,40033,44.456182,11.2795,EVTEC,4776.572,206,2629.17,62.5,Casalecchio di Reno,460.66,1068.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3651*2,Area di Servizio - Cantagallo Ovest,A1 - Autostrada del Sole,40033,44.456182,11.2795,EVTEC,797.01,42,438.34,62.5,Casalecchio di Reno,106.05,375.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3651*3,Area di Servizio - Cantagallo Ovest,A1 - Autostrada del Sole,40033,44.456182,11.2795,EVTEC,1472.7869999999996,250,663.7,22.0,Casalecchio di Reno,206.7,2893.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA9051*3,Area di Servizio - Tevere Est,A1 - Autostrada del Sole,1021,42.623415,12.232488,EVTEC,816.911,140,367.61,22.0,Civitella D'agliano,131.0,1874.0,Lazio,0.0694
+IT*F2X*EF2XITT0101*1,Area di Servizio - Antica Campana Est,A56 Ramo Capodichino,80078,40.837613,14.119611,UNKNOWN,6740.279000000001,285,4593.48,300.0,Pozzuoli,1759.35,3154.0,Campania,0.0206
+IT*F2X*EF2XITT0101*2,Area di Servizio - Antica Campana Est,A56 Ramo Capodichino,80078,40.837613,14.119611,UNKNOWN,7599.093000000005,283,5169.34,300.0,Pozzuoli,1589.48,2477.0,Campania,0.0206
+IT*F2X*EF2XITT0102*1,Area di Servizio - Antica Campana Est,A56 Ramo Capodichino,80078,40.837674,14.11955,UNKNOWN,12961.143999999991,452,8813.56,300.0,Pozzuoli,1959.74,3174.0,Campania,0.0206
+IT*F2X*EF2XITT0102*2,Area di Servizio - Antica Campana Est,A56 Ramo Capodichino,80078,40.837674,14.11955,UNKNOWN,4067.368,145,2747.06,,,,,Campania,0.0206
+IT*F2X*EF2XITT0151*1,Area di Servizio - Antica Campana Est,A56 Ramo Capodichino,80078,40.837704,14.119489,UNKNOWN,1090.755,61,599.88,62.5,Pozzuoli,65.89,148.0,Campania,0.0206
+IT*F2X*EF2XITT0151*2,Area di Servizio - Antica Campana Est,A56 Ramo Capodichino,80078,40.837704,14.119489,UNKNOWN,19.602,2,10.78,,,,,Campania,0.0206
+IT*F2X*EF2XITT0151*3,Area di Servizio - Antica Campana Est,A56 Ramo Capodichino,80078,40.837704,14.119489,UNKNOWN,877.7350000000002,156,391.79,22.0,Pozzuoli,31.44,295.0,Campania,0.0206
+IT*F2X*EF2XITM3001*1,Area di Servizio - Adige Est,"A13, Bologna - Padova",45023,45.041112,11.710366,alpitronic GmbH,10848.205999999996,395,7371.89,300.0,Costa di Rovigo,2426.9,3003.0,Veneto,0.062
+IT*F2X*EF2XITM3001*2,Area di Servizio - Adige Est,"A13, Bologna - Padova",45023,45.041112,11.710366,alpitronic GmbH,14299.227999999996,458,9723.39,300.0,Costa di Rovigo,2289.56,2707.0,Veneto,0.062
+IT*F2X*EF2XITM3002*1,Area di Servizio - Adige Est,"A13, Bologna - Padova",45023,45.041157,11.7104,alpitronic GmbH,11242.599000000006,408,7618.81,300.0,Costa di Rovigo,2065.13,2559.0,Veneto,0.062
+IT*F2X*EF2XITM3002*2,Area di Servizio - Adige Est,"A13, Bologna - Padova",45023,45.041157,11.7104,alpitronic GmbH,7026.506999999999,215,4778.06,300.0,Costa di Rovigo,1281.23,1550.0,Veneto,0.062
+IT*F2X*EF2XITM3051*1,Area di Servizio - Adige Est,"A13, Bologna - Padova",45023,45.041064,11.710312,EVTEC,833.642,55,458.49,62.5,Costa di Rovigo,60.04,200.0,Veneto,0.062
+IT*F2X*EF2XITM3051*2,Area di Servizio - Adige Est,"A13, Bologna - Padova",45023,45.041064,11.710312,EVTEC,180.176,15,99.1,62.5,Costa di Rovigo,35.36,154.0,Veneto,0.062
+IT*F2X*EF2XITM3051*3,Area di Servizio - Adige Est,"A13, Bologna - Padova",45023,45.041064,11.710312,EVTEC,157.69299999999998,41,70.96,22.0,Costa di Rovigo,13.78,171.0,Veneto,0.062
+IT*F2X*EF2XITM2051*1,Area di Servizio - Po Est,A13 Bologna - Padova,44121,44.879292,11.570791,EVTEC,2270.057000000001,111,1248.54,62.5,Ferrara,1473.52,3545.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITB4051*2,Area di Servizio - La Macchia Est,Autostrada del Sole,3012,41.686784,13.188454,EVTEC,690.8540000000002,41,379.96,62.5,Anagni,407.23,1414.0,Lazio,0.0694
+IT*F2X*EF2XITB4051*3,Area di Servizio - La Macchia Est,Autostrada del Sole,3012,41.686784,13.188454,EVTEC,1371.2279999999992,236,616.97,22.0,Anagni,546.48,6632.0,Lazio,0.0694
+IT*F2X*EF2XITM2051*2,Area di Servizio - Po Est,A13 Bologna - Padova,44121,44.879292,11.570791,EVTEC,430.862,26,236.99,62.5,Ferrara,295.3,1046.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2102*1,Area di Servizio - Arda Ovest,A1 - Autostrada del Sole,29017,44.96261,9.90443,alpitronic GmbH,51871.13599999994,1761,35378.35,300.0,Fiorenzuola d'Arda,39481.87,48009.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2102*2,Area di Servizio - Arda Ovest,A1 - Autostrada del Sole,29017,44.96261,9.90443,alpitronic GmbH,48168.4240000001,1509,33005.4,300.0,Fiorenzuola d'Arda,30645.08,39391.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITO3601*1,Area di Servizio - Canne della Battaglia Ovest,Autostrada Adriatica,76123,41.25078,16.218864,alpitronic GmbH,23049.708,686,15673.46,300.0,Andria,13690.86,15350.0,Puglia,0.0246
+IT*F2X*EF2XITO3601*2,Area di Servizio - Canne della Battaglia Ovest,Autostrada Adriatica,76123,41.25078,16.218864,alpitronic GmbH,14336.446,405,9749.43,300.0,Andria,9042.07,10409.0,Puglia,0.0246
+IT*F2X*EF2XITO3602*1,Area di Servizio - Canne della Battaglia Ovest,Autostrada Adriatica,76123,41.250745,16.21894,alpitronic GmbH,30582.787999999997,900,20782.17,300.0,Andria,21207.92,23582.0,Puglia,0.0246
+IT*F2X*EF2XITA2101*1,Area di Servizio - Arda Ovest,A1 - Autostrada del Sole,29017,44.96265,9.90435,alpitronic GmbH,40177.80800000003,1448,27315.66,300.0,Fiorenzuola d'Arda,27465.98,34087.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA2101*2,Area di Servizio - Arda Ovest,A1 - Autostrada del Sole,29017,44.96265,9.90435,alpitronic GmbH,40714.060000000034,1248,27670.29,300.0,Fiorenzuola d'Arda,23061.88,29697.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITO3602*2,Area di Servizio - Canne della Battaglia Ovest,Autostrada Adriatica,76123,41.250745,16.21894,alpitronic GmbH,27156.203999999972,789,18467.64,300.0,Andria,13240.93,14689.0,Puglia,0.0246
+IT*F2X*EF2XITM2151*1,Area di Servizio - Po Ovest,A13 Bologna - Padova,44121,44.880209,11.568843,EVTEC,2241.1719999999996,114,1232.6,62.5,Ferrara,820.55,2029.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2151*2,Area di Servizio - Po Ovest,A13 Bologna - Padova,44121,44.880209,11.568843,EVTEC,316.598,21,174.11,62.5,Ferrara,207.9,821.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM2151*3,Area di Servizio - Po Ovest,A13 Bologna - Padova,44121,44.880209,11.568843,EVTEC,717.0910000000001,115,322.69,22.0,Ferrara,254.4,3682.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITB4151*1,Area di Servizio - La Macchia Ovest,Autostrada del Sole,3012,41.686065,13.187462,EVTEC,6736.240999999999,342,3709.98,62.5,Anagni,2670.65,6595.0,Lazio,0.0694
+IT*F2X*EF2XITB4151*2,Area di Servizio - La Macchia Ovest,Autostrada del Sole,3012,41.686065,13.187462,EVTEC,594.4290000000001,48,326.91,62.5,Anagni,320.02,1213.0,Lazio,0.0694
+IT*F2X*EF2XITB4151*3,Area di Servizio - La Macchia Ovest,Autostrada del Sole,3012,41.686065,13.187462,EVTEC,1651.6509999999987,292,743.21,22.0,Anagni,694.75,10993.0,Lazio,0.0694
+IT*F2X*EF2XITZ9901*1,Area di Servizio - Arno Est,A1 - Autostrada del Sole,52027,43.58293,11.52257,alpitronic GmbH,37166.22399999998,1183,25250.5,300.0,San Giovanni Valdarno,28200.1,32558.0,Toscana,0.0877
+IT*F2X*EF2XITZ9901*2,Area di Servizio - Arno Est,A1 - Autostrada del Sole,52027,43.58293,11.52257,alpitronic GmbH,29822.651999999995,879,20229.28,300.0,San Giovanni Valdarno,17734.83,21085.0,Toscana,0.0877
+IT*F2X*EF2XITO4602*1,Area di Servizio - Murge Ovest,A14 - Autostrada Adriatica,70026,41.095284,16.768513,alpitronic GmbH,18433.512999999984,560,12532.75,,,,,Puglia,0.0246
+IT*F2X*EF2XITO4602*2,Area di Servizio - Murge Ovest,A14 - Autostrada Adriatica,70026,41.095284,16.768513,alpitronic GmbH,18068.758,529,12261.28,,,,,Puglia,0.0246
+IT*F2X*EF2XITA3101*1,Area di Servizio - Secchia Ovest,Autostrada del Sole,41123,44.661571,10.854928,alpitronic GmbH,54197.32799999999,1632,36863.33,400.0,Modena,27078.01,32700.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN0503*2,Area di Servizio - Pioppa Est,A14 - Autostrada Adriatica,40069,44.519363,11.214104,UNKNOWN,7493.817999999997,201,5106.53,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3101*2,Area di Servizio - Secchia Ovest,Autostrada del Sole,41123,44.661571,10.854928,alpitronic GmbH,83896.78100000003,2566,57022.21,400.0,Modena,29369.56,35696.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3102*1,Area di Servizio - Secchia Ovest,Autostrada del Sole,41123,44.661615,10.854808,alpitronic GmbH,95445.21999999991,3062,64974.67,400.0,Modena,38856.0,45704.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA3102*2,Area di Servizio - Secchia Ovest,Autostrada del Sole,41123,44.661615,10.854808,alpitronic GmbH,93694.91100000015,2805,63636.83,400.0,Modena,31713.43,37877.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITO4601*1,Area di Servizio - Murge Ovest,A14 - Autostrada Adriatica,70026,41.095542,16.768485,Wall Box Chargers,6460.654000000002,266,4393.24,150.0,Modugno,3257.69,4309.0,Puglia,0.0246
+IT*F2X*EF2XITO4601*2,Area di Servizio - Murge Ovest,A14 - Autostrada Adriatica,70026,41.095542,16.768485,Wall Box Chargers,8709.327999999994,337,5912.07,150.0,Modugno,4120.41,5564.0,Puglia,0.0246
+IT*F2X*EF2XITL2151*1,Area di Servizio - Tirreno Ovest,A12 civitavecchia - Roma,59,42.029539,11.962239,EVTEC,1865.5950000000005,106,1029.71,62.5,Tolfa,455.6,997.0,Lazio,0.0694
+IT*F2X*EF2XITL2151*2,Area di Servizio - Tirreno Ovest,A12 civitavecchia - Roma,59,42.029539,11.962239,EVTEC,176.55200000000002,12,97.11,62.5,Tolfa,46.53,143.0,Lazio,0.0694
+IT*F2X*EF2XITL2151*3,Area di Servizio - Tirreno Ovest,A12 civitavecchia - Roma,59,42.029539,11.962239,EVTEC,741.7890000000003,117,333.77,22.0,Tolfa,150.95,1924.0,Lazio,0.0694
+IT*F2X*EF2XITZ9951*1,Area di Servizio - Arno Est,A1 - Autostrada del Sole,52027,43.58295,11.52266,EVTEC,2877.247999999999,134,1582.44,62.5,San Giovanni Valdarno,1290.28,3188.0,Toscana,0.0877
+IT*F2X*EF2XITZ9951*2,Area di Servizio - Arno Est,A1 - Autostrada del Sole,52027,43.58295,11.52266,EVTEC,403.0230000000001,28,221.68,62.5,San Giovanni Valdarno,191.61,797.0,Toscana,0.0877
+IT*F2X*EF2XITZ9951*3,Area di Servizio - Arno Est,A1 - Autostrada del Sole,52027,43.58295,11.52266,EVTEC,970.2929999999996,172,436.62,22.0,San Giovanni Valdarno,360.6,6194.0,Toscana,0.0877
+IT*F2X*EF2XITA6651*1,Area di Servizio - Arno Ovest,A1 - Autostrada del Sole,52027,43.65027,11.46456,EVTEC,4849.004000000002,200,2677.93,62.5,Firenze,2474.01,5739.0,Toscana,0.0877
+IT*F2X*EF2XITA6651*2,Area di Servizio - Arno Ovest,A1 - Autostrada del Sole,52027,43.65027,11.46456,EVTEC,397.536,27,218.63,62.5,Firenze,258.85,936.0,Toscana,0.0877
+IT*F2X*EF2XITA6651*3,Area di Servizio - Arno Ovest,A1 - Autostrada del Sole,52027,43.65027,11.46456,EVTEC,1188.5439999999996,217,534.85,22.0,Firenze,479.85,7713.0,Toscana,0.0877
+IT*F2X*EF2XITA8603*1,Area di Servizio - Fabro Ovest,A1 - Autostrada del Sole,5015,42.876439,12.017409,alpitronic GmbH,3601.3459999999995,101,2449.07,,,,,Umbria,0.0385
+IT*F2X*EF2XITA8603*2,Area di Servizio - Fabro Ovest,A1 - Autostrada del Sole,5015,42.876439,12.017409,alpitronic GmbH,2637.8669999999993,80,1789.27,,,,,Umbria,0.0385
+IT*F2X*EF2XITA8604*1,Area di Servizio - Fabro Ovest,A1 - Autostrada del Sole,5015,42.876368,12.017454,alpitronic GmbH,1346.098,33,915.37,,,,,Umbria,0.0385
+IT*F2X*EF2XITA8604*2,Area di Servizio - Fabro Ovest,A1 - Autostrada del Sole,5015,42.876368,12.017454,alpitronic GmbH,2805.648,78,1908.17,,,,,Umbria,0.0385
+IT*F2X*EF2XITA6603*1,Area di Servizio - Arno Ovest,A1 - Autostrada del Sole,52027,43.650588,11.464456,alpitronic GmbH,1499.0500000000002,44,1021.3,,,,,Toscana,0.0877
+IT*F2X*EF2XITA6603*2,Area di Servizio - Arno Ovest,A1 - Autostrada del Sole,52027,43.650588,11.464456,alpitronic GmbH,3001.9979999999996,74,2041.35,,,,,Toscana,0.0877
+IT*F2X*EF2XITA6604*1,Area di Servizio - Arno Ovest,A1 - Autostrada del Sole,52027,43.650582,11.464407,alpitronic GmbH,2720.552999999999,74,1849.94,,,,,Toscana,0.0877
+IT*F2X*EF2XITA6604*2,Area di Servizio - Arno Ovest,A1 - Autostrada del Sole,52027,43.650582,11.464407,alpitronic GmbH,774.9479999999999,22,527.83,,,,,Toscana,0.0877
+IT*F2X*EF2XITZ9903*1,Area di Servizio - Arno Est,A1 - Autostrada del Sole,52027,43.582888,11.522525,alpitronic GmbH,2840.9640000000004,90,1931.83,,,,,Toscana,0.0877
+IT*F2X*EF2XITZ9903*2,Area di Servizio - Arno Est,A1 - Autostrada del Sole,52027,43.582888,11.522525,alpitronic GmbH,2670.8609999999994,75,1816.21,,,,,Toscana,0.0877
+IT*F2X*EF2XITZ9904*1,Area di Servizio - Arno Est,A1 - Autostrada del Sole,52027,43.582876,11.522547,alpitronic GmbH,1260.4540000000002,34,857.86,,,,,Toscana,0.0877
+IT*F2X*EF2XITZ9904*2,Area di Servizio - Arno Est,A1 - Autostrada del Sole,52027,43.582876,11.522547,alpitronic GmbH,1956.25,50,1331.59,,,,,Toscana,0.0877
+IT*F2X*EF2XITD2003*1,Area di Servizio - Brianza Nord,A4 Torino - Trieste,20864,45.575792,9.393822,alpitronic GmbH,1090.313,38,741.43,,,,,Lombardia,0.0767
+IT*F2X*EF2XITD2003*2,Area di Servizio - Brianza Nord,A4 Torino - Trieste,20864,45.575792,9.393822,alpitronic GmbH,1609.3920000000005,51,1096.61,,,,,Lombardia,0.0767
+IT*F2X*EF2XITD2004*1,Area di Servizio - Brianza Nord,A4 Torino - Trieste,20864,45.575796,9.393841,alpitronic GmbH,470.61000000000007,22,319.57,,,,,Lombardia,0.0767
+IT*F2X*EF2XITD2004*2,Area di Servizio - Brianza Nord,A4 Torino - Trieste,20864,45.575796,9.393841,alpitronic GmbH,0.0,0,0.0,,,,,Lombardia,0.0767
+IT*F2X*EF2XITM1151*1,Area di Servizio - Castel Bentivoglio Ovest,A13 Bologna - Padova,40010,44.622771,11.420098,EVTEC,948.5960000000002,41,522.19,62.5,Bologna,398.22,981.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM1151*2,Area di Servizio - Castel Bentivoglio Ovest,A13 Bologna - Padova,40010,44.622771,11.420098,EVTEC,329.49,23,181.23,62.5,Bologna,218.66,699.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITM1151*3,Area di Servizio - Castel Bentivoglio Ovest,A13 Bologna - Padova,40010,44.622771,11.420098,EVTEC,374.6670000000001,70,168.63,22.0,Bologna,123.93,1764.0,Emilia-Romagna,0.0661
+IT*F2X*EF2XITB4601*1,Area di Servizio - Casilina Ovest,Autostrada del Sole,3030,41.4969,13.683093,alpitronic GmbH,35462.94,1234,24130.05,300.0,Castrocielo,21330.68,27556.0,Lazio,0.0694
+IT*F2X*EF2XITX2151*1,Area di Servizio - Stura Ovest,A26 - Autostrada dei Trafori,15070,44.592173,8.664706,EVTEC,4725.557999999999,236,2599.03,62.5,Belforte Monferrato,1765.17,4143.0,Piemonte,0.0732
+IT*F2X*EF2XITX2151*2,Area di Servizio - Stura Ovest,A26 - Autostrada dei Trafori,15070,44.592173,8.664706,EVTEC,626.065,41,344.32,62.5,Belforte Monferrato,325.98,1140.0,Piemonte,0.0732
+IT*F2X*EF2XITX2151*3,Area di Servizio - Stura Ovest,A26 - Autostrada dei Trafori,15070,44.592173,8.664706,EVTEC,1133.9160000000002,167,510.28,22.0,Belforte Monferrato,346.35,4215.0,Piemonte,0.0732
+IT*F2X*EF2XITB4601*2,Area di Servizio - Casilina Ovest,Autostrada del Sole,3030,41.4969,13.683093,alpitronic GmbH,19508.029999999977,667,13264.22,300.0,Castrocielo,11433.29,14940.0,Lazio,0.0694
+IT*F2X*EF2XITLINC01*1,Aeroporto - Linate Commerciale,Aeroporto Linate Commerciale,20090,45.461856,9.276363,alpitronic GmbH,29871.53199999999,1013,20900.52,300.0,Milano,23195.12,40616.0,Piemonte,0.0732
+IT*F2X*EF2XITLINC01*2,Aeroporto - Linate Commerciale,Aeroporto Linate Commerciale,20090,45.461856,9.276363,alpitronic GmbH,51289.09600000015,1912,35759.04,300.0,Milano,36536.11,67629.0,Piemonte,0.0732
+IT*F2X*EF2XITLINC02*1,Aeroporto - Linate Commerciale,Aeroporto Linate Commerciale,20090,45.461861,9.276267,alpitronic GmbH,31527.155999999966,1088,21807.35,300.0,Milano,25188.38,42689.0,Piemonte,0.0732
+IT*F2X*EF2XITLINC02*2,Aeroporto - Linate Commerciale,Aeroporto Linate Commerciale,20090,45.461861,9.276267,alpitronic GmbH,48649.72799999999,1757,33994.86,300.0,Milano,32885.94,62985.0,Piemonte,0.0732
+IT*F2X*EF2XITLINC04*1,Aeroporto - Linate Commerciale,Aeroporto Linate Commerciale,20090,45.461869,9.27606,alpitronic GmbH,24861.043999999987,846,17508.4,300.0,Milano,20906.01,36567.0,Piemonte,0.0732
+IT*F2X*EF2XITLINC04*2,Aeroporto - Linate Commerciale,Aeroporto Linate Commerciale,20090,45.461869,9.27606,alpitronic GmbH,38533.21599999997,1480,27204.62,300.0,Milano,31627.98,58964.0,Piemonte,0.0732
+IT*F2X*EF2XITA5503*1,Area di Servizio - Firenze Nord,Sesto Fiorentino,50019,43.831805,11.160038,alpitronic GmbH,1981.0979999999993,58,1347.18,,,,,Toscana,0.0877
+IT*F2X*EF2XITA5503*2,Area di Servizio - Firenze Nord,Sesto Fiorentino,50019,43.831805,11.160038,alpitronic GmbH,2529.572,65,1720.11,,,,,Toscana,0.0877
+IT*F2X*EF2XITA5504*1,Area di Servizio - Firenze Nord,Sesto Fiorentino,50019,43.831807,11.159944,alpitronic GmbH,2269.437,61,1543.23,,,,,Toscana,0.0877
+IT*F2X*EF2XITA5504*2,Area di Servizio - Firenze Nord,Sesto Fiorentino,50019,43.831807,11.159944,alpitronic GmbH,3675.039000000002,96,2499.03,,,,,Toscana,0.0877
+IT*F2X*EF2XITN1003*1,Area di Servizio - Sillaro Est,A14 - Autostrada Adriatica,40024,44.429238,11.600258,alpitronic GmbH,1404.4319999999998,39,955.01,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1003*2,Area di Servizio - Sillaro Est,A14 - Autostrada Adriatica,40024,44.429238,11.600258,alpitronic GmbH,2555.301,66,1737.56,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1004*1,Area di Servizio - Sillaro Est,A14 - Autostrada Adriatica,40024,44.429191,11.600233,alpitronic GmbH,2674.9509999999996,82,1819.73,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITN1004*2,Area di Servizio - Sillaro Est,A14 - Autostrada Adriatica,40024,44.429191,11.600233,alpitronic GmbH,2111.3370000000004,60,1436.78,,,,,Emilia-Romagna,0.0661
+IT*F2X*EF2XITA8503*1,Area di Servizio - Fabro Est,A1 - Autostrada del Sole,5015,42.87604,12.019031,alpitronic GmbH,1672.7469999999994,47,1138.81,,,,,Umbria,0.0385
+IT*F2X*EF2XITA8503*2,Area di Servizio - Fabro Est,A1 - Autostrada del Sole,5015,42.87604,12.019031,alpitronic GmbH,2097.623,51,1426.39,,,,,Umbria,0.0385
+IT*F2X*EF2XITMXPP51*1,Aeroporto - Malpensa Prime,Aeroporto Milano Malpensa PRIME,21019,45.636198,8.712838,FIMER SPA,66.792,15,30.05,22.0,Somma Lombardo,57.21,892.0,Lombardia,0.0767
+IT*F2X*EF2XITMXPP51*2,Aeroporto - Malpensa Prime,Aeroporto Milano Malpensa PRIME,21019,45.636198,8.712838,FIMER SPA,46.331999999999994,8,20.84,22.0,Somma Lombardo,39.64,2336.0,Lombardia,0.0767
+IT*F2X*EF2XITB4003*1,Area di Servizio - La Macchia Est,Autostrada del Sole,3012,41.68651,13.18873,alpitronic GmbH,2501.4169999999995,92,1701.05,,,,,Lazio,0.0694
+IT*F2X*EF2XITB4003*2,Area di Servizio - La Macchia Est,Autostrada del Sole,3012,41.68651,13.18873,alpitronic GmbH,2500.243,81,1685.04,,,,,Lazio,0.0694
+IT*F2X*EF2XITB4004*1,Area di Servizio - La Macchia Est,Autostrada del Sole,3012,41.686475,13.188683,alpitronic GmbH,7081.792999999995,213,4804.95,,,,,Lazio,0.0694
+IT*F2X*EF2XITB4004*2,Area di Servizio - La Macchia Est,Autostrada del Sole,3012,41.686475,13.188683,alpitronic GmbH,4473.566000000002,135,3061.84,,,,,Lazio,0.0694
+IT*F2X*EF2XITB4103*1,Area di Servizio - La Macchia Ovest,Autostrada del Sole,3012,41.68595,13.18764,alpitronic GmbH,3390.3209999999976,110,2262.53,,,,,Lazio,0.0694
+IT*F2X*EF2XITB4103*2,Area di Servizio - La Macchia Ovest,Autostrada del Sole,3012,41.68595,13.18764,alpitronic GmbH,1641.4199999999998,50,1089.42,,,,,Lazio,0.0694
+IT*F2X*EF2XITB4104*1,Area di Servizio - La Macchia Ovest,Autostrada del Sole,3012,41.685892,13.187719,alpitronic GmbH,1820.0149999999996,58,1206.91,,,,,Lazio,0.0694
+IT*F2X*EF2XITB4104*2,Area di Servizio - La Macchia Ovest,Autostrada del Sole,3012,41.685892,13.187719,alpitronic GmbH,509.8620000000001,22,321.79,,,,,Lazio,0.0694
+IT*F2X*EF2XITMXPP01*1,Aeroporto - Malpensa Prime,Aeroporto Milano Malpensa PRIME,21019,45.636207,8.712917,alpitronic GmbH,6363.384000000002,247,4327.47,150.0,Somma Lombardo,2839.98,4872.0,Lombardia,0.0767
+IT*F2X*EF2XITMXPP01*2,Aeroporto - Malpensa Prime,Aeroporto Milano Malpensa PRIME,21019,45.636207,8.712917,alpitronic GmbH,4522.526,169,3085.67,150.0,Somma Lombardo,1174.28,1976.0,Lombardia,0.0767
+IT*F2X*EF2XITP4151*2,Area di Servizio - Calaggio Sud,A16 Autostrada dei due Mari,83059,41.064668,15.314502,EVTEC,72.498,7,39.87,62.5,Vallata,123.87,510.0,Campania,0.0206
+IT*F2X*EF2XITP4151*3,Area di Servizio - Calaggio Sud,A16 Autostrada dei due Mari,83059,41.064668,15.314502,EVTEC,311.85899999999987,52,140.38,22.0,Vallata,160.08,2228.0,Campania,0.0206
+IT*F2X*EF2XITB5701*1,Area di Servizio - Cittadella,A1 - Autostrada del Sole,80026,40.885732,14.316923,UNKNOWN,1638.0500000000004,58,1107.05,300.0,Casoria,240.49,395.0,Campania,0.0206
+IT*F2X*EF2XITB5701*2,Area di Servizio - Cittadella,A1 - Autostrada del Sole,80026,40.885732,14.316923,UNKNOWN,3273.4009999999994,108,2269.59,300.0,Casoria,309.01,344.0,Campania,0.0206
+IT*F2X*EF2XITB5702*1,Area di Servizio - Cittadella,A1 - Autostrada del Sole,80026,40.885796,14.316911,alpitronic GmbH,7801.737000000001,265,5303.54,300.0,Casoria,733.46,825.0,Campania,0.0206
+IT*F2X*EF2XITB5702*2,Area di Servizio - Cittadella,A1 - Autostrada del Sole,80026,40.885796,14.316911,alpitronic GmbH,9499.569000000003,295,6453.0,300.0,Casoria,1092.0,1473.0,Campania,0.0206
+IT*F2X*EF2XITB5751*1,Area di Servizio - Cittadella,A1 - Autostrada del Sole,80026,40.885845,14.316871,UNKNOWN,834.2180000000001,41,458.53,62.5,Casoria,100.09,291.0,Campania,0.0206
+IT*F2X*EF2XITB5751*2,Area di Servizio - Cittadella,A1 - Autostrada del Sole,80026,40.885845,14.316871,UNKNOWN,79.95400000000001,7,43.98,62.5,Casoria,5.32,23.0,Campania,0.0206
+IT*F2X*EF2XITB5751*3,Area di Servizio - Cittadella,A1 - Autostrada del Sole,80026,40.885845,14.316871,UNKNOWN,264.85499999999996,56,118.86,22.0,Casoria,37.83,795.0,Campania,0.0206
+IT*F2X*EF2XITP4051*1,Area di Servizio - Calaggio Nord,A16 Autostrada dei due Mari,83059,41.06671,15.315796,EVTEC,1866.323,77,1026.8,62.5,Vallata,632.0,1475.0,Campania,0.0206
+IT*F2X*EF2XITT0201*1,Area di Servizio - Doganella Ovest,A56,80144,40.873302,14.279745,alpitronic GmbH,33646.35800000001,1109,24531.43,300.0,Napoli,17183.98,32900.0,Campania,0.0206
+IT*F2X*EF2XITT0201*2,Area di Servizio - Doganella Ovest,A56,80144,40.873302,14.279745,alpitronic GmbH,27428.265000000025,880,20033.45,300.0,Napoli,12501.31,26058.0,Campania,0.0206
+IT*F2X*EF2XITT0202*1,Area di Servizio - Doganella Ovest,A56,80144,40.873302,14.279745,alpitronic GmbH,29081.897000000008,952,21343.86,300.0,Napoli,14346.11,28420.0,Campania,0.0206
+IT*F2X*EF2XITP4051*2,Area di Servizio - Calaggio Nord,A16 Autostrada dei due Mari,83059,41.06671,15.315796,EVTEC,253.909,10,139.65,62.5,Vallata,202.03,796.0,Campania,0.0206
+IT*F2X*EF2XITT0202*2,Area di Servizio - Doganella Ovest,A56,80144,40.873302,14.279745,alpitronic GmbH,28627.90699999998,933,21335.52,300.0,Napoli,12267.54,25899.0,Campania,0.0206
+IT*F2X*EF2XITO2001*1,Area di Servizio - Gargano Est,A14 - Autostrada Adriatica,71100,41.591279,15.5017,alpitronic GmbH,8949.050999999998,255,6076.75,300.0,Foggia,213.57,310.0,Puglia,0.0246
+IT*F2X*EF2XITO2001*2,Area di Servizio - Gargano Est,A14 - Autostrada Adriatica,71100,41.591279,15.5017,alpitronic GmbH,9164.876000000006,242,6228.9,300.0,Foggia,214.96,259.0,Puglia,0.0246
+IT*F2X*EF2XITO2002*1,Area di Servizio - Gargano Est,A14 - Autostrada Adriatica,71100,41.591304,15.501731,alpitronic GmbH,13323.486999999996,374,9075.89,300.0,Foggia,428.28,464.0,Puglia,0.0246
+IT*F2X*EF2XITP4051*3,Area di Servizio - Calaggio Nord,A16 Autostrada dei due Mari,83059,41.06671,15.315796,EVTEC,724.9750000000004,84,326.4,22.0,Vallata,262.61,2703.0,Campania,0.0206
+IT*F2X*EF2XITO2002*2,Area di Servizio - Gargano Est,A14 - Autostrada Adriatica,71100,41.591304,15.501731,alpitronic GmbH,8754.635,242,5949.65,300.0,Foggia,247.1,325.0,Puglia,0.0246
+IT*F2X*EF2XITO2051*1,Area di Servizio - Gargano Est,A14 - Autostrada Adriatica,71100,41.591331,15.501649,EVTEC,996.0340000000002,45,547.22,62.5,Foggia,0.0,5.0,Puglia,0.0246
+IT*F2X*EF2XITO2051*2,Area di Servizio - Gargano Est,A14 - Autostrada Adriatica,71100,41.591331,15.501649,EVTEC,99.18,6,54.55,,,,,Puglia,0.0246
+IT*F2X*EF2XITO2051*3,Area di Servizio - Gargano Est,A14 - Autostrada Adriatica,71100,41.591331,15.501649,EVTEC,116.77,44,52.22,22.0,Foggia,0.81,33.0,Puglia,0.0246
+IT*F2X*EF2XITO2101*1,Area di Servizio - Gargano Ovest,A14 - Autostrada Adriatica,71121,41.590938,15.500337,alpitronic GmbH,11349.065,349,7698.27,300.0,Foggia,1080.77,1220.0,Puglia,0.0246
+IT*F2X*EF2XITO2101*2,Area di Servizio - Gargano Ovest,A14 - Autostrada Adriatica,71121,41.590938,15.500337,alpitronic GmbH,12673.96499999999,354,8614.89,300.0,Foggia,1552.06,1733.0,Puglia,0.0246
+IT*F2X*EF2XITO2102*1,Area di Servizio - Gargano Ovest,A14 - Autostrada Adriatica,71121,41.590956,15.500268,alpitronic GmbH,12392.087000000009,368,8406.4,300.0,Foggia,1747.11,2034.0,Puglia,0.0246
+IT*F2X*EF2XITO2102*2,Area di Servizio - Gargano Ovest,A14 - Autostrada Adriatica,71121,41.590956,15.500268,alpitronic GmbH,8366.163999999999,227,5691.13,300.0,Foggia,964.08,1121.0,Puglia,0.0246
+IT*F2X*EF2XITJ3051*1,Area di Servizio - Aurelia Sud,Autostrada dei fiori,17100,44.28765,8.440903,EVTEC,2849.2399999999993,120,1568.88,62.5,Savona,1278.17,2904.0,Liguria,0.0664
+IT*F2X*EF2XITJ3051*2,Area di Servizio - Aurelia Sud,Autostrada dei fiori,17100,44.28765,8.440903,EVTEC,511.734,35,281.47,62.5,Savona,219.61,926.0,Liguria,0.0664
+IT*F2X*EF2XITJ3051*3,Area di Servizio - Aurelia Sud,Autostrada dei fiori,17100,44.28765,8.440903,EVTEC,894.9170000000001,103,402.73,22.0,Savona,303.65,5510.0,Liguria,0.0664
+IT*F2X*EF2XITL9151*1,Area di Servizio - Sant'Ilario Sud,A12 Autostrada Azzurra,16167,44.392512,9.044875,EVTEC,3111.1559999999995,160,1711.18,62.5,Genova,1196.65,2767.0,Liguria,0.0664
+IT*F2X*EF2XITL9151*2,Area di Servizio - Sant'Ilario Sud,A12 Autostrada Azzurra,16167,44.392512,9.044875,EVTEC,222.701,14,122.48,62.5,Genova,144.17,516.0,Liguria,0.0664
+IT*F2X*EF2XITL9151*3,Area di Servizio - Sant'Ilario Sud,A12 Autostrada Azzurra,16167,44.392512,9.044875,EVTEC,669.2580000000003,115,301.23,22.0,Genova,200.7,2849.0,Liguria,0.0664
+IT*F2X*EF2XITL9051*1,Area di Servizio - Sant'Ilario Nord,A12 Autostrada Azzurra,16167,44.393366,9.046565,EVTEC,3019.836,134,1660.95,62.5,Genova,957.22,2184.0,Liguria,0.0664
+IT*F2X*EF2XITL9051*2,Area di Servizio - Sant'Ilario Nord,A12 Autostrada Azzurra,16167,44.393366,9.046565,EVTEC,582.9279999999999,35,320.61,62.5,Genova,200.0,836.0,Liguria,0.0664
+IT*F2X*EF2XITL9051*3,Area di Servizio - Sant'Ilario Nord,A12 Autostrada Azzurra,16167,44.393366,9.046565,EVTEC,610.2460000000001,121,274.62,22.0,Genova,224.38,2848.0,Liguria,0.0664
