@@ -6,4 +6,4 @@
 2. **data_integration.py**:
    qui abbiamo l'integration con le regioni e la popolazione. sono state droppate molte colonne e fatto tanti merge. Alcuni missing values sono stati trattati visto che nel merge non coincidevano il numero di colonnine.
    Alla fine dello script creo un nuovo dataset chiamato "task_2_df.csv", se runni il codice te lo crea direttamente nella cartella chiamata data.
-   RICORDATI DI CAMBIARE I PATH (IL DATASET INIZIALE è il pdr_preprocessed con i diversi delle regioni)
+   RICORDATI DI CAMBIARE I PATH (IL DATASET INIZIALE è il pdr_preprocessed con i diversi delle regioni). MANCA come dataset cdr_preprocessed che era troppo grande da pushare, mettilo dentro la cartella data E NON LO PUSHARE IN FUTUROOOOOOOOOO.
