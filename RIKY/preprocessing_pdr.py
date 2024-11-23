@@ -242,7 +242,7 @@ print("Numero di ricariche per ciascun anno e mese:")
 print(dati_per_anno_mese)
 
 
-data_no_null.to_csv('pdr_processed.csv', index=False)
+data_no_null.to_csv('RIKY/data/pdr_processed.csv', index=False)
 
 
 
