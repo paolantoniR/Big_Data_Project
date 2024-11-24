@@ -6,7 +6,7 @@ import ast
 import folium
 #import geopandas as gpd
 
-df  = pd.read_csv('RIKY/data/task_2_df.csv')
+df = pd.read_csv('RIKY/data/task_2_df.csv')
 macchine = pd.read_csv('RIKY/data/valori_macchine_elettriche.csv').drop(columns=['Unnamed: 0'], axis=1)
 
 

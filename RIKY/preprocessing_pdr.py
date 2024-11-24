@@ -5,7 +5,7 @@ import matplotlib.colors as mcolors
 import seaborn as sns
 import folium
 
-data = pd.read_csv('dataset/full/pdr_locations.csv')
+data = pd.read_csv('RIKY/data/pdr_locations.csv')
 
 data.shape
 
@@ -28,7 +28,7 @@ plt.title("Distribution of Null Values in PDR before dropping null columns")
 plt.ylabel('Observations')
 plt.xlabel('Variables')
 plt.tight_layout()
-plt.savefig('plots/null_values_before_dropping.png', dpi=600)
+#plt.savefig('plots/null_values_before_dropping.png', dpi=600)
 plt.show()
 
 
@@ -53,7 +53,7 @@ plt.title("Distribution of Null Values in PDR before dropping null columns")
 plt.ylabel('Observations')
 plt.xlabel('Variables')
 plt.tight_layout()
-plt.savefig('plots/null_values_before_dropping.png', dpi=600)
+#plt.savefig('plots/null_values_before_dropping.png', dpi=600)
 plt.show()
 
 null_columns_list = data_no_null.columns[data_no_null.isnull().any()] # columns that still contain null values
